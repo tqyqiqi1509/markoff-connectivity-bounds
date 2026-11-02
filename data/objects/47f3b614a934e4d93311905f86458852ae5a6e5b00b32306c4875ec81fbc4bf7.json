@@ -1,0 +1,45 @@
+{
+  "status": "passed_exact_integer_identity_and_independent_modular_crosscheck",
+  "d": 121,
+  "nd": 484,
+  "shape": [
+    550,
+    482
+  ],
+  "inputs": {
+    "candidate": {
+      "path": "agents/resumable_exact_determinants/d121_one_cofactor_v2_certificate.json",
+      "sha256": "0b820d74df5c2dafaaeae35bf27d8e68b24a89a0041eb6c43b50bf13c7d27ff0"
+    },
+    "source": {
+      "path": "agents/computational_mechanisms/stream_d121_matrix.json",
+      "sha256": "226a2fc94c818d396224829a5f4b1f7717efbef5d950a7eaee53da06c574945c"
+    },
+    "base": {
+      "path": "agents/computational_mechanisms/stream_d121_minors_checkpoint.json",
+      "sha256": "92f4ce10f0f3c31f3830e31399eafbea55f51a01b9e411dd919e7c57e0804cd0"
+    },
+    "solve": {
+      "path": "agents/resumable_exact_determinants/d121_one_cofactor_v2_solve.json",
+      "sha256": "0b985cc87eab5246fcb694949eda724c5cc7d23048466410ba147fc19549013d"
+    },
+    "crt": {
+      "path": "agents/resumable_exact_determinants/d121_crt_snapshot_for_cofactor_crosscheck.json",
+      "sha256": "a42c1f495d58796ba01046092a45e0d4c47ebd2827c23cf60a1ace30df9af5b5"
+    }
+  },
+  "exact_equation": "A Q = D e_i",
+  "exact_rows_checked": 482,
+  "primitive_QD": true,
+  "denominator_divides_base_determinant": true,
+  "replacement_determinants_verified": 1,
+  "rough_gcd": "1",
+  "independent_proth_moduli": 4416,
+  "crt_modulus_bits": 269375,
+  "crt_hadamard_bound_bits": 687114,
+  "crt_still_partial_not_an_exact_determinant_certificate": true,
+  "arithmetic_engine": "FLINT exact integer multiplication/addition; separate modular determinant records",
+  "base_determinant_imported_not_recomputed": true,
+  "elapsed_seconds": 95.34673195899995,
+  "finished_utc": "2026-10-31T20:00:30.749919+00:00"
+}

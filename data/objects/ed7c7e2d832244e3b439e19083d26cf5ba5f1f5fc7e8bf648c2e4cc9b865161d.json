@@ -1,0 +1,22 @@
+{
+  "created_utc": "2026-10-31T21:38:00.629980+00:00",
+  "stop_method": "Original exec session72854 received control-C through write_stdin; returned exit130",
+  "process_observations": {
+    "179188": {
+      "exists": false
+    },
+    "179197": {
+      "exists": false
+    }
+  },
+  "earlier_signal_attempt_correction": "Each exec has a distinct PID namespace. A NSpid tail read from another exec must not be used for os.kill/pidfd in this exec; earlier request produced no target stop. No cross-session namespace PID technique is retained.",
+  "original_guard_status_file": "May retain last running snapshot because original exec was interrupted",
+  "last_CRT_status": "partial_not_a_certificate",
+  "last_CRT_records": 9568,
+  "last_CRT_modulus_bits": 583643,
+  "last_CRT_sha256": "f7bf41a813716b8241cf12acdf7a88432befdf7664632750d5ac4008d780107b",
+  "all_recorded_residues_match_certified_integer": true,
+  "classical_proof_sha256": "02af11766380dfd6d50a8d235141a077684f58c72ef618edf5d33f95ddec3bfb",
+  "new_modular_determinants_recomputed": false,
+  "unfactored_full_CRT_reconstruction_claimed": false
+}

@@ -1,0 +1,20 @@
+{
+  "d": 127,
+  "nd": 508,
+  "matrix_file": "stream_d127_matrix.json",
+  "matrix_sha256": "a31a51e4e7308c7a95dd9f90eaa76868348cf769ef57b4cf267b4d0dda5e7441",
+  "shape": [
+    630,
+    506
+  ],
+  "status": "certified_no_exception_p_above_bound",
+  "rough_gcd": "1",
+  "certificate_method": "codimension_one",
+  "codimension_one_certificate_file": "codim_d127_certificate.json",
+  "codimension_one_certificate_sha256": "240aee563e2524be4b3e6d84ca9f5ee2d23e88141c8e7bd8fc3cf06181169d5f",
+  "finalization_seconds": 1118.2026042938232,
+  "created_utc": "2026-10-31T21:21:02.324286+00:00",
+  "source_runtime_metrics_file": "../../results/source_runtime_metrics_d127.json",
+  "source_runtime_metrics_sha256": "65bd3486a7aef40d76082e0e8c874921c1c828de7e5a0487765dc3a7db4fd3c2",
+  "candidate_provenance": "Root-owned direct codimension-one process completed. Outside production selector until independent source and witness audit."
+}

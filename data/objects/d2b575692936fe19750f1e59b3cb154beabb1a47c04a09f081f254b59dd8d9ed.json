@@ -1,0 +1,47 @@
+{
+  "status": "passed_all_exact_python_integer_witness_checks",
+  "created_utc": "2026-10-31T21:37:03.423460+00:00",
+  "d": 125,
+  "nd": 500,
+  "shape": [
+    500,
+    498
+  ],
+  "exact_equation": "A Q = D e_i",
+  "all_equations_checked": 498,
+  "primitive_QD_checked": true,
+  "denominator_divides_imported_base_determinant": true,
+  "replacement_checks": [
+    {
+      "replacement_row": 498,
+      "exact_formula_checked": true,
+      "determinant_decimal_digits": 104378
+    }
+  ],
+  "rough_gcd": "1",
+  "arithmetic_engine": "Python arbitrary-precision integers; no FLINT import",
+  "inputs": {
+    "candidate": {
+      "file": "agents/divisor_assisted_crt/d125_one_cofactor_v2_candidate.json",
+      "sha256": "e2de9390ee2cd619696427537de6d727bd48e48a8a2e587380a5599232c4dec8"
+    },
+    "source": {
+      "file": "agents/computational_mechanisms/stream_d125_matrix.json",
+      "sha256": "38d0f6378052cb99b03a1f9951c075fbc1f10c8b285ba92936d830589de9f0a4"
+    },
+    "base": {
+      "file": "agents/divisor_assisted_crt/d125_frozen_base_minors.json",
+      "sha256": "3ebceb0fc2168bfa369fe5ee0cfb496bbcce4f1ce6a38a288f1aa1097dce484a"
+    },
+    "solve": {
+      "file": "agents/divisor_assisted_crt/d125_attached_v2_solve.json",
+      "sha256": "a4608a6449b93f4a457c6576b6e26066db2ef1dfe462bb8c07eec27e8d7a6608"
+    }
+  },
+  "base_determinant_recomputed": false,
+  "source_rows_regenerated": false,
+  "modular_crosscheck_performed_by_this_script": false,
+  "historical_inputs_modified": false,
+  "elapsed_seconds": 148.63556485899971,
+  "verifier_sha256": "01a3f8ec4b0a7c33ce0ee3d4339e8d3c78fde983ea72cbd0c310d08fc2934415"
+}

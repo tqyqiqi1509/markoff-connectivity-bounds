@@ -1,0 +1,26 @@
+{
+  "status": "UNIVERSAL_CERTIFICATE_INDEPENDENTLY_VERIFIED",
+  "d": 139,
+  "N": 556,
+  "bound": 1112,
+  "created_utc": "2026-11-01T10:44:19.746695+00:00",
+  "source_sha256": "3304a831905464019326ca88ffb0ac50c439a4c54c1c09f2586b872204eedc89",
+  "certificate_sha256": "988933fc505328cea156b6ff5c7892db2cfeacc5e289acf01fc92c6f317104b7",
+  "verifier_sha256": "b7f0ec03ab61b29e2976172722b8af022d2f43c332eed92db7989cfb62c5c424",
+  "all_raw_rows_reconstructed_and_normalizations_checked": true,
+  "primitive_lower_kernel_verified": true,
+  "lower_maximal_minor_gcd_smooth": true,
+  "top_integer_system_verified_after_common_denominator": true,
+  "residual_rough_gcd_one": true,
+  "integer_determinants_verified_by_explicit_modular_bound": true,
+  "shared_arithmetic_backend": "FLINT; producer fmpz_mat integer determinant, verifier nmod_mat field determinants. Separate certificate logic and integer bounds; not advertised as independent implementations of every arithmetic operation.",
+  "proth_prime_proof": "q=k*2^32+1<2^64, k odd, a^((q-1)/2)=-1 mod q implies every prime divisor r of q is 1 mod 2^32 and hence exceeds sqrt(q), so q is prime.",
+  "journal_file": "d139_modular_det_journal.jsonl",
+  "journal_sha256": "f1c376df9bd8b9a3f17f8c24dc0efb53a60c90c34ce7cddfe8a8de84496df500",
+  "proven_moduli_count": 8337,
+  "checks_per_matrix": {
+    "lower": 8337,
+    "top": 7117
+  },
+  "elapsed_seconds": 1585.2864876060012
+}

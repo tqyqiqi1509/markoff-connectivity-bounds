@@ -1,0 +1,10 @@
+{
+  "d": 167,
+  "N": 668,
+  "source_code": {
+    "phi_stream_selected.cpp": "bc0724e42b707c7a269c70b89299013c0cbeb35751f982ba82b9834fb6cdb8d2",
+    "phi_stream_partitioned.cpp": "011f27ee78cc2a8ba105429c5b48ab18e58da6a1e538c1e04ff2df87f2e4d851"
+  },
+  "driver_sha256": "aa4bafa96d65e42b197953e067a416523dada7b4f41e2f3ca98f10239aed2f7a",
+  "purpose": "Pointwise source preparation only; no uniform d criterion or finite interval asserted."
+}

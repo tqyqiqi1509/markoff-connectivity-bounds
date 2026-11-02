@@ -1,0 +1,104 @@
+{
+  "status": "FROZEN_PRODUCER_ARTIFACTS_PENDING_ROOT_REVIEW",
+  "completed_utc": "2026-11-01T12:51:51.832039+00:00",
+  "root_relative_directory": "agents/gaussian_fixed_tail_certificate_round34",
+  "producer_status": "PASS_FIXED_GAUSSIAN_TRACE_ALL_PRIMES_EXPONENTS_FREQUENCIES_VARIANCES_PENDING_ROOT_REVIEW",
+  "original_predecessor_fingerprints_rechecked": 24,
+  "files": [
+    {
+      "path": "EULER_FREQUENCY_CERTIFICATE.json",
+      "bytes": 9791159,
+      "sha256": "0bfce18d9fbe285fd4bd4334c5c0d477b954d5206497a2ac392119f6f8a4c656"
+    },
+    {
+      "path": "EXACT_STRUCTURE_CHECK.json",
+      "bytes": 1116,
+      "sha256": "eb8fd9badca4a0e7d8862beb267a884b84f693b5d520cfe6f3f21d7b97dfa9db"
+    },
+    {
+      "path": "FAILURE_LOG.json",
+      "bytes": 681,
+      "sha256": "681033e3d4230a04a6066b189ec99d672e091376affe3e39e46b59215bf6a7bb"
+    },
+    {
+      "path": "FIXED_GAUSSIAN_TRACE_CERTIFICATE.json",
+      "bytes": 9388316,
+      "sha256": "bee58c98d81c4711444ae14aad26fa37912b256caf270e11efb92cf37c043263"
+    },
+    {
+      "path": "FIXED_GAUSSIAN_TRACE_PROOF.md",
+      "bytes": 14563,
+      "sha256": "da41b62978fc15a6e1a3d2522bdc3902d38afccb105613107c8d83db8e2799db"
+    },
+    {
+      "path": "FIXED_PARAMETER_GATES.json",
+      "bytes": 4943,
+      "sha256": "c798ae899a6a3143a8e2735ac1deddbfba0335b12af62e6b278d572af5f368fe"
+    },
+    {
+      "path": "FREQUENCY_PROGRESS.jsonl",
+      "bytes": 36235,
+      "sha256": "a366ad699c5eae63209b8ddcb4c347ae607832344a8879057855db125db41b70"
+    },
+    {
+      "path": "HANDOVER.md",
+      "bytes": 4796,
+      "sha256": "df90dab798493b2bc121771533b609cc797971f1083cb5b13389c4077057f1ce"
+    },
+    {
+      "path": "PRESERVED_FAILURE_AND_DIAGNOSTIC_HISTORY.json",
+      "bytes": 6115,
+      "sha256": "dfb7caf4c05e6484f474f85f589d1aaeeddd5f80b7698ec81facd97886f29470"
+    },
+    {
+      "path": "PRODUCER_RUN.log",
+      "bytes": 9475,
+      "sha256": "b28e4a58a69dd73d309cadb83b24ecebb88201d95a433fba3b795128670449b6"
+    },
+    {
+      "path": "READING_LEDGER.json",
+      "bytes": 8611,
+      "sha256": "ac45c4badcb3e2ae1145aa7cf3c45ef06942e846a9bb428bd5b378ce0286afe1"
+    },
+    {
+      "path": "REPLAY_INTERFACE.md",
+      "bytes": 3599,
+      "sha256": "e656e0fe4f9a895258d8eb0f66038589d2422760fa6d7f4d14a0a2993ff1b9c0"
+    },
+    {
+      "path": "SCOPE_CHANGE_RECORD.json",
+      "bytes": 1013,
+      "sha256": "5c6ef741f9f97e762b9b037f7aff690ea0811b8a9394040f8c58227566d69e18"
+    },
+    {
+      "path": "VARIANCE_PROGRESS.jsonl",
+      "bytes": 527235,
+      "sha256": "5441fbe69048ce85c3a21481fa95707546ed224e620f082f0af7d68839e49389"
+    },
+    {
+      "path": "WOLFRAM_CONTEXT_FAILURE.json",
+      "bytes": 315,
+      "sha256": "068d98c2a01937864aac0d7fc05005c183e18fed0bcfddde94c7f9090a2655f8"
+    },
+    {
+      "path": "WOLFRAM_EXACT_CHECKS.json",
+      "bytes": 977,
+      "sha256": "be7881d12e89661bd37acf55c159a54fc899af7604e3ec4dca1121c592c60863"
+    },
+    {
+      "path": "certify_fixed_gaussian.py",
+      "bytes": 18736,
+      "sha256": "45a9c58ec1d4c12cdc42c7ecc560af77c27621f1a5db603a218f910cebdb692c"
+    },
+    {
+      "path": "check_saved_certificate.py",
+      "bytes": 5436,
+      "sha256": "36ddb1845530320f78c6fa463eacf38d2079fb68ef451e4b2729e9be3a07ec9d"
+    }
+  ],
+  "excluded_from_self_hash": [
+    "MANIFEST.json"
+  ],
+  "all_writes_in_exclusive_agent_directory": true,
+  "current_or_geometric_endpoint_changed": false
+}

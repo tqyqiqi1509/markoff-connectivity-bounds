@@ -1,0 +1,13 @@
+{
+  "d": 151,
+  "N": 604,
+  "source_code": {
+    "phi_stream_selected.cpp": "bc0724e42b707c7a269c70b89299013c0cbeb35751f982ba82b9834fb6cdb8d2",
+    "phi_stream_partitioned.cpp": "011f27ee78cc2a8ba105429c5b48ab18e58da6a1e538c1e04ff2df87f2e4d851",
+    "build_full_matrix.py": "69fc6d8cfad793ed748f4c49e3eb797b82b5f60a48d551ff725666fd9055b574",
+    "universal_codimension_certificate.py": "e66db1d3ae87791a0eb5a55fae394bb0c33e69e16020ecf0f59755850bc555bc",
+    "verify_universal_modular.py": "b7f0ec03ab61b29e2976172722b8af022d2f43c332eed92db7989cfb62c5c424"
+  },
+  "driver_sha256": "4cfe517b0f24b8ae7879ed0c3516a109cf75eef130b34f362830229955f8ce85",
+  "source_mode": "All prefix and tail rows generated afresh in this session."
+}

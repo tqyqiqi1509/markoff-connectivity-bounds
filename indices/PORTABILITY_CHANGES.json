@@ -1,0 +1,62 @@
+[
+  {
+    "original": "agents/finite_final_independent_audit_round48/independent_finite_review.py",
+    "original_sha256": "f772c191e6b7d2b17cecea98b04aae565216995dcded04aaf17a410abc256524",
+    "portable": "tools/finite_review_portable.py",
+    "changes": "For each batch independent_modular_det and the two SOURCE_READY phi_stream_partitioned ELF bindings, omit historical executable byte-identity checks, verify the corresponding original C++ source digest, and record every omitted identity in the result. Preserve all source-row, witness, modular-gate and saved-receipt checks. Set ROOT, OLD and NEW together from the supplied project root. This checker does not rebuild executables or recompute determinants."
+  },
+  {
+    "original": "root_logs/verify_mass_independent.py",
+    "original_sha256": "6e1a5fc09f2ead643cc8ae05c874b9d01099a5ddca51d0f6f569602b099207b8",
+    "portable": "tools/verify_mass_independent.py",
+    "changes": "Input root via MARKOFF_WORKDIR; relocate historical absolute dependency paths without changing hash checks. Mass and selected-moment adapters stop after the current constant, excluding obsolete endpoint calculations. Relaxed-budget adapter reads the fresh resource frequency receipt."
+  },
+  {
+    "original": "root_logs/verify_selected_moment_independent.py",
+    "original_sha256": "d9ece84d21169045b9d6b254b6b158439c66a434bdd7c5c50ffb7ed1f4e7ad81",
+    "portable": "tools/verify_selected_moment_independent.py",
+    "changes": "Input root via MARKOFF_WORKDIR; relocate historical absolute dependency paths without changing hash checks. Mass and selected-moment adapters stop after the current constant, excluding obsolete endpoint calculations. Relaxed-budget adapter reads the fresh resource frequency receipt."
+  },
+  {
+    "original": "root_logs/verify_resource_gaussian_independent.py",
+    "original_sha256": "bbc480ef1fdd367e135e2db4ae03ba0bf56a58c9518b69b05ddc43000386c886",
+    "portable": "tools/verify_resource_gaussian_independent.py",
+    "changes": "Input root via MARKOFF_WORKDIR; relocate historical absolute dependency paths without changing hash checks. Mass and selected-moment adapters stop after the current constant, excluding obsolete endpoint calculations. Relaxed-budget adapter reads the fresh resource frequency receipt."
+  },
+  {
+    "original": "root_logs/verify_relaxed_budget_independent.py",
+    "original_sha256": "04e421c02f0de5cc33d0c7da76419043842e9ad21d62c3763e283a0df6e18749",
+    "portable": "tools/verify_relaxed_budget_independent.py",
+    "changes": "Input root via MARKOFF_WORKDIR; relocate historical absolute dependency paths without changing hash checks. Mass and selected-moment adapters stop after the current constant, excluding obsolete endpoint calculations. Relaxed-budget adapter reads the fresh resource frequency receipt."
+  },
+  {
+    "original": "agents/continuous_budget_fraction_review_round50/replay_continuous_budget_fraction.py",
+    "original_sha256": "87f39a975e547d03d656d2bea68d33fe6d0e46ba2a46bc1e67ddcfbdd8dd6124",
+    "portable": "tools/replay_continuous_budget_fraction.py",
+    "portable_sha256": "20378f0194aa7c94b672dc47b57a8aeafc42bd1f29635dbd6213b3470348e51a",
+    "changes": "Keep every numerical gate, all three required control file hashes/statuses and every present inherited input hash. Explicitly separate 21 fixed historical identity-only references never opened as numerical inputs. Their expected identity declarations are still checked against a fixed whitelist and listed in the output; old audit/endpoint claims are not reverified. No missing numerical input is skipped.",
+    "omitted_historical_identities": {
+      "agents/relaxed_budget_trace_round47/RELAXED_BUDGET_PROOF.md": "264485d1621f7698f9bce81b8355c157f4bcf0f47d6b1b54d9e7d1e45e22fd20",
+      "agents/relaxed_budget_trace_round47/HANDOVER.md": "641639ea55c2d1ce7da4d0118c985b783bc8017a38320300c3dae7602c515109",
+      "agents/relaxed_budget_trace_round47/MANIFEST.json": "52ecb8afde3aae6fd73630421f73f6103021a88fea10e1b9863ceee69a83f6c5",
+      "agents/relaxed_budget_trace_round47/RELAXED_BUDGET_TRACE_CERTIFICATE.json": "11ec24925e576109112bd63da3312b571e170b9fb1daca9e7f4d381abc98629d",
+      "agents/relaxed_budget_trace_round47/certify_relaxed_budget_trace.py": "97f45a08dbe1a338a214043b0a7747f628504d0834fdfdb484cdc7db2b9351e7",
+      "root_logs/RELAXED_BUDGET_VERIFIER_DIFF.patch": "6005cb80e53822ed78841a436acb72e972523264588fd29887ba7c6018d1a582",
+      "agents/relaxed_budget_trace_round47/WOLFRAM_RELAXED_BUDGET_AND_FAILURE.json": "92c394c68314f48db68bf02c7688b3dcd85441e8cfaab2c6dca1d05e4b10644f",
+      "root_logs/RELAXED_BUDGET_FIXED_ENDPOINT_STOP_DIAGNOSTIC.json": "d5e316ef300fc1f525d1d9ff13f76d6f75e2ff3af9b46c4ee68f4473b25d6990",
+      "root_logs/WOLFRAM_LOW_STEP_OBSTRUCTION.json": "4e48f4f0bbe0726bdd43a1446de3109794d39dfcb9dc79668aca627d45a83c28",
+      "agents/final_proof_chain_audit_round44/AUDIT_REPORT_ZH.md": "b6d9ed87adfd784774e623d02a6243652fbf6faa9a62a10ad7bc8c94dbe56cc5",
+      "agents/selected_resource_moment_round38/RESOURCE_MOMENT_PROOF.md": "748f5c15fb819e9814b2467c3825d36aca9beb105d14146b3b63ad617a272ef7",
+      "root_logs/selected_resource_rational_root_replay/RATIONAL_RESOURCE_REVIEW.json": "ef08588363c86d29257d34b3486e2003fad129543f1d90f55dd76fc4913894dc",
+      "root_logs/RESOURCE_FREQUENCY_REUSE_ROOT_LINEAGE.json": "e5931a172e64ccb8c822975cfc9230157b881a18355ce0792567ef9a773fd3be",
+      "root_logs/FIXED_GAUSSIAN_INDEPENDENT_MILLS_PROOF.md": "e80daf9f277ff3f5d78dbc9058fb6d21a1059c2f7e728ba2b6ce39df8cc27462",
+      "root_logs/certify_gaussian_p1e153_candidate_endpoint.py": "857377029c6d36a019d8a53141c0da41c6dc53a5813738fcc91cb4f1bab770e3",
+      "root_logs/GAUSSIAN_P1E153_ENDPOINT_CONDITIONAL.json": "65c9cba9aebc686d5d9625cb0282c8c4c105953b38bf48759c2b748f3187c310",
+      "root_logs/ROOT_UNIFORM_CEILING_EXTENSION_P1E153.json": "eecc86406d6115b779af58b594da6f5bcbb0198662af9218b597ecc302a73ba2",
+      "root_logs/WOLFRAM_GAUSSIAN_P1E153_CHECKS.json": "4c42d196223f56ab40ab9e99f83ebf260cdd6f8d2490e7520464bce425eb5247",
+      "root_logs/RESOURCE_GAUSSIAN_SIMPLIFIED_ROOT_PROOF.md": "4437b6b0d76377239c95831c5f259a9b7b8dc825f51024f7c07ffaead23f0e47",
+      "agents/support_coupling_round7/SUPPORT_COUPLING_PROOF.md": "8d6b73a4913d98e093186cc05893d18748beae77067dfe214254afc3d334d75b",
+      "root_logs/COMPOSITE_JOURNAL_COMPLETENESS_REVIEW.json": "257ef64c01f075be52a54952519ea1ac0dfe3baeef25622481c7ce73e237305a"
+    }
+  }
+]

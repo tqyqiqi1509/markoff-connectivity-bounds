@@ -1,0 +1,434 @@
+{
+  "status": "EXACT INTEGER PASS",
+  "sources": [
+    {
+      "path": "/workspace/scratch/f48b18814170/baragar_run/weighted_window_certificate/weighted_159.json",
+      "sha256": "c28a5f75dfef26297b25accbbab1c53d4ac03e4839ff083547f5f4c5b058c91b"
+    },
+    {
+      "path": "/workspace/scratch/f48b18814170/baragar_run/weighted_window_certificate/replay_weighted_159.json",
+      "sha256": "80366d493104cc3f6be8cc47236620905b9c8c755923af6739cdfb128c10e7c1"
+    }
+  ],
+  "scope": "All63 high-side masks0..62; full mask63 handled separately by positive moment. Ordinary prerequisites at154,157,158 are independently established first.",
+  "branch_rows": [
+    {
+      "high_mask": 0,
+      "low_mask": 63,
+      "producer_ceiling": 12480,
+      "replay_ceiling": 12480
+    },
+    {
+      "high_mask": 1,
+      "low_mask": 62,
+      "producer_ceiling": 5677,
+      "replay_ceiling": 5677
+    },
+    {
+      "high_mask": 2,
+      "low_mask": 61,
+      "producer_ceiling": 6092,
+      "replay_ceiling": 6092
+    },
+    {
+      "high_mask": 3,
+      "low_mask": 60,
+      "producer_ceiling": 4706,
+      "replay_ceiling": 4706
+    },
+    {
+      "high_mask": 4,
+      "low_mask": 59,
+      "producer_ceiling": 6766,
+      "replay_ceiling": 6766
+    },
+    {
+      "high_mask": 5,
+      "low_mask": 58,
+      "producer_ceiling": 4492,
+      "replay_ceiling": 4492
+    },
+    {
+      "high_mask": 6,
+      "low_mask": 57,
+      "producer_ceiling": 4322,
+      "replay_ceiling": 4322
+    },
+    {
+      "high_mask": 7,
+      "low_mask": 56,
+      "producer_ceiling": 6215,
+      "replay_ceiling": 6215
+    },
+    {
+      "high_mask": 8,
+      "low_mask": 55,
+      "producer_ceiling": 7669,
+      "replay_ceiling": 7669
+    },
+    {
+      "high_mask": 9,
+      "low_mask": 54,
+      "producer_ceiling": 4522,
+      "replay_ceiling": 4522
+    },
+    {
+      "high_mask": 10,
+      "low_mask": 53,
+      "producer_ceiling": 4480,
+      "replay_ceiling": 4480
+    },
+    {
+      "high_mask": 11,
+      "low_mask": 52,
+      "producer_ceiling": 5567,
+      "replay_ceiling": 5567
+    },
+    {
+      "high_mask": 12,
+      "low_mask": 51,
+      "producer_ceiling": 4762,
+      "replay_ceiling": 4762
+    },
+    {
+      "high_mask": 13,
+      "low_mask": 50,
+      "producer_ceiling": 5061,
+      "replay_ceiling": 5061
+    },
+    {
+      "high_mask": 14,
+      "low_mask": 49,
+      "producer_ceiling": 4379,
+      "replay_ceiling": 4379
+    },
+    {
+      "high_mask": 15,
+      "low_mask": 48,
+      "producer_ceiling": 9315,
+      "replay_ceiling": 9315
+    },
+    {
+      "high_mask": 16,
+      "low_mask": 47,
+      "producer_ceiling": 7990,
+      "replay_ceiling": 7990
+    },
+    {
+      "high_mask": 17,
+      "low_mask": 46,
+      "producer_ceiling": 4567,
+      "replay_ceiling": 4567
+    },
+    {
+      "high_mask": 18,
+      "low_mask": 45,
+      "producer_ceiling": 4564,
+      "replay_ceiling": 4564
+    },
+    {
+      "high_mask": 19,
+      "low_mask": 44,
+      "producer_ceiling": 5424,
+      "replay_ceiling": 5424
+    },
+    {
+      "high_mask": 20,
+      "low_mask": 43,
+      "producer_ceiling": 4874,
+      "replay_ceiling": 4874
+    },
+    {
+      "high_mask": 21,
+      "low_mask": 42,
+      "producer_ceiling": 4946,
+      "replay_ceiling": 4946
+    },
+    {
+      "high_mask": 22,
+      "low_mask": 41,
+      "producer_ceiling": 4315,
+      "replay_ceiling": 4315
+    },
+    {
+      "high_mask": 23,
+      "low_mask": 40,
+      "producer_ceiling": 8927,
+      "replay_ceiling": 8927
+    },
+    {
+      "high_mask": 24,
+      "low_mask": 39,
+      "producer_ceiling": 5343,
+      "replay_ceiling": 5343
+    },
+    {
+      "high_mask": 25,
+      "low_mask": 38,
+      "producer_ceiling": 4657,
+      "replay_ceiling": 4657
+    },
+    {
+      "high_mask": 26,
+      "low_mask": 37,
+      "producer_ceiling": 4186,
+      "replay_ceiling": 4186
+    },
+    {
+      "high_mask": 27,
+      "low_mask": 36,
+      "producer_ceiling": 7800,
+      "replay_ceiling": 7800
+    },
+    {
+      "high_mask": 28,
+      "low_mask": 35,
+      "producer_ceiling": 4190,
+      "replay_ceiling": 4190
+    },
+    {
+      "high_mask": 29,
+      "low_mask": 34,
+      "producer_ceiling": 6885,
+      "replay_ceiling": 6885
+    },
+    {
+      "high_mask": 30,
+      "low_mask": 33,
+      "producer_ceiling": 5561,
+      "replay_ceiling": 5561
+    },
+    {
+      "high_mask": 31,
+      "low_mask": 32,
+      "producer_ceiling": 14556,
+      "replay_ceiling": 14556
+    },
+    {
+      "high_mask": 32,
+      "low_mask": 31,
+      "producer_ceiling": 8430,
+      "replay_ceiling": 8430
+    },
+    {
+      "high_mask": 33,
+      "low_mask": 30,
+      "producer_ceiling": 4643,
+      "replay_ceiling": 4643
+    },
+    {
+      "high_mask": 34,
+      "low_mask": 29,
+      "producer_ceiling": 4690,
+      "replay_ceiling": 4690
+    },
+    {
+      "high_mask": 35,
+      "low_mask": 28,
+      "producer_ceiling": 5265,
+      "replay_ceiling": 5265
+    },
+    {
+      "high_mask": 36,
+      "low_mask": 27,
+      "producer_ceiling": 5041,
+      "replay_ceiling": 5041
+    },
+    {
+      "high_mask": 37,
+      "low_mask": 26,
+      "producer_ceiling": 4826,
+      "replay_ceiling": 4826
+    },
+    {
+      "high_mask": 38,
+      "low_mask": 25,
+      "producer_ceiling": 4259,
+      "replay_ceiling": 4259
+    },
+    {
+      "high_mask": 39,
+      "low_mask": 24,
+      "producer_ceiling": 8478,
+      "replay_ceiling": 8478
+    },
+    {
+      "high_mask": 40,
+      "low_mask": 23,
+      "producer_ceiling": 5554,
+      "replay_ceiling": 5554
+    },
+    {
+      "high_mask": 41,
+      "low_mask": 22,
+      "producer_ceiling": 4578,
+      "replay_ceiling": 4578
+    },
+    {
+      "high_mask": 42,
+      "low_mask": 21,
+      "producer_ceiling": 4164,
+      "replay_ceiling": 4164
+    },
+    {
+      "high_mask": 43,
+      "low_mask": 20,
+      "producer_ceiling": 7421,
+      "replay_ceiling": 7421
+    },
+    {
+      "high_mask": 44,
+      "low_mask": 19,
+      "producer_ceiling": 4203,
+      "replay_ceiling": 4203
+    },
+    {
+      "high_mask": 45,
+      "low_mask": 18,
+      "producer_ceiling": 6569,
+      "replay_ceiling": 6569
+    },
+    {
+      "high_mask": 46,
+      "low_mask": 17,
+      "producer_ceiling": 5340,
+      "replay_ceiling": 5340
+    },
+    {
+      "high_mask": 47,
+      "low_mask": 16,
+      "producer_ceiling": 13721,
+      "replay_ceiling": 13721
+    },
+    {
+      "high_mask": 48,
+      "low_mask": 15,
+      "producer_ceiling": 5742,
+      "replay_ceiling": 5742
+    },
+    {
+      "high_mask": 49,
+      "low_mask": 14,
+      "producer_ceiling": 4532,
+      "replay_ceiling": 4532
+    },
+    {
+      "high_mask": 50,
+      "low_mask": 13,
+      "producer_ceiling": 4162,
+      "replay_ceiling": 4162
+    },
+    {
+      "high_mask": 51,
+      "low_mask": 12,
+      "producer_ceiling": 7149,
+      "replay_ceiling": 7149
+    },
+    {
+      "high_mask": 52,
+      "low_mask": 11,
+      "producer_ceiling": 4225,
+      "replay_ceiling": 4225
+    },
+    {
+      "high_mask": 53,
+      "low_mask": 10,
+      "producer_ceiling": 6342,
+      "replay_ceiling": 6342
+    },
+    {
+      "high_mask": 54,
+      "low_mask": 9,
+      "producer_ceiling": 5181,
+      "replay_ceiling": 5181
+    },
+    {
+      "high_mask": 55,
+      "low_mask": 8,
+      "producer_ceiling": 13108,
+      "replay_ceiling": 13108
+    },
+    {
+      "high_mask": 56,
+      "low_mask": 7,
+      "producer_ceiling": 4415,
+      "replay_ceiling": 4415
+    },
+    {
+      "high_mask": 57,
+      "low_mask": 6,
+      "producer_ceiling": 5719,
+      "replay_ceiling": 5719
+    },
+    {
+      "high_mask": 58,
+      "low_mask": 5,
+      "producer_ceiling": 4772,
+      "replay_ceiling": 4772
+    },
+    {
+      "high_mask": 59,
+      "low_mask": 4,
+      "producer_ceiling": 11329,
+      "replay_ceiling": 11329
+    },
+    {
+      "high_mask": 60,
+      "low_mask": 3,
+      "producer_ceiling": 4541,
+      "replay_ceiling": 4541
+    },
+    {
+      "high_mask": 61,
+      "low_mask": 2,
+      "producer_ceiling": 9869,
+      "replay_ceiling": 9869
+    },
+    {
+      "high_mask": 62,
+      "low_mask": 1,
+      "producer_ceiling": 7711,
+      "replay_ceiling": 7711
+    }
+  ],
+  "max_non63_C": 14556,
+  "ordinary_high_input": 21718,
+  "ordinary_low_input": 381,
+  "ordinary_inputs_verified_in_both_independent_certificates": true,
+  "endpoint_checks": [
+    {
+      "power": 153,
+      "T": "243424135523692020",
+      "root_bracket": true,
+      "safe8": true,
+      "primitive_cage": true,
+      "old63branch_main_C14556": false
+    },
+    {
+      "power": 154,
+      "T": "316227766016837934",
+      "root_bracket": true,
+      "safe8": true,
+      "primitive_cage": true,
+      "old63branch_main_C14556": true
+    },
+    {
+      "power": 157,
+      "T": "693280669214452477",
+      "root_bracket": true,
+      "safe8": true,
+      "primitive_cage": true,
+      "old63branch_main_C14556": true
+    },
+    {
+      "power": 158,
+      "T": "900628020211278510",
+      "root_bracket": true,
+      "safe8": true,
+      "primitive_cage": true,
+      "old63branch_main_C14556": true
+    }
+  ],
+  "monotonicity": "(x+1)^a/x decreases for a<1; use continuous powers a=673/900,30/44,20/44. T is only a single-endpoint upper bound, not a claim about ceil-ratio monotonicity.",
+  "script_sha256": "897d816cc450214115a0a339500b7690e2e49109c5528ed4791165f7a7a3f8ad"
+}

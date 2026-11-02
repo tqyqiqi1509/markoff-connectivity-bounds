@@ -1,0 +1,6 @@
+.cache/
+work/
+replay/
+__pycache__/
+*.pyc
+*.part

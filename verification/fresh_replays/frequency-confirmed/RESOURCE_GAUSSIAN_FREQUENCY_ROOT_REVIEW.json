@@ -1,0 +1,43 @@
+{
+  "status": "PASS_INDEPENDENT_FIXED_FREQUENCY_ALL76544_CELLS",
+  "table_sha256": "0bfce18d9fbe285fd4bd4334c5c0d477b954d5206497a2ac392119f6f8a4c656",
+  "local_prime_count": 564,
+  "finite_exponents": 1355,
+  "workers": [
+    {
+      "begin": 0,
+      "end": 19136,
+      "fresh_nontrivial_cells": 16724,
+      "trivial_unit_cells": 2412,
+      "largest_ratio_upper": "115792089237316195423570985008687907853269984665640564036690894398939588667637/115792089237316195423570985008687907853269984665640564039457584007913129639936",
+      "seconds": 79.99399821799999
+    },
+    {
+      "begin": 19136,
+      "end": 38272,
+      "fresh_nontrivial_cells": 19136,
+      "trivial_unit_cells": 0,
+      "largest_ratio_upper": "115792089237316195423570985008687907853269984665640563490751701634712247976487/115792089237316195423570985008687907853269984665640564039457584007913129639936",
+      "seconds": 92.31187527399999
+    },
+    {
+      "begin": 38272,
+      "end": 57408,
+      "fresh_nontrivial_cells": 19136,
+      "trivial_unit_cells": 0,
+      "largest_ratio_upper": "57896044618658097711785492504343953926634992332820281254977900405073789725301/57896044618658097711785492504343953926634992332820282019728792003956564819968",
+      "seconds": 92.028743592
+    },
+    {
+      "begin": 57408,
+      "end": 76544,
+      "fresh_nontrivial_cells": 19136,
+      "trivial_unit_cells": 0,
+      "largest_ratio_upper": "115792089237316195423570985008687907853269984665640561342455243998857777801771/115792089237316195423570985008687907853269984665640564039457584007913129639936",
+      "seconds": 92.220276143
+    }
+  ],
+  "verifier_sha256": "bbc1587bbd30c5e6e6d837b627f33fe9b2cca0edb6c0eb89afcb4797d9184464",
+  "seconds": 92.87148542400001,
+  "method": "Direct complex exponential at every midpoint, closed finite geometric sum and differentiated closed sum, exact230-bit dyadic18th roots; full prime/exponent tails. Shared Arb256."
+}

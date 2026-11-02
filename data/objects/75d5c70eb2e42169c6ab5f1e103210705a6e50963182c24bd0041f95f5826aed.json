@@ -1,0 +1,33 @@
+{
+  "status": "ACCEPTED_GENERAL_MOMENT_RESOURCE_INEQUALITY_NO_NEW_P_ENDPOINT",
+  "utc": "2026-11-01T13:04:30.059300+00:00",
+  "claim": "For any finite set of distinct primes with one actual nonnegative exponent each, sum b >= 3 sum v -164, for the stated tilted prime-power distributions. Does not require selection rule or independence for summing individual moments.",
+  "clean_C": 164,
+  "C_upper_independent": "29919685527827700866697513929908611661994683713381/182687704666362864775460604089535377456991567872",
+  "budget_D": "1693/200",
+  "variance_lower": "5742/19",
+  "safe_variance_floor": 302,
+  "prime_tail": "q>=409, log409>6 by rational positive atanh lower bound, centered lattice b>=log(q)*v/2",
+  "exponent_tail": "For each q<409, positive nonincreasing weights give strictly increasing truncation variance; v>=9 and Lyapunov imply3v-b<=0 for all larger a.",
+  "finite_scope": {
+    "primes": 79,
+    "moment_rows_including_stops": 194,
+    "max_stop_exponent": 14
+  },
+  "root_review": [
+    "Entire mathematical proof, both arithmetic programs read. Same(q,a) moment pairs and oneexponentperprime summation audited.",
+    "Root reran all194 moments with independent Python integer/Fraction160-bit outward interval arithmetic; no Arb/FLINT or producer imports. All prime/exponent tails certified.",
+    "No dependence on round31 large moment table; retained only as historical exploratory cross-check.",
+    "Generic Gaussian trace and any smaller p endpoint require separate root acceptance."
+  ],
+  "bindings": {
+    "agents/selected_resource_moment_round38/RESOURCE_MOMENT_PROOF.md": "748f5c15fb819e9814b2467c3825d36aca9beb105d14146b3b63ad617a272ef7",
+    "agents/selected_resource_moment_round38/certify_resource.py": "48b8600add46af463be90622689190e52f69b634f1c9dd66209dadda9a8367df",
+    "agents/selected_resource_moment_round38/RESOURCE_CERTIFICATE.json": "87bf088cf363836d3bffcbcd96a522b373577aae3fd50ebe7ca3517b530d8878",
+    "agents/selected_resource_moment_round38/verify_resource_rational.py": "73fa82f5dc8ee1863659d66a95ba68243fb9d525a755d44d9709e42587bb0d3d",
+    "root_logs/selected_resource_rational_root_replay/RATIONAL_RESOURCE_REVIEW.json": "ef08588363c86d29257d34b3486e2003fad129543f1d90f55dd76fc4913894dc",
+    "root_logs/selected_resource_rational_root_replay/ROOT_EXECUTION_BINDING.json": "928d420323d1a134946d30c97bedd3ed735a58fb9b44c25b942563cd05a88c74",
+    "agents/selected_resource_moment_round38/WOLFRAM_EXACT_CHECKS.json": "d28314713cda4c21c33fd5b1f1633840a5f58d7cdc0cf47715302733a7ea883b"
+  },
+  "conjecture": "OPEN"
+}

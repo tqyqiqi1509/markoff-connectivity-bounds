@@ -1,0 +1,19 @@
+{
+  "status": "ACCEPTED_GENERAL_D58_CRITERION",
+  "accepted_utc": "2026-11-01T09:35:20.276576+00:00",
+  "d": 58,
+  "N": 348,
+  "condition": "p prime, p>696, p mod116 not in {1,115}",
+  "conclusion": "The pure-three-Vieta graph on all nonorigin x^2+y^2+z^2=xyz points over F_p is connected.",
+  "scope": "Uses separately audited general-d source theorem and pure-Vieta bridge; not an all-d saturation theorem.",
+  "input_bindings": {
+    "agents/attachment_audit/d58/composite_d58_independent_verification.json": "6fa91a0ae1a7af51d39c156ee6b5f958a3c6d73b48bc4fd71256e64bbd704811",
+    "agents/attachment_audit/d58/composite_d58_certificate.json": "19901fbbc9b15fc1a88a8a308f649e5a3c571432c727fd62588db82f1e5d58e4",
+    "agents/attachment_audit/d58/composite_d58_matrix.json": "d5292c27133bd2d3f5a4f5cebf483df95d953b04fb162e8e46c6d68c257dd0e1",
+    "agents/attachment_audit/d58/newton_firstblock_check.json": "0436bff9384c8bd82fc62f000b047f13995c341a93681ce2fcf28a2287cf5818"
+  },
+  "root_audit": "Full source-generator and independent-verifier code read; fresh modular reconstruction observed complete; all prime/root/filter/normalization assumptions checked.",
+  "arithmetic_independence": "FLINT integer and modular determinant entry points share a library. Gap prime additionally checked by Python integer Gaussian elimination.",
+  "source_reconstruction_scope": "392 source rows generated; first14 source rows independently cross-checked through Newton coefficients, not all392 regenerated twice.",
+  "bookkeeping_correction": "First acceptance logging attempt hit Python default 4300-digit string limit while displaying the already verified modulus product. No certificate was changed; rerun with documented unlimited integer conversion succeeded."
+}

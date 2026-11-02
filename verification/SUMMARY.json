@@ -1,0 +1,27 @@
+{
+  "status": "PASS_DECLARED_PUBLIC_PACKAGE_REPLAY_SCOPE",
+  "restored_input_paths": 1625,
+  "unique_input_objects": 1100,
+  "public_package_only": true,
+  "fresh_stages": [
+    "scalar",
+    "endpoint_repaired",
+    "finite-records",
+    "resource",
+    "small-graphs",
+    "positive-integer",
+    "positive-nodes-confirmed",
+    "mass",
+    "selected-euler",
+    "frequency-confirmed",
+    "variance",
+    "relaxed-variance"
+  ],
+  "ordinary_recursion_fresh": true,
+  "all_57_general_certificate_input_hashes_checked": true,
+  "fresh_large_general_determinants": false,
+  "fresh_all_1775_pointwise_determinants": false,
+  "fresh_all_source_polynomials": false,
+  "paper_unchanged": true,
+  "scope": "Source/code and release input identities, full fresh endpoint/CRT/compositeness/small-prime/resource/ordinary and positive integer recursions, all positive spectral values, full frequency/variance boxes and tails; saved large rank/minor records are supplied with sources but not all regenerated."
+}

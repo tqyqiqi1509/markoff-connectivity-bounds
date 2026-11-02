@@ -1,0 +1,8 @@
+{
+  "certificate_sha256": "15855d0fc34217f5197b10be23676f39401cd84a208e22ae25fc0aebb59b8c21",
+  "header_existed": false,
+  "journal_existed": false,
+  "reused_records": 0,
+  "utc": "2026-11-01T07:29:45.356696+00:00",
+  "verifier_sha256": "e0b2d79fd8473db0b7a88dfd4ee19e4ebf44edf20d2d69f2a121707daa544426"
+}

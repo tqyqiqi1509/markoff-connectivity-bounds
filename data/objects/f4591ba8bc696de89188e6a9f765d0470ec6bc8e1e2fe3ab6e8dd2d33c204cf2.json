@@ -1,0 +1,29 @@
+{
+  "implementation_id": "proven_proth_parallel_nmod_v1",
+  "parallel_workers": 6,
+  "serial_predecessor_sha256": "b7f0ec03ab61b29e2976172722b8af022d2f43c332eed92db7989cfb62c5c424",
+  "status": "UNIVERSAL_CERTIFICATE_INDEPENDENTLY_VERIFIED",
+  "d": 163,
+  "N": 652,
+  "bound": 1304,
+  "created_utc": "2026-11-01T13:50:21.601389+00:00",
+  "source_sha256": "d6a19c2b76a423e6cd0cfbd3cabcc9d17be4631f14da76d1fc2f615d33602063",
+  "certificate_sha256": "c3cae34ced2723a3c71ade1d73943e96da95b0d8fda8768ef45b2553d4a732cc",
+  "verifier_sha256": "b8d8a0f34c95df4f8dc1e2a0b87c7ee494050542769f12f41351d53fbc8e2f5e",
+  "all_raw_rows_reconstructed_and_normalizations_checked": true,
+  "primitive_lower_kernel_verified": true,
+  "lower_maximal_minor_gcd_smooth": true,
+  "top_integer_system_verified_after_common_denominator": true,
+  "residual_rough_gcd_one": true,
+  "integer_determinants_verified_by_explicit_modular_bound": true,
+  "shared_arithmetic_backend": "FLINT; producer fmpz_mat integer determinant, verifier nmod_mat field determinants. Separate certificate logic and integer bounds; not advertised as independent implementations of every arithmetic operation.",
+  "proth_prime_proof": "q=k*2^32+1<2^64, k odd, a^((q-1)/2)=-1 mod q implies every prime divisor r of q is 1 mod 2^32 and hence exceeds sqrt(q), so q is prime.",
+  "journal_file": "d163_modular_det_journal.jsonl",
+  "journal_sha256": "b99aa617bc03667eec621bf5bf7696c5ff1b8abf1e7b6b2f0947eebeec50ae50",
+  "proven_moduli_count": 11513,
+  "checks_per_matrix": {
+    "lower": 11513,
+    "top": 9821
+  },
+  "elapsed_seconds": 646.1494412829998
+}

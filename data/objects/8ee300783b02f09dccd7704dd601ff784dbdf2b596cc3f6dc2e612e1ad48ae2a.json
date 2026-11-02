@@ -1,0 +1,10 @@
+{
+  "d": 173,
+  "stage": "COMPLETE_SOURCE_ONLY_NO_RANK_CLAIM",
+  "utc": "2026-11-01T12:10:32.797448+00:00",
+  "seconds": 84.69778826199763,
+  "source_bindings_sha256": "1fd72e27f6e01b4ce635a9df1f047873bbf71527e01b2dc2fbe323504b487de9",
+  "rows": 690,
+  "source_sha256": "7c021480d36e1905573dd3b5b463bfa1f08a5425f7da8cf009b9199b66c5b48c",
+  "bytes": 150532931
+}

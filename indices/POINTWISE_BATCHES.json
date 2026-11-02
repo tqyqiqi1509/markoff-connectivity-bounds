@@ -1,0 +1,542 @@
+[
+  {
+    "path": "agents/finite_extension_round15/batch_000_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "d2a3f9be76fac031bb1d1cb11e8c929e2d863ee42630d8b4c4fa804d6265f5cc"
+  },
+  {
+    "path": "agents/finite_extension_round15/batch_001_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "9a80f2b498bb0ad986b5586d1db47c802f94cead5a01c23d836281b7436fe0e6"
+  },
+  {
+    "path": "agents/finite_extension_round15/batch_002_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "513cb9d67a287179f6a44468a52484f9c83f27913f2aaf0c1e776030d594313f"
+  },
+  {
+    "path": "agents/finite_extension_round15/batch_003_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "9fd3386bc8356c6fea16b5e20dc92d2130d10318c2fd3a350e244fc4690b7dd6"
+  },
+  {
+    "path": "agents/finite_extension_round15/batch_004_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "39d76a8076d15d5aed3f77757199f24bd3c1e61ec11b7917b9d453a9fcb0633f"
+  },
+  {
+    "path": "agents/finite_extension_round15/batch_005_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "c14119aeef9fdedaab47c466997219a63c650f63372cb1ac68f370cc66bcacce"
+  },
+  {
+    "path": "agents/finite_extension_round15/batch_006_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "ee2297b41a7fcecbea2215506161a16c91eeaaabfbaf561a054b9b1a57cf24a8"
+  },
+  {
+    "path": "agents/finite_extension_round15/batch_007_d167",
+    "d": 167,
+    "candidate_count": 17,
+    "manifest_sha256": "da59539a95c34fbd8afccfc9f534436daae6f631b1896b54b9f3808e3c0a7fcc"
+  },
+  {
+    "path": "agents/finite_extension_round15/batch_008_d173",
+    "d": 173,
+    "candidate_count": 2,
+    "manifest_sha256": "c8490bad3a570279a0981dc1f59fcbdff0a4be9fa17f45298823213da2466349"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_000_d173",
+    "d": 173,
+    "candidate_count": 18,
+    "manifest_sha256": "c4156be400fa5aca05882138768d3b2968d0a06aa26529062aa004576bed150c"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_001_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "42760cd9a4edf63bbee0311e56ea03cc16e23c084fb4c2a5543dd6cb1d5f13d2"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_002_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "4a57fd0c1017456de8208358cc302325d3502ba808dbff4191155f59b96d309b"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_003_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "49eabb779f3b6ccf908aca9c6f8ae9b393f2595e8c602c95e3677956889bf032"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_004_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "aeeee51859c123f3c8ad6673c33e6e00025e173f9c4b624827dc2bce0a1937cc"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_005_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "5178c08058973c5abda4cab36ad300c945e142a4a071172bd12578ac4810c4cb"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_006_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "9e225c4e3b26c9cf07f93235afe5396bee23837edc2e278da82566a9e51924fb"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_007_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "bf30a6b23493dc8bde5d50eed778294a4d0e6dabeff1c769667d47cf2c54df2e"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_008_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "39c777fd163f050579301c5960e5925cbd089aef2db520538e3f862939b5242a"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_009_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "1a5ea296b04064d6041e9bf70a9e8c7c5b9d31d62fae2c450e77e97eb4534c4e"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_010_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "d939e932af9c9a79a5573b1474eb46a4c6081c6e2a34d46ca35d64bf29654d73"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_011_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "1ad4c5506574639af6dfe0fd827561e6ce7ca0a1f1460276cc936077a2bdd813"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_012_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "87f474873cecd02801177fdc831703d795d33b5f0f0ceb78a7ad0c26ddf756de"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_013_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "b17201459fc48e4a47f6df817a715442d48f91cedba7ae73ef7f42aaa1e19fc9"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_014_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "cfc1ffca9b07fe418cd14db5c316203d9563cd98479eb0b4bc8646a6a5459e3d"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_015_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "ad0bd2f3fd991447bab73192dca64c99aca4495f7f6e3162ef0f8e7da5cc92ec"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_016_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "75c8d6d2949f76d3fefa95bf36f501576f635ba1dfcdf9b64235829a9a2abf46"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_017_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "cba7f9deaa87dba97f2abea3104ae900f011fdab681a7f6adc8d2e650d72e61c"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_018_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "b497013a991236b1e7c918ddc32a30a3e20ce107073668929589211c683af27e"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_019_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "43cf08ad03922b27c4b0c96479e38206696b5cc2c93b85c9ad3982289ad0fba0"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_020_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "ad5b1ad2d7690f5e893f6333aeb7a57c17299fe465bcd3c91ae5bb4ddba1a3fe"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_021_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "685b00ca1d71e4f4497009ec5768782a692147ab1c3fac5399944a55b19b8b8f"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_022_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "9db8c8e087826cb04cc5e8fe2f3b4b02a0e5a45866b30b971095d971472c4dbb"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_023_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "7e8334900b7c0ac8d9e2695dfc8044322796ab35fe719123d0a08f7eeba37c97"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_024_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "cae50726a5dbd87ef9766bafd219c8f8d54494da136f6e8ae958faa08af64e73"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_025_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "8712a4bef3f28d4c69a204fbe94fbe33ed930cc61924c04dee57dbb9d3aebdd7"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_026_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "538deebe874be86e7b9c125c9ed4ae74501f5991278fb00ceb6211eec1bd5416"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_027_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "295339e64299cea4dca4eae5f71e49e6303fbb206cfec657603d33e7108848be"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_028_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "466f6fd81e7ce7cecd1facc86196713023a0c1cfd02ce2d13b56fb690c60b747"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_029_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "17f4931c8b9300db71b7b01933a4f5ef58c3adae8e08b0ca1619842578c87ec3"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_030_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "433b128ccc677c2e0f46436317abee2934a76d9e66ba6037ffa512aa92ef0417"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_031_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "98724e959ce59410de5196bbe42a35704a10f528884d75457b55362728d6c010"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_032_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "e7479d16c72209f48d1bc5d1153388676853dcb1a15ce73696aa57dca5806660"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_033_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "06005a383fdece656db538551c604ed78735c4a97669406907ca73b08be2ddb5"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_034_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "7179492f0c981002b8c37782d04d579684390f7563b97ccb8d4b7e45789f19bf"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_035_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "6bd18ecf81227f0d5c5471fef20376af9799148923354b4cbd49e91633e46cfc"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_036_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "4078f8195f44c881e938185e42aa3358f66986c13d39bfa9d556dc6937d98874"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_037_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "23379633961c4ae348d0c517b06b0002f2b703cd7d73a3913299233db7d890af"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_038_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "e79f2ce7180e6730cc91bbf667402ae9e7f067a40c27a88b94df391a998b4cd2"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_039_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "b26a929fb4eead67628b066cb2d7a4875e4357bb93afd1a0cb5bb2a89986b9ff"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_040_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "e925780c5afc28ffa5cf89c7e5c2d2b5ebdd944f32a2e16b34e895a3599b87cd"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_041_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "5f8f96fd3bf7d2bd4c5c886867bf4264fddc84b2b45f47997dcf3bc60c03324b"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_042_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "cf5473efa5505c9d661f17bd893d76fa6dc305394b6bda274f1110cb6bdb9286"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_043_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "94e25a11d1d2ad73ba0f7c93d8b6370f065d49776f4f387197a62f34c2e55197"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_044_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "f64f9c9e5cecb29a508eb44b30df92c0302fafca0bdf2717716917b8b97fa480"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_045_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "768b7d295f093274759c737ac15360d0e5b0803770a8c6850cfdcaf5832089fa"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_046_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "d03108ffec7777b30af51120271d8e8e1332e0037c84c88e263b2e4ffaf94ba7"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_047_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "f817664ab1bee079a732199df2f6f0c13b6b6641e5c34a894eda73f61d0378cc"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_048_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "5db3cc2837d0a7bd9ff952c2392fb91ea17932c0069e348b3621cce0feca0706"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_049_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "28673cd67bf5f10997588a251f71b8400a4a0ccfc08730901e8d1d217e1c2f4f"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_050_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "8cf761910b55b75dd693d4a5bd4bb94b60b6b7fbde8e307661eeea6347d388e8"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_051_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "d6fc02f58a041340c8de65db52453d4dbebcc689eef274f2e33cec687917b99a"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_052_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "f173b3b7dd70d3a92ed87e17e361187558efad49c0973c6f183a412f73aed7e7"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_053_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "de02f46404fe1336afbe3ae88de491839168e9cc7724f174c3c3369af8b45e8f"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_054_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "b8faf0406fa52374603f131055ca19f9cdad503a40b97ffdb5d01ba10291b8fd"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_055_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "aacefd8ef9da30e701550ed905023313301d5887652624ae2d34f467ca7eb6d5"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_056_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "a8ca6fec5e4e43f596b628ceae714eed2203907d3672c0f96c01ffcace5c5569"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_057_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "a753cb02611fb7cba2c74109ffcfc0400a701500c05f578a0b9be4033f2306f1"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_058_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "c0c6533e02ee22ce402fa7bdde60cd72c3989e519e0b2ff52336c0bd056a5a61"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_059_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "f1726af2aaf19aa0155c83effaa366b3e2fbd7e1b908037a2d973f6b6d345633"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_060_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "9457da44c2c37ba9d496ddbd5e6bf9617c4aefeb7e780cc4f4eed88f04f19b51"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_061_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "c0ee5e6c123cf9e7a7da7186f1e147c70d3e85bdff168d2e4c7ae1677d64f3aa"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_062_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "273bdf5090321eb9a7bedf3c91c318724dceb20e1c1a1cdb6c44c9ded7afb079"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_063_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "4e559119c2bea7616a9cc41ff69ac91cfc2b4c4a12b4222c1b3f6fa9980fe2b2"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_064_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "e159d1cd6d0f17a14a015560de6ea328fc1bc40219f515029ce19612b1d28003"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_065_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "b8ad7b3cb327a465c8790fe4143366be3638ea1c3aa7f53cc5143db15c74bc0c"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_066_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "b2845447e082e88dc102212dce1b73b22259d595b601a996941611c156437d92"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_067_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "b6752276ff3eeb77c12a5a8414e297b89f319aa350cd8fe3d5e83685ccf65279"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_068_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "23d0cf35115f2912df26ccf9d9b783b41785cd95aeeb86abed42c89c610c600d"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_069_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "a1776be133dcdf898064db99a7af38eca7b3434f6bde58a353729a3017c910c9"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_070_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "38811931b30f7e885ac1e4de6063cbcfaddc7af07cf416bc38276a04755337f5"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_071_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "c6bb70c5f5ad5e07630ce14eaf9bf91237fa5fc150c547059b3834f474c897f9"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_072_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "7890c593acc555cb3292f6514523fdfa1fdc60ec6e99f69ac5ced19a3b47bdb8"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_073_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "7d5bca0fd473005b35145e59d63b66a2432ba61580d3da6e3ee25cad793d314c"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_074_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "bc4120889263cf61451f18d8f7a35e7883dbf1e455c47a4293a18230b14757d0"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_075_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "a348e3700104dcd64f77fa8868d48af5a52b3e9f65c7bc3591c41b4654e5e895"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_076_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "3b72842dc473c623709df960899cb7256a17bd141b03090ab8aa579566494458"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_077_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "a7895a5498ecffeccc8770af7ccf9e7bc1ad5d1f85d9f5c64d336584ea487693"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_078_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "b11b97ed1a5ba84093afb5a3ef2db8e827bc15e26a17da2ef4d861a52af3362a"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_079_d167",
+    "d": 167,
+    "candidate_count": 20,
+    "manifest_sha256": "4c6599c8281caeda6a85dd868fe4b1feb8a303a79d13473e6ce8f09d6baaea43"
+  },
+  {
+    "path": "agents/finite_extension_round20/batch_080_d167",
+    "d": 167,
+    "candidate_count": 18,
+    "manifest_sha256": "f96345856f26a7aceb22906d0da333214d0cdaa9195cda8c1995f646867a019f"
+  }
+]

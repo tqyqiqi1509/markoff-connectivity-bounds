@@ -1,0 +1,8 @@
+{
+  "status": "PASS_MASS_RECURSION",
+  "mass_constant": 28924,
+  "fresh_windows": 48,
+  "finite_exponents": 405,
+  "infinite_exponent_tails": 74,
+  "script_sha256": "60d673d4ad724e22d0078f03b52ec249e2ad4210f962dfedd389bcc544b8c63d"
+}

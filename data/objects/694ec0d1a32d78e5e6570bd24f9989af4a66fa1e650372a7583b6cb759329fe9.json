@@ -1,0 +1,34 @@
+{
+  "N": 276,
+  "copied_original_source_sha256": {
+    "composite_parameters.py": "9c1647678b1f4351c71105d45cea394c8ee5efb31cb703c7c142ba587c28ae60",
+    "finalize_composite_matrix.py": "175a038e67474ceb1e58d9dcab4c3b36b21cabfc14e522e759310c626759d05e",
+    "martin_kappa0.py": "560a9e61bf57796a8b0afed1fb12e7e3080e1dc65bee9d22191318749fb00095",
+    "phi_stream_composite.cpp": "a0e589c5c34212df4f44837f2a79a74db75b7db4c286c06601bf3c3c53b0eb15",
+    "verify_composite_certificate.py": "a3718ddb08e2c9080530bc2fd5d5ad3fe6d7ae49289de1d8acaae2d1dfacc9ce"
+  },
+  "created_utc": "2026-11-01T07:21:44.197371+00:00",
+  "crt52_1e57_status": "not executed",
+  "d": 46,
+  "d139_status": "interrupted and not accepted; no restart",
+  "expected_row_counts": [
+    11,
+    33,
+    33,
+    77,
+    55,
+    99
+  ],
+  "expected_shape": [
+    308,
+    274
+  ],
+  "fresh_start": true,
+  "integer_minors_reused": 0,
+  "modified_verifier_sha256": "e0b2d79fd8473db0b7a88dfd4ee19e4ebf44edf20d2d69f2a121707daa544426",
+  "modular_records_reused": 0,
+  "only_source_change": "one exact whitelist replacement: d in (22,34,38) -> d == 46",
+  "source_directory": "/tmp/baragar_recovered/baragar_run/computations/modular_rank_campaign/even_composite_coupling",
+  "source_rows_reused": 0,
+  "total_runtime_cap_seconds": 600
+}

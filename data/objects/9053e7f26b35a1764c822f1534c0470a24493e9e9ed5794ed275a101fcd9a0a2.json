@@ -1,0 +1,16 @@
+{
+  "status": "FRESH_COMPILE_MATCHES_ROOT_AUDITED_BINARY",
+  "command": [
+    "g++",
+    "-O3",
+    "-std=c++17",
+    "/workspace/scratch/3fd6272ba77d/baragar_20261101_090837/agents/finite_extension_round15/common/independent_modular_det.cpp",
+    "-lgmpxx",
+    "-lgmp",
+    "-o",
+    "/workspace/scratch/3fd6272ba77d/baragar_20261101_090837/agents/finite_extension_round15/common/independent_modular_det"
+  ],
+  "binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+  "source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+  "root_binary_binding_sha256": "95ae23cd812f97713e708930587d698e9742548d9956e2ce4e32ff9d319f2f4a"
+}

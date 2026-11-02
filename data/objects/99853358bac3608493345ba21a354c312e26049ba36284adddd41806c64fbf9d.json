@@ -1,0 +1,19 @@
+{
+  "status": "COMPLETE_SOURCE_IDENTITY_BOUND_NOT_A_RANK_CLAIM",
+  "d": 167,
+  "N": 668,
+  "source_path": "new_pointwise/d167/d167_prefix_rows.jsonl",
+  "source_sha256": "8d7aedd125f838c7e10588afefb15b6ed4634c9e277980a6c06145f9975c238e",
+  "source_bytes": 135404671,
+  "actual_generator": "phi_stream_partitioned.cpp",
+  "generator_sha256": "011f27ee78cc2a8ba105429c5b48ab18e58da6a1e538c1e04ff2df87f2e4d851",
+  "legacy_selected_generator_equivalent_prefix_sha256": "bc0724e42b707c7a269c70b89299013c0cbeb35751f982ba82b9834fb6cdb8d2",
+  "scope": "Source identity and completed row-key generation state. Full integer coefficient, moment and legal-row checks are performed by each audited pointwise wrapper; this receipt does not claim a second source generation.",
+  "bindings": {
+    "new_pointwise/d167/STATE.json": "6ae33f0d121e3e738ec5f8eb0873529e4aaa9556a18e952cbb972d03f434938d",
+    "new_pointwise/d167/SOURCE_BINDINGS.json": "01a9303be8388dad32bf2f9102497104a194cbac9327bfccdfc809e615be9ee4",
+    "control/run_pointwise_prefix.py": "aa4bafa96d65e42b197953e067a416523dada7b4f41e2f3ca98f10239aed2f7a",
+    "new_pointwise/d167/BINARY.json": "558d65c4313866dba3508fdf9eb102328cddfa2ca75029255bcda6807145e5a0",
+    "new_pointwise/d167/phi_stream_partitioned": "fed1b16b7daee959d6e4299232f0ad5025cb4bba9f179cf4cb3e0bc7eff28cc0"
+  }
+}

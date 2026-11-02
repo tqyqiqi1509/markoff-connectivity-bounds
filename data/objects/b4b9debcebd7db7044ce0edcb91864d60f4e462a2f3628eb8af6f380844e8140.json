@@ -1,0 +1,2010 @@
+{
+  "utc": "2026-11-01T04:55:45.727483+00:00",
+  "d": 34,
+  "nd": 204,
+  "matrix_shape": [
+    224,
+    202
+  ],
+  "source": "Martin section8.1 arbitrary-d filter; no connectivity theorem is asserted by this audit.",
+  "filter_algorithm": "Python monic polynomial lcm, independently compared with exact evaluation at all squared traces in Q[zeta_(2n)]",
+  "records": [
+    {
+      "n": 34,
+      "m_count": 8,
+      "g_T": [
+        0,
+        1,
+        -36,
+        210,
+        -462,
+        495,
+        -286,
+        91,
+        -15,
+        1
+      ],
+      "cyclotomic_modulus_degree": 32,
+      "selected_beta_classes": [
+        {
+          "representative_exponent": 1,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 3,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 5,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 7,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 9,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 11,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 13,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 15,
+          "ordinary_order": 68,
+          "even_order": 68
+        }
+      ],
+      "excluded_beta_classes": [
+        {
+          "representative_exponent": 2,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 4,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 6,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 8,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 10,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 12,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 14,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 16,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 17,
+          "ordinary_order": 4,
+          "even_order": 4
+        }
+      ],
+      "exact_filter_zero_set_verified": true
+    },
+    {
+      "n": 68,
+      "m_count": 24,
+      "g_T": [
+        0,
+        -2,
+        73,
+        -456,
+        1134,
+        -1452,
+        1067,
+        -468,
+        121,
+        -17,
+        1
+      ],
+      "cyclotomic_modulus_degree": 64,
+      "selected_beta_classes": [
+        {
+          "representative_exponent": 1,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 2,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 3,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 5,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 6,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 7,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 9,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 10,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 11,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 13,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 14,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 15,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 18,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 19,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 21,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 22,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 23,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 25,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 26,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 27,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 29,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 30,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 31,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 33,
+          "ordinary_order": 136,
+          "even_order": 136
+        }
+      ],
+      "excluded_beta_classes": [
+        {
+          "representative_exponent": 4,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 8,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 12,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 16,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 17,
+          "ordinary_order": 8,
+          "even_order": 8
+        },
+        {
+          "representative_exponent": 20,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 24,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 28,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 32,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 34,
+          "ordinary_order": 4,
+          "even_order": 4
+        }
+      ],
+      "exact_filter_zero_set_verified": true
+    },
+    {
+      "n": 102,
+      "m_count": 24,
+      "g_T": [
+        0,
+        3,
+        -976,
+        52975,
+        -1147770,
+        13253175,
+        -94427190,
+        453406590,
+        -1555427325,
+        3971844930,
+        -7778687400,
+        11947790910,
+        -14636834760,
+        14483699100,
+        -11684892744,
+        7735643280,
+        -4219037628,
+        1898691223,
+        -704434120,
+        214702527,
+        -53401270,
+        10724329,
+        -1711314,
+        211830,
+        -19599,
+        1275,
+        -52,
+        1
+      ],
+      "cyclotomic_modulus_degree": 64,
+      "selected_beta_classes": [
+        {
+          "representative_exponent": 1,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 3,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 5,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 7,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 9,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 11,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 13,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 15,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 19,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 21,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 23,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 25,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 27,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 29,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 31,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 33,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 35,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 37,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 39,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 41,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 43,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 45,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 47,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 49,
+          "ordinary_order": 204,
+          "even_order": 204
+        }
+      ],
+      "excluded_beta_classes": [
+        {
+          "representative_exponent": 2,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 4,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 6,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 8,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 10,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 12,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 14,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 16,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 17,
+          "ordinary_order": 12,
+          "even_order": 12
+        },
+        {
+          "representative_exponent": 18,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 20,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 22,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 24,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 26,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 28,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 30,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 32,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 34,
+          "ordinary_order": 6,
+          "even_order": 6
+        },
+        {
+          "representative_exponent": 36,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 38,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 40,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 42,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 44,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 46,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 48,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 50,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 51,
+          "ordinary_order": 4,
+          "even_order": 4
+        }
+      ],
+      "exact_filter_zero_set_verified": true
+    },
+    {
+      "n": 136,
+      "m_count": 56,
+      "g_T": [
+        0,
+        -4,
+        154,
+        -1206,
+        4165,
+        -7896,
+        9076,
+        -6656,
+        3181,
+        -986,
+        191,
+        -21,
+        1
+      ],
+      "cyclotomic_modulus_degree": 128,
+      "selected_beta_classes": [
+        {
+          "representative_exponent": 1,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 2,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 3,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 4,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 5,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 6,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 7,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 9,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 10,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 11,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 12,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 13,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 14,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 15,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 18,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 19,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 20,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 21,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 22,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 23,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 25,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 26,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 27,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 28,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 29,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 30,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 31,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 33,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 35,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 36,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 37,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 38,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 39,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 41,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 42,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 43,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 44,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 45,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 46,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 47,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 49,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 50,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 52,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 53,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 54,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 55,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 57,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 58,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 59,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 60,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 61,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 62,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 63,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 65,
+          "ordinary_order": 272,
+          "even_order": 272
+        },
+        {
+          "representative_exponent": 66,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 67,
+          "ordinary_order": 272,
+          "even_order": 272
+        }
+      ],
+      "excluded_beta_classes": [
+        {
+          "representative_exponent": 8,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 16,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 17,
+          "ordinary_order": 16,
+          "even_order": 16
+        },
+        {
+          "representative_exponent": 24,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 32,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 34,
+          "ordinary_order": 8,
+          "even_order": 8
+        },
+        {
+          "representative_exponent": 40,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 48,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 51,
+          "ordinary_order": 16,
+          "even_order": 16
+        },
+        {
+          "representative_exponent": 56,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 64,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 68,
+          "ordinary_order": 4,
+          "even_order": 4
+        }
+      ],
+      "exact_filter_zero_set_verified": true
+    },
+    {
+      "n": 170,
+      "m_count": 40,
+      "g_T": [
+        0,
+        5,
+        -4520,
+        683271,
+        -41404958,
+        1345525126,
+        -27203142890,
+        374493938910,
+        -3729765101771,
+        28064361375023,
+        -164798238725036,
+        774401370540875,
+        -2970502715586000,
+        9451921103641835,
+        -25278810284624680,
+        57449099308532960,
+        -111961005518027820,
+        188557452005593055,
+        -276203224697480192,
+        353832326083833681,
+        -398244005747595462,
+        395325730863711900,
+        -347212070111987850,
+        270510862031036970,
+        -187325898898822635,
+        115472340759178620,
+        -63423165740310480,
+        31053618440187420,
+        -13553596051913456,
+        5270226005448788,
+        -1823670116923536,
+        560593823860640,
+        -152713637439160,
+        36747805938701,
+        -7778510273688,
+        1440664487591,
+        -231899081750,
+        32164183250,
+        -3801753890,
+        377447070,
+        -30872015,
+        2024785,
+        -102340,
+        3741,
+        -88,
+        1
+      ],
+      "cyclotomic_modulus_degree": 128,
+      "selected_beta_classes": [
+        {
+          "representative_exponent": 1,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 3,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 5,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 7,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 9,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 11,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 13,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 15,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 19,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 21,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 23,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 25,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 27,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 29,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 31,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 33,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 35,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 37,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 39,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 41,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 43,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 45,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 47,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 49,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 53,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 55,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 57,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 59,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 61,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 63,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 65,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 67,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 69,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 71,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 73,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 75,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 77,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 79,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 81,
+          "ordinary_order": 340,
+          "even_order": 340
+        },
+        {
+          "representative_exponent": 83,
+          "ordinary_order": 340,
+          "even_order": 340
+        }
+      ],
+      "excluded_beta_classes": [
+        {
+          "representative_exponent": 2,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 4,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 6,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 8,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 10,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 12,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 14,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 16,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 17,
+          "ordinary_order": 20,
+          "even_order": 20
+        },
+        {
+          "representative_exponent": 18,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 20,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 22,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 24,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 26,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 28,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 30,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 32,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 34,
+          "ordinary_order": 10,
+          "even_order": 10
+        },
+        {
+          "representative_exponent": 36,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 38,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 40,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 42,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 44,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 46,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 48,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 50,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 51,
+          "ordinary_order": 20,
+          "even_order": 20
+        },
+        {
+          "representative_exponent": 52,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 54,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 56,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 58,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 60,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 62,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 64,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 66,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 68,
+          "ordinary_order": 5,
+          "even_order": 10
+        },
+        {
+          "representative_exponent": 70,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 72,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 74,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 76,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 78,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 80,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 82,
+          "ordinary_order": 170,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 84,
+          "ordinary_order": 85,
+          "even_order": 170
+        },
+        {
+          "representative_exponent": 85,
+          "ordinary_order": 4,
+          "even_order": 4
+        }
+      ],
+      "exact_filter_zero_set_verified": true
+    },
+    {
+      "n": 204,
+      "m_count": 72,
+      "g_T": [
+        0,
+        -6,
+        1979,
+        -114752,
+        2778174,
+        -37155106,
+        315072550,
+        -1837324710,
+        7771330275,
+        -24757402515,
+        61089949710,
+        -119290265325,
+        187447757040,
+        -240164343900,
+        253491876858,
+        -222174350616,
+        162651920340,
+        -99867473522,
+        51546958295,
+        -22380497100,
+        8164421226,
+        -2494709370,
+        635051736,
+        -133572730,
+        22937881,
+        -3161235,
+        341003,
+        -27719,
+        1596,
+        -58,
+        1
+      ],
+      "cyclotomic_modulus_degree": 128,
+      "selected_beta_classes": [
+        {
+          "representative_exponent": 1,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 2,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 3,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 5,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 6,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 7,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 9,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 10,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 11,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 13,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 14,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 15,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 18,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 19,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 21,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 22,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 23,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 25,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 26,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 27,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 29,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 30,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 31,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 33,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 35,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 37,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 38,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 39,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 41,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 42,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 43,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 45,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 46,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 47,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 49,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 50,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 53,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 54,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 55,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 57,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 58,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 59,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 61,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 62,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 63,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 65,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 66,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 67,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 69,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 70,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 71,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 73,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 74,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 75,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 77,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 78,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 79,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 81,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 82,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 83,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 86,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 87,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 89,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 90,
+          "ordinary_order": 68,
+          "even_order": 68
+        },
+        {
+          "representative_exponent": 91,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 93,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 94,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 95,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 97,
+          "ordinary_order": 408,
+          "even_order": 408
+        },
+        {
+          "representative_exponent": 98,
+          "ordinary_order": 204,
+          "even_order": 204
+        },
+        {
+          "representative_exponent": 99,
+          "ordinary_order": 136,
+          "even_order": 136
+        },
+        {
+          "representative_exponent": 101,
+          "ordinary_order": 408,
+          "even_order": 408
+        }
+      ],
+      "excluded_beta_classes": [
+        {
+          "representative_exponent": 4,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 8,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 12,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 16,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 17,
+          "ordinary_order": 24,
+          "even_order": 24
+        },
+        {
+          "representative_exponent": 20,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 24,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 28,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 32,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 34,
+          "ordinary_order": 12,
+          "even_order": 12
+        },
+        {
+          "representative_exponent": 36,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 40,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 44,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 48,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 51,
+          "ordinary_order": 8,
+          "even_order": 8
+        },
+        {
+          "representative_exponent": 52,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 56,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 60,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 64,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 68,
+          "ordinary_order": 6,
+          "even_order": 6
+        },
+        {
+          "representative_exponent": 72,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 76,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 80,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 84,
+          "ordinary_order": 34,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 85,
+          "ordinary_order": 24,
+          "even_order": 24
+        },
+        {
+          "representative_exponent": 88,
+          "ordinary_order": 51,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 92,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 96,
+          "ordinary_order": 17,
+          "even_order": 34
+        },
+        {
+          "representative_exponent": 100,
+          "ordinary_order": 102,
+          "even_order": 102
+        },
+        {
+          "representative_exponent": 102,
+          "ordinary_order": 4,
+          "even_order": 4
+        }
+      ],
+      "exact_filter_zero_set_verified": true
+    }
+  ],
+  "seconds": 2.606494665145874
+}

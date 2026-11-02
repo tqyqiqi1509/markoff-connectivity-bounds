@@ -1,0 +1,28 @@
+{
+  "status": "FULL_SOURCE_AND_NORMALIZATION_PASSED",
+  "created_utc": "2026-11-01T12:05:29.552108+00:00",
+  "d": 157,
+  "N": 628,
+  "rows": 780,
+  "columns": 626,
+  "matrix_file": "full_d157_matrix.json",
+  "matrix_sha256": "0cfc70ee062ded2b62fed7799f87a3bad9b37b180a813e4e640200f578d2235e",
+  "matrix_bytes": 163683779,
+  "raw_sources": [
+    {
+      "file": "d157_prefix_rows.jsonl",
+      "sha256": "eff5802db9155f20eeaa242624ca1db06580fe82a4f258b4f1959d81dda3684e",
+      "bytes": 112504232
+    },
+    {
+      "file": "d157_tail_rows.jsonl",
+      "sha256": "e63cfdddfb20df5bdf999f94eac4edd1471114edb5bd3e1d30170833707d1d42",
+      "bytes": 52925973
+    }
+  ],
+  "nonzero_states_total": 15763639556,
+  "integer_additions_total": 94146401484,
+  "sum_row_seconds": 7196.421682300002,
+  "build_seconds": 5.638994311000715,
+  "normalization_only_primes_le": 1256
+}

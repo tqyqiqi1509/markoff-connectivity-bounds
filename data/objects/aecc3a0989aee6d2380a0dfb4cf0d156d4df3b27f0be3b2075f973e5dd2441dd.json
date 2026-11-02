@@ -1,0 +1,138 @@
+{
+  "N": 276,
+  "completed_computation_phase_wall_seconds": 359.84706953800014,
+  "continuation_from_hashed_complete_fresh_source": true,
+  "core_files": {
+    "FRESH_MODULAR_START.json": "fcd3ae1c8313e66ab97467974bd4c5b253eb4f516cce32959f55e13c1cd2324a",
+    "RESTORED_SOURCE_AUDIT.json": "694ec0d1a32d78e5e6570bd24f9989af4a66fa1e650372a7583b6cb759329fe9",
+    "composite_d46_certificate.json": "15855d0fc34217f5197b10be23676f39401cd84a208e22ae25fc0aebb59b8c21",
+    "composite_d46_independent_verification.json": "4590b28c2e29c30024ba2a4271de8ffd4633ebfa69c1a67ab5120920a55b3a0a",
+    "composite_d46_matrix.json": "b04e7e3dac26281ec8ef602d3d1d5ad633dd7e18a3403a8ee252ed294f7340a6",
+    "composite_d46_modular_journal.jsonl": "98ecff3cbe367541b00f192bc51e93f81abd6cf9f44ea43b7cd61c5ded6c1c91",
+    "composite_d46_raw.jsonl": "392c81e953d6e2db4a3a22f7bf01ca0feb916f68c63e82e32495529f770689be",
+    "d46_canonical_source_rows.json": "d0df2a0e42a52592427d5f9fd0030773f543db305bb66f702d090dae9625f95a",
+    "phi_stream_composite.cpp": "a0e589c5c34212df4f44837f2a79a74db75b7db4c286c06601bf3c3c53b0eb15",
+    "verify_composite_certificate.py": "e0b2d79fd8473db0b7a88dfd4ee19e4ebf44edf20d2d69f2a121707daa544426"
+  },
+  "created_utc": "2026-11-01T07:33:46.003347+00:00",
+  "crt52_1e57_status": "not executed",
+  "d": 46,
+  "d139_status": "interrupted, independent verification incomplete, not admitted",
+  "fresh_source_row_count": 308,
+  "integer_minors_reused": 0,
+  "minor_decimal_digits": [
+    34286,
+    34238
+  ],
+  "minor_proofs": [
+    {
+      "checks": 3614,
+      "hadamard_bits": 220449,
+      "index": 0
+    },
+    {
+      "checks": 3603,
+      "hadamard_bits": 219726,
+      "index": 1
+    }
+  ],
+  "modular_prime_count": 3614,
+  "modular_records_reused": 0,
+  "modulus_product_bits": 220456,
+  "p_gate": {
+    "excluded_residue_modulus": 92,
+    "excluded_residues": [
+      1,
+      91
+    ],
+    "strict_lower_bound": 552
+  },
+  "phases": [
+    {
+      "command": [
+        "g++",
+        "-O3",
+        "-std=c++17",
+        "-fopenmp",
+        "/tmp/baragar_recovered/latest/finite46_recomputed/phi_stream_composite.cpp",
+        "-lgmpxx",
+        "-lgmp",
+        "-o",
+        "/tmp/baragar_recovered/latest/finite46_recomputed/phi_stream_composite"
+      ],
+      "cpu_seconds": 5.057879,
+      "cwd": "/tmp",
+      "returncode": 0,
+      "stage": "compile_engine",
+      "wall_seconds": 5.066574292000041
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+        "-B",
+        "/tmp/baragar_recovered/latest/finite46_recomputed/composite_parameters.py",
+        "46:276"
+      ],
+      "cpu_seconds": 17.012968,
+      "cwd": "/tmp",
+      "returncode": 0,
+      "stage": "exact_filter_class_audit",
+      "wall_seconds": 17.057586768999954
+    },
+    {
+      "command": [
+        "/tmp/baragar_recovered/latest/finite46_recomputed/phi_stream_composite",
+        "46",
+        "/tmp/baragar_recovered/latest/finite46_recomputed/composite_d46_raw.jsonl",
+        "2",
+        "276"
+      ],
+      "cpu_seconds": 120.103606,
+      "cwd": "/tmp",
+      "returncode": 0,
+      "stage": "fresh_complete_source",
+      "wall_seconds": 60.49606003400004
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+        "-B",
+        "/tmp/baragar_recovered/latest/finite46_recomputed/finalize_composite_matrix.py",
+        "46",
+        "/tmp/baragar_recovered/latest/finite46_recomputed/composite_d46_raw.jsonl",
+        "--maxminors",
+        "2",
+        "--method",
+        "minors"
+      ],
+      "cpu_seconds": 133.88227099999997,
+      "cwd": "/tmp",
+      "returncode": 0,
+      "stage": "fresh_integer_maximal_minors",
+      "wall_seconds": 133.9811250560001
+    },
+    {
+      "command": [
+        "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+        "-B",
+        "/tmp/baragar_recovered/latest/finite46_recomputed/verify_composite_certificate.py",
+        "46"
+      ],
+      "cpu_seconds": 143.17242700000003,
+      "cwd": "/tmp",
+      "returncode": 0,
+      "stage": "fresh_bounded_modular_replay",
+      "wall_seconds": 143.245723387
+    }
+  ],
+  "same_recovery_source_rows_reused_after_resource_guard": 308,
+  "scope": "General d46 rank certificate, conditional only on the previously audited Martin/general-d/pure-three-Vieta bridge; no claim for arbitrary d",
+  "shape": [
+    308,
+    274
+  ],
+  "shared_backend": "FLINT integer and nmod determinant entry points; independent source/certificate logic, not different complete arithmetic libraries",
+  "source_rows_reused_from_historical_run": 0,
+  "status": "D46_FRESH_GENERAL_CERTIFICATE_AND_BOUNDED_MODULAR_REPLAY_COMPLETED",
+  "wall_seconds_this_invocation": 374.74033484200027
+}

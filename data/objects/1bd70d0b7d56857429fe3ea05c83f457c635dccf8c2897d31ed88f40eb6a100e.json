@@ -1,0 +1,23 @@
+{
+  "d": 113,
+  "nd": 452,
+  "matrix_file": "stream_d113_matrix.json",
+  "matrix_sha256": "2447ec0e660ca56806df8ff558d9f91b970f4afd1471d56fb2b76b93a86e60d7",
+  "shape": [
+    560,
+    450
+  ],
+  "matrix_build_seconds": 3.1320717334747314,
+  "engine": "C++ GMP scalar coefficient propagation through descending total degree layers",
+  "reference_comparison": null,
+  "row_compute_seconds_sum": 1119.0241051,
+  "nonzero_states_total": 4238643348,
+  "integer_additions_total": 25269499896,
+  "status": "certified_no_exception_p_above_bound",
+  "rough_gcd": "1",
+  "certificate_method": "codimension_one",
+  "codimension_one_certificate_file": "codim_d113_certificate.json",
+  "codimension_one_certificate_sha256": "540b1aa030c5409e0426a9880087c12171c832383f32353ceb5a01ad0cab509d",
+  "finalization_seconds": 177.92829704284668,
+  "maxrss_kib": 268500
+}

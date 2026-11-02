@@ -1,0 +1,21 @@
+{
+  "status": "PASS_INDEPENDENT_SELECTED_MOMENT_FULL_ARITHMETIC_AND_ENDPOINT",
+  "certificate_sha256": "ca42290f5f622d7e71ab7f68041d2467350e45a0a91a519c8f08144daf8f9992",
+  "verifier_sha256": "d9ece84d21169045b9d6b254b6b158439c66a434bdd7c5c50ffb7ed1f4e7ad81",
+  "precision_bits": 256,
+  "fresh_prime_factors": 564,
+  "fresh_nonzero_exponents": 1355,
+  "fresh_normal_root_brackets": 997,
+  "continuous_variance_boxes": 997,
+  "infinite_variance_tail_checked": true,
+  "new_euler_product_display_only": "[43536.1733055930513764717786459592515333764722788492696682567678903165485207 +/- 4.97e-71]",
+  "maximum_variance_bound_display_only": "[0.4845177043691915324737110842901759920940231093611549614281033315018286488097 +/- 1.55e-77]",
+  "endpoint_points": 10,
+  "P": "3000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "endpoint_binary_digits": [
+    9802583,
+    9802756
+  ],
+  "seconds": 20.306795152000632,
+  "scope": "No producer/helper imports. Different moment and Gaussian formulas at256bits; all finite terms and all tails rebuilt. Exact Fraction endpoint checks. Shared Arb/FLINT is disclosed; external nonidentical Berry-Esseen C0.56 and inherited Markoff geometry remain separately reviewed theorem dependencies."
+}

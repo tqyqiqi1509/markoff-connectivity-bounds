@@ -1,0 +1,17 @@
+{
+  "d": 46,
+  "N": 276,
+  "matrix_sha256": "b04e7e3dac26281ec8ef602d3d1d5ad633dd7e18a3403a8ee252ed294f7340a6",
+  "raw_sha256": "392c81e953d6e2db4a3a22f7bf01ca0feb916f68c63e82e32495529f770689be",
+  "certificate_sha256": "15855d0fc34217f5197b10be23676f39401cd84a208e22ae25fc0aebb59b8c21",
+  "filter_audit_sha256": "f8e766155d3b53968b7d58afe68af091920be13d1c9f188ce4da9a5fcf3748a8",
+  "code_sha256": "e0b2d79fd8473db0b7a88dfd4ee19e4ebf44edf20d2d69f2a121707daa544426",
+  "minor_indices": [
+    0,
+    1
+  ],
+  "Hadamard_bits": [
+    220449,
+    219726
+  ]
+}

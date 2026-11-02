@@ -1,0 +1,457 @@
+{
+  "status": "EXACT_SUPPORT_ASSEMBLY_PASSED_PENDING_ROOT_REVIEW",
+  "utc": "2026-11-01T10:41:55.262507+00:00",
+  "conjecture": "OPEN; no new numerical p endpoint asserted",
+  "rank_gates": [
+    {
+      "d": 22,
+      "N": 132,
+      "strict_p_bound": 264,
+      "modulus": 44
+    },
+    {
+      "d": 33,
+      "N": 198,
+      "strict_p_bound": 396,
+      "modulus": 66
+    },
+    {
+      "d": 15,
+      "N": 90,
+      "strict_p_bound": 180,
+      "modulus": 30
+    },
+    {
+      "d": 35,
+      "N": 175,
+      "strict_p_bound": 350,
+      "modulus": 70
+    },
+    {
+      "d": 39,
+      "N": 234,
+      "strict_p_bound": 468,
+      "modulus": 78
+    },
+    {
+      "d": 34,
+      "N": 204,
+      "strict_p_bound": 408,
+      "modulus": 68
+    },
+    {
+      "d": 38,
+      "N": 228,
+      "strict_p_bound": 456,
+      "modulus": 76
+    },
+    {
+      "d": 46,
+      "N": 276,
+      "strict_p_bound": 552,
+      "modulus": 92
+    },
+    {
+      "d": 58,
+      "N": 348,
+      "strict_p_bound": 696,
+      "modulus": 116
+    }
+  ],
+  "successive_moduli": [
+    44,
+    132,
+    660,
+    4620,
+    60060,
+    1021020,
+    19399380,
+    446185740,
+    12939386460
+  ],
+  "overlap_gcd": [
+    22,
+    6,
+    10,
+    6,
+    4,
+    4,
+    4,
+    4
+  ],
+  "compatible_sign_patterns": [
+    [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "six_filter_modulus": 1021020,
+  "six_filter_strict_p_gate": 468,
+  "nine_filter_modulus": 12939386460,
+  "nine_filter_strict_p_gate": 696,
+  "forced_high_half_core_from52": "10760393780136000",
+  "forced_prime_support": [
+    2,
+    3,
+    5,
+    7,
+    11,
+    13,
+    17,
+    19,
+    23,
+    29
+  ],
+  "low_half_prime_divisors_at_least": 31,
+  "eliminated_impossible_analytic_support_masks": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
+  ],
+  "remaining_analytic_support_mask": 63,
+  "low_half_constants": {
+    "B_trace_cap": 662,
+    "B_trace_actual_product_upper": {
+      "numerator": "5809773489955246473395449939175136659014095855848750958459042859743872441114547081902284006249537351254986987838253555131465735882914069223387934372879888528397388213324791532295516596718159411289843631915917523532372448939801027226412662315503903434287562770108386940129227381376056269199328132443404555256387167310991973604161372642002448596680602801229481940943520721186636839334438648340546998147616707352846104521592892940408371458225765192056384053042793337556226659485515885964562404138399072675243097105359675151900673336977163152415847785959738236252781517338564402576992304018550718067791258328780894122919726365796525779879998915226218768332201954838425280427039743537838589933788908427286208910815267331779040815650063534468564197371019643552124886834916778445241679712515198492901136088283652091091263691590080817395500581520457585272142191935211459508266811813666256321132472736600040833567276424873708006305489597111370252882734842236335995757716396715408894986864280496182771280893341485994566531263008479754416269707372114358711304217628723782702483739827840164742804521469519923339537842948456051088454018282722298737959908432015555030591591738872840562492259391842685809080842593056177843397385422319085617890034396595837710417123553984071460534566408835984544421464361644064663517746615818327368382859913172807630340008538276491848535698268842115852060634358119382656001957424691046215261306735664392419211337824873292431262621159831143953192627071324758823049234136156798404040172387830593942631140022969410458629629456647876897810665811518181276740135217164516448974609375",
+      "denominator": "8780658446821318525964193058351419954394582333342832570787069911920855734891055425543955394949685086001437276826801525657314248804340101793019834217621753275504462938591460086387558599278078952925428267302200923563974076527892211466906579232456573327760378353664688848106859844827380042908321237704449074746907528955423090326722877273107029754095944414571767969440123424640723725790244543715631391410812493339046710030799484768115614074011268180936530643064971609607762939533518595659210355880549507075187521717571118986074955944146291418814795312154342295740132789824902096393971463720124185542270292275490415517536504938867214304512746299143744150428084316360705638705890727073741541464748508929812247531557041154281379730558122183016586479302956475395240942481304867044643538460689034694162164767424386042676136780213286496528499627097449108233771233458011108044814149499058791595185715682442452093231169863662115488822535151638350547811499015533617885031098052832118500850987777051198720908834377514986186104385206518388199576562891601103804851564002866036909589850232421967310379520935621239126913912386005515704005444631541003664649832207487875441985369877646064566309594985727714637270868615395218130841357108120921206377995451698907795381335842201024208232406131383199586804775807340561372543391290308276078439212073186644384845715100988184563705781416035468120716466083810793809061542308191831240593715523651188722213368680847937333685912936249921069754568200357770967629640803358985005459667506959475209957921626437154948646619200988663574376855374749962511388615368391259305541632"
+    },
+    "count_cap": 135,
+    "count_producer_upper": {
+      "numerator": "2865807242057986026172044833968154602847",
+      "denominator": "21267647932558653966460912964485513216"
+    },
+    "count_independent_replay_upper": {
+      "numerator": "49234193525116022872135730525355895694080083341471",
+      "denominator": "365375409332725729550921208179070754913983135744"
+    },
+    "negative_ratio_cap": {
+      "numerator": "26",
+      "denominator": "25"
+    },
+    "negative_ratio_actual_product_upper": {
+      "numerator": "100910268344500871546852901074212345087307065148864531712765628091065293041251824790410275012169208993159712357612664978149275428686535258457321872065286406529209258003872542852859536788809974563367861720715373493058272170518036976519358876084129931820995879474539231615250675",
+      "denominator": "97180573108346543392488321188069204188869660313586156283486903000972819477008319734993089591768849560757179669488048043542019998612276134700415541324617248312677840378666418670266760620665730596086633628609623913561231811650865971242948827193376328991856493781858212305174528"
+    },
+    "trace_factor_prime_rows": [
+      31,
+      37,
+      41,
+      43,
+      47,
+      53,
+      59,
+      61,
+      67,
+      71,
+      73,
+      79,
+      83,
+      89,
+      97,
+      101,
+      103,
+      107,
+      109,
+      113,
+      127,
+      131,
+      137,
+      139,
+      149,
+      151,
+      157,
+      163,
+      167,
+      173,
+      179,
+      181,
+      191,
+      193,
+      197,
+      199,
+      211,
+      223,
+      227,
+      229,
+      233,
+      239,
+      241,
+      251,
+      257,
+      263,
+      269,
+      271,
+      277,
+      281,
+      283,
+      293,
+      307,
+      311,
+      313,
+      317,
+      331,
+      337,
+      347,
+      349,
+      353,
+      359,
+      367,
+      373,
+      379,
+      383,
+      389,
+      397
+    ],
+    "negative_factor_prime_rows": [
+      31,
+      37,
+      41,
+      43,
+      47,
+      53,
+      59,
+      61,
+      67,
+      71
+    ]
+  },
+  "forced_exponents_alone_do_not_improve_current_BE_cap": [
+    {
+      "q": 2,
+      "minimum_exponent": 6,
+      "existing_Euler_maximizing_exponent": 25,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 3,
+      "minimum_exponent": 4,
+      "existing_Euler_maximizing_exponent": 16,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 5,
+      "minimum_exponent": 3,
+      "existing_Euler_maximizing_exponent": 5,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 7,
+      "minimum_exponent": 2,
+      "existing_Euler_maximizing_exponent": 4,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 11,
+      "minimum_exponent": 2,
+      "existing_Euler_maximizing_exponent": 7,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 13,
+      "minimum_exponent": 1,
+      "existing_Euler_maximizing_exponent": 3,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 17,
+      "minimum_exponent": 1,
+      "existing_Euler_maximizing_exponent": 2,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 19,
+      "minimum_exponent": 1,
+      "existing_Euler_maximizing_exponent": 2,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 23,
+      "minimum_exponent": 1,
+      "existing_Euler_maximizing_exponent": 5,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 29,
+      "minimum_exponent": 1,
+      "existing_Euler_maximizing_exponent": 2,
+      "existing_cap_unchanged": true
+    }
+  ],
+  "forced_exponents_alone_do_not_improve_separated_joint_B_cap": [
+    {
+      "q": 2,
+      "minimum_exponent": 6,
+      "existing_Euler_maximizing_exponent": 10,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 3,
+      "minimum_exponent": 4,
+      "existing_Euler_maximizing_exponent": 6,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 5,
+      "minimum_exponent": 3,
+      "existing_Euler_maximizing_exponent": 4,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 7,
+      "minimum_exponent": 2,
+      "existing_Euler_maximizing_exponent": 3,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 11,
+      "minimum_exponent": 2,
+      "existing_Euler_maximizing_exponent": 3,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 13,
+      "minimum_exponent": 1,
+      "existing_Euler_maximizing_exponent": 2,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 17,
+      "minimum_exponent": 1,
+      "existing_Euler_maximizing_exponent": 2,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 19,
+      "minimum_exponent": 1,
+      "existing_Euler_maximizing_exponent": 2,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 23,
+      "minimum_exponent": 1,
+      "existing_Euler_maximizing_exponent": 2,
+      "existing_cap_unchanged": true
+    },
+    {
+      "q": 29,
+      "minimum_exponent": 1,
+      "existing_Euler_maximizing_exponent": 2,
+      "existing_cap_unchanged": true
+    }
+  ],
+  "bindings": {
+    "agents/attachment_audit/extracted/06_computations/3a118ed3a8a4f8f9_composite_d22_certificate.json": "3a118ed3a8a4f8f921b0f1be9315b46fe2a2e7ff1e51123b19f9a1b33ae9bacc",
+    "agents/attachment_audit/extracted/04_audits_history/45b88711cdd4ac79_composite_d22_independent_verification.json": "45b88711cdd4ac79b3d874adbe7ed84af1a9f61675bd452fdeccd0c305ca931f",
+    "agents/attachment_audit/extracted/06_computations/bec8a999d32a3575_composite_d33_certificate.json": "bec8a999d32a3575a1e1a13d745fce093b68adc202454242e93e39a3b574f848",
+    "agents/attachment_audit/extracted/04_audits_history/0ce5a6dcd85d7e76_composite_d33_independent_verification.json": "0ce5a6dcd85d7e76a642275d06e6a5469ce5009bd65a67c4fb18d220c89c92fc",
+    "agents/attachment_audit/extracted/06_computations/b53361f8befec976_composite_d15_certificate.json": "b53361f8befec976b8edbdf60bfe400e481fd49a87029b80db855743f1e44991",
+    "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/composite_d15_independent_bareiss_verification.jsonl": "7744fcd3fda3f6918baace9d788cf15daae9d2eea8e12043358a2568570e8eb8",
+    "agents/attachment_audit/extracted/06_computations/541d6070a007226a_composite_d35_certificate.json": "541d6070a007226aedd74428eae8147647b564b02bb34d52ff6d084ded1e2fe4",
+    "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/composite_d35_minor_verification.jsonl": "865fa78bfcdd08267ec9870bae0c059d1f3172156d1a70b81ca01c504c7f1e03",
+    "agents/attachment_audit/extracted/06_computations/365ccee2e9797faf_composite_d39_certificate.json": "365ccee2e9797faf50dd0e440da1ab84a39fd6fc5f5f1b52beacba6b928dd400",
+    "agents/attachment_audit/extracted/04_audits_history/affc2055fb109f5c_composite_d39_independent_verification.json": "affc2055fb109f5c9550ff2b3c7fcc9b1a96332ed0d4c42ca563c59bf7979268",
+    "agents/attachment_audit/extracted/06_computations/765e80d6a8053eac_composite_d34_certificate.json": "765e80d6a8053eac5b5af886a454e4deab6e72ffa00130badd6ac48b2d6a80a1",
+    "agents/attachment_audit/extracted/04_audits_history/ec60340d15ae93f7_composite_d34_independent_verification.json": "ec60340d15ae93f7f555fb2797d7af6b7803a08d7bebc9b2ad19f25b9d81c353",
+    "agents/attachment_audit/extracted/06_computations/6ed2ed7e371f0aed_composite_d38_certificate.json": "6ed2ed7e371f0aed8c8a5dc69f78ed1ee351c50653a620ae8b33045fefeffdf0",
+    "agents/attachment_audit/extracted/04_audits_history/b6808bd4f4cdf2ff_composite_d38_independent_verification.json": "b6808bd4f4cdf2ff09ba1b616692b5a1e7f9cd9dea92565e9704d63f3a69cf18",
+    "prior_restored/latest/finite46_recomputed/d46_recomputed_acceptance.json": "aecc3a0989aee6d2380a0dfb4cf0d156d4df3b27f0be3b2075f973e5dd2441dd",
+    "prior_restored/latest/finite46_recomputed/composite_d46_certificate.json": "15855d0fc34217f5197b10be23676f39401cd84a208e22ae25fc0aebb59b8c21",
+    "prior_restored/latest/finite46_recomputed/composite_d46_independent_verification.json": "4590b28c2e29c30024ba2a4271de8ffd4633ebfa69c1a67ab5120920a55b3a0a",
+    "control/D58_ROOT_ACCEPTANCE.json": "b4a20cbc0fedf5f6a5f67c5aa64721dc1022f3b2110c99d9331701f9af27323a",
+    "agents/attachment_audit/d58/composite_d58_certificate.json": "19901fbbc9b15fc1a88a8a308f649e5a3c571432c727fd62588db82f1e5d58e4",
+    "agents/attachment_audit/d58/composite_d58_independent_verification.json": "6fa91a0ae1a7af51d39c156ee6b5f958a3c6d73b48bc4fd71256e64bbd704811",
+    "control/FINITE_1E56_ROOT_ACCEPTANCE.json": "4e62c14593d5aa980f0a3645913cd4c390a828fdbd90697763ce59dd46bf734d",
+    "agents/crt_closure_round3/CRT52_INDEPENDENT_ENUMERATION.json": "7d71f4b349673f7f5a3400f1451561255e90bb35d2273569dad3564c13348f22",
+    "control/HALF_BOUND_ROOT_ACCEPTANCE.json": "7271bd9ca3119800412639345a69f3d0b365610e8ca831f9f067e301d813a252",
+    "agents/joint_analytic/HALF_MODULUS_ENDPOINT_CERTIFICATE.json": "ffba9ba56488b585a62c334f75f0399d6b26282e3cab5ca54b57d63362e39368",
+    "prior_restored/latest/root/bad_branch_transfer/old63branches_and_prerequisites.json": "2df84959e8429608089ea36a08736f98e510f693cbb948dad127ab2b3b40ff5f",
+    "prior_restored/baragar_current_run/weighted_window_certificate/weighted_159.json": "c28a5f75dfef26297b25accbbab1c53d4ac03e4839ff083547f5f4c5b058c91b",
+    "prior_restored/baragar_current_run/weighted_window_certificate/replay_weighted_159.json": "80366d493104cc3f6be8cc47236620905b9c8c755923af6739cdfb128c10e7c1",
+    "agents/probability_mechanism_round6/SELECTED_MOMENT_CERTIFICATE.json": "ca42290f5f622d7e71ab7f68041d2467350e45a0a91a519c8f08144daf8f9992"
+  },
+  "script_sha256": "25d37f73fc89bd588cefe08109dc5eef9f0b35e96d9edda7111031571fd748b4",
+  "limits": [
+    "No determinant, source-matrix or spectral node rerun in this assembly.",
+    "The old 7e153 and 3e153 no-filter proofs remain separate and unchanged.",
+    "Arithmetic mask elimination applies only after using the accepted rank-filter dichotomy.",
+    "No claims that the remaining arithmetic progression contains no primes."
+  ]
+}

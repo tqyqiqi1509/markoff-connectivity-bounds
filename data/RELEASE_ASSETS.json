@@ -1,0 +1,120 @@
+{
+  "repository": "tqyqiqi1509/markoff-connectivity-bounds",
+  "tag": "v1.0.0",
+  "assets": [
+    {
+      "name": "proof-data-01.zip",
+      "bytes": 97660622,
+      "sha256": "fe5ee5cd00ecd74d1e3dc9b0fc6a136f684507d2f326601d2498c6831d0154da",
+      "objects": 6
+    },
+    {
+      "name": "proof-data-02.zip",
+      "bytes": 86018084,
+      "sha256": "43cee016bf67c92d76173ae4e2d9a72b1e6f687c6f751db94d12b1e3ca5086b3",
+      "objects": 3
+    },
+    {
+      "name": "proof-data-03.zip",
+      "bytes": 108099763,
+      "sha256": "796eebf0b5be005b486918c3f65258c6408c33ff3fba1d73b670c46ea9d6adf0",
+      "objects": 4
+    },
+    {
+      "name": "proof-data-04.zip",
+      "bytes": 68111498,
+      "sha256": "0139c6162299f8dd81e7e4bfb991590cc7a05d8791c315fdaeb386468a05164d",
+      "objects": 4
+    },
+    {
+      "name": "proof-data-05.zip",
+      "bytes": 63596917,
+      "sha256": "b97d681bd0c40e7965827b34d0fc77bf5a8b6c0349f789e39298ada1cc83cc39",
+      "objects": 1
+    },
+    {
+      "name": "proof-data-06.zip",
+      "bytes": 91946201,
+      "sha256": "b478013e913fb0c14a640dd4ee5191cd3a552f5eaa75a493fb07383f2b1536d1",
+      "objects": 11
+    },
+    {
+      "name": "proof-data-07.zip",
+      "bytes": 105853802,
+      "sha256": "a7fe7ad7ed0979607b68e59f943d270f7b1094605d729b1cd70449282dc58bf6",
+      "objects": 6
+    },
+    {
+      "name": "proof-data-08.zip",
+      "bytes": 109171508,
+      "sha256": "7bd66d5fd40c7819e20d0670a3566b66fdec24e7e8067db80aa40ac27918b8a2",
+      "objects": 3
+    },
+    {
+      "name": "proof-data-09.zip",
+      "bytes": 95524536,
+      "sha256": "c0cf6f9ce585426c238040ba25c438d4f756f44744b60ff24fb5da339994a1c2",
+      "objects": 3
+    },
+    {
+      "name": "proof-data-10.zip",
+      "bytes": 107967784,
+      "sha256": "c4d8ba16f8a912dd9f768a6a4d8c7659f0be392548d58f4602eae13ef04e6464",
+      "objects": 2
+    },
+    {
+      "name": "proof-data-11.zip",
+      "bytes": 101803286,
+      "sha256": "6cdd389392a479ac610a4a06ceafd1f22653cd5b32fe46e0bd64e2ff735f9a0a",
+      "objects": 3
+    },
+    {
+      "name": "proof-data-12.zip",
+      "bytes": 54893103,
+      "sha256": "ad2134f371f373c7005573381c70a8add729ca003ca80d59576e55a57d8e7137",
+      "objects": 2
+    },
+    {
+      "name": "proof-data-13.zip",
+      "bytes": 140396349,
+      "sha256": "a95191f12baee2f5e2524dcb289273d78808dd8ad8bcd6a0b25ebc27ca6f190c",
+      "objects": 6
+    },
+    {
+      "name": "proof-data-14.zip",
+      "bytes": 139000120,
+      "sha256": "201bc8f96e8e179ede146ec19d5b0e7879fbc0e2b19df0290cc8b1c7dfacb770",
+      "objects": 19
+    },
+    {
+      "name": "proof-data-15.zip",
+      "bytes": 98595966,
+      "sha256": "5f0779ec53762f9d441f4bbabdecf5c0e3717ecc9ce5d07f342fc94bed76c642",
+      "objects": 13
+    },
+    {
+      "name": "proof-data-16.zip",
+      "bytes": 99807868,
+      "sha256": "a619bf3661b9014ba59c9e1a4d7ecee145da166e25cd8aece7e865950d258d90",
+      "objects": 4
+    },
+    {
+      "name": "proof-data-17.zip",
+      "bytes": 115855011,
+      "sha256": "7c301ad629e67abc6bf16adae00a314404a95f04d53a8900b94a3366517e8aa1",
+      "objects": 10
+    },
+    {
+      "name": "proof-data-18.zip",
+      "bytes": 112990994,
+      "sha256": "6bfbd1b7990c691b6ac02884d3168318cc37ffeff5cefb5136e3c3816086685b",
+      "objects": 11
+    },
+    {
+      "name": "proof-data-19.zip",
+      "bytes": 50217277,
+      "sha256": "73e6ac52663d1c8a57b8b49c60b6c4fd1f625619dd1d09700c16dd6f0e723db6",
+      "objects": 3
+    }
+  ]
+}

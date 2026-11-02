@@ -1,0 +1,5 @@
+{
+  "source_sha256": "011f27ee78cc2a8ba105429c5b48ab18e58da6a1e538c1e04ff2df87f2e4d851",
+  "binary_sha256": "fed1b16b7daee959d6e4299232f0ad5025cb4bba9f179cf4cb3e0bc7eff28cc0",
+  "command": "g++ -O3 -std=c++17 -fopenmp phi_stream_partitioned.cpp -lgmpxx -lgmp -o phi_stream_partitioned"
+}

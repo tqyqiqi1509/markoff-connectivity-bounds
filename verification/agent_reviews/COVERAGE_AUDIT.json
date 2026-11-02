@@ -1,0 +1,16 @@
+{
+  "status": "PASS_57_INDEX_ROOTS_AND_CURRENT_SCIENTIFIC_SELECTION_WITH_ADDITIONAL_COFACTOR_CLOSURE",
+  "selection_sha256": "759789dd2e2a461981710acd4f4dff0c48d2d9d8ed2421c566bb5a66b456a3fb",
+  "additional_inputs_sha256": "a3ae7f52802aac4495c182d1096e1b4e87f6b3dfcb3691d82fd3b811fcaf3c2f",
+  "indexed_general_roots": 57,
+  "general_root_hashes_matched": 57,
+  "base_selection_files": 1602,
+  "additional_rows": 34,
+  "repaired_findings": [
+    "Authoritative general-rank roots silently ignored by initial catalog: repaired by dynamic concrete-path indexing and mandatory 57-root assertion.",
+    "Legal in-project ../ references for d121/d125 excluded by overbroad path guard: repaired in supplemental direct scientific closure.",
+    "Original producers hash six proof MD documents omitted by builder: marked required_hash_input for preservation."
+  ],
+  "ordinary_legacy_nodes_present": true,
+  "scope": "Artifact selection and source interface audit. Not fresh full 57 determinant or 1775 determinant regeneration; not theorem certification."
+}

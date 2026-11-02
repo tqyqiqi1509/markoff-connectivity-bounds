@@ -1,0 +1,16 @@
+{
+  "utc": "2026-10-31T16:40:29.684406+00:00",
+  "d": 15,
+  "nd": 90,
+  "rows": 100,
+  "retained_coefficient_checks": 8800,
+  "full_source_coefficients_including_low_terms": 6760,
+  "all_retained_coefficients_and_normalizations_equal": true,
+  "all_low_coefficients_follow_from_verified_exact_identities": true,
+  "source": "composite_d15_matrix.json",
+  "source_sha256": "1927b448be84f493aee20ce01f3e4034577de5c1722e7b9431c67bbf07e3b758",
+  "method": "old forward exact polynomial recurrence vs new backward scalar coefficient propagation; Python monic-lcm filter vs C++ inclusion-exclusion filter",
+  "max_half_degree": 224,
+  "seconds": 87.20916104316711,
+  "maxrss_kib": 351156
+}

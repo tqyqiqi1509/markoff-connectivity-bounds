@@ -1,0 +1,1 @@
+{"certificate": "composite_d15_certificate.json", "matrix_sha256": "1927b448be84f493aee20ce01f3e4034577de5c1722e7b9431c67bbf07e3b758", "d": 15, "arithmetic_verified": true, "method": "independent_pure_python_Bareiss", "minor_count": 2, "seconds": 73.1122453212738}

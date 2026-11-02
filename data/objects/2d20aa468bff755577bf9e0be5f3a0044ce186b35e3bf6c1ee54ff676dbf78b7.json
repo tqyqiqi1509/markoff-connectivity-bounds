@@ -1,0 +1,53 @@
+{
+  "status": "FRESH_WORKSPACE_NO_OLD_CERTIFICATE_OR_JOURNAL",
+  "created_utc": "2026-11-01T09:28:27.432123+00:00",
+  "d": 139,
+  "N": 556,
+  "prefix_path": "/workspace/scratch/3fd6272ba77d/baragar_20261101_090837/prior_restored/latest/finite51_15e54/d139_prefix_rows.jsonl",
+  "prefix_bytes": 78073455,
+  "prefix_sha256": "db7719d99be914a193814d98fdeacc3589d76b33dfe65cb2fdcd6d78951d219d",
+  "source_code": [
+    {
+      "file": "phi_stream_selected.cpp",
+      "original": "/workspace/scratch/3fd6272ba77d/baragar_20261101_090837/prior_restored/latest/finite/phi_stream_selected.cpp",
+      "sha256": "bc0724e42b707c7a269c70b89299013c0cbeb35751f982ba82b9834fb6cdb8d2",
+      "bytes": 7398
+    },
+    {
+      "file": "phi_stream_partitioned.cpp",
+      "original": "/workspace/scratch/3fd6272ba77d/baragar_20261101_090837/prior_restored/latest/finite/phi_stream_partitioned.cpp",
+      "sha256": "011f27ee78cc2a8ba105429c5b48ab18e58da6a1e538c1e04ff2df87f2e4d851",
+      "bytes": 7495
+    },
+    {
+      "file": "build_full_matrix.py",
+      "original": "/workspace/scratch/3fd6272ba77d/baragar_20261101_090837/prior_restored/latest/finite/build_full_matrix.py",
+      "sha256": "69fc6d8cfad793ed748f4c49e3eb797b82b5f60a48d551ff725666fd9055b574",
+      "bytes": 3449
+    },
+    {
+      "file": "universal_codimension_certificate.py",
+      "original": "/workspace/scratch/3fd6272ba77d/baragar_20261101_090837/prior_restored/latest/finite/universal_codimension_certificate.py",
+      "sha256": "e66db1d3ae87791a0eb5a55fae394bb0c33e69e16020ecf0f59755850bc555bc",
+      "bytes": 5116
+    },
+    {
+      "file": "verify_universal_modular.py",
+      "original": "/workspace/scratch/3fd6272ba77d/baragar_20261101_090837/prior_restored/latest/finite/verify_universal_modular.py",
+      "sha256": "b7f0ec03ab61b29e2976172722b8af022d2f43c332eed92db7989cfb62c5c424",
+      "bytes": 8548
+    }
+  ],
+  "old_observation_used_as_certificate": false,
+  "missing_tail_rows": 136,
+  "tail_range": {
+    "n": 556,
+    "m_first": 140,
+    "m_last": 275
+  },
+  "complete_shape": [
+    690,
+    554
+  ],
+  "scope": "A producer status alone is not independent acceptance. Require fresh explicit Hadamard modular verification."
+}

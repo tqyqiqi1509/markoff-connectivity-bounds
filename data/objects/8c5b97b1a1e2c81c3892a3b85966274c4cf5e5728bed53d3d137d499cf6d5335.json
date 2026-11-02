@@ -1,0 +1,8 @@
+{
+  "d": 163,
+  "stage": "CERTIFIED_ALL_ELIGIBLE_PRIMES",
+  "source_sha256": "d6a19c2b76a423e6cd0cfbd3cabcc9d17be4631f14da76d1fc2f615d33602063",
+  "utc": "2026-11-01T13:38:49.466342+00:00",
+  "elapsed_seconds": 2959.5103454140008,
+  "rough_gcd": "1"
+}

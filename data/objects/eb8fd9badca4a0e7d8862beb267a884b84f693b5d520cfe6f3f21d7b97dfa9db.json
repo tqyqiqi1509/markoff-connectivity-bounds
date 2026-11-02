@@ -1,0 +1,19 @@
+{
+  "status": "PASS_EXHAUSTIVE_EXACT_RATIONAL_STRUCTURE_AND_BINDINGS",
+  "frequency_values": 76544,
+  "continuous_variance_boxes": 2128,
+  "all_prime_tail_rows": 564,
+  "all_nonzero_candidate_exponents": 1355,
+  "maximum_box": [
+    "207",
+    "3313/16"
+  ],
+  "maximum_saved_upper": "1180991538081407405401192664682601870951477223970854557119/3138550867693340381917894711603833208051177722232017256448",
+  "global_saved_upper": "4731692788434934181571746991777529416773137661552403940887/12554203470773361527671578846415332832204710888928069025792",
+  "boxes_using_BE": 0,
+  "producer_sha256": "45a9c58ec1d4c12cdc42c7ecc560af77c27621f1a5db603a218f910cebdb692c",
+  "frequency_sha256": "0bfce18d9fbe285fd4bd4334c5c0d477b954d5206497a2ac392119f6f8a4c656",
+  "variance_sha256": "bee58c98d81c4711444ae14aad26fa37912b256caf270e11efb92cf37c043263",
+  "checker_sha256": "36ddb1845530320f78c6fa463eacf38d2079fb68ef451e4b2729e9be3a07ec9d",
+  "scope": "All saved rational values, coverage and compositions checked. This does not independently verify transcendental enclosures; independent arithmetic replay belongs to root."
+}
