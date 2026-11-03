@@ -1,0 +1,1097 @@
+{
+  "status": "PASS_FRACTIONAL_ENDPOINT_PENDING_INDEPENDENT_MATHEMATICAL_REVIEW",
+  "P": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "C": 25237,
+  "H_high": "8793",
+  "fractional_reference": {
+    "C_fractional": 26488,
+    "duplicated_reference_for_old_checker_only": 26488,
+    "R": 3
+  },
+  "fixed_cover_switch": {
+    "numerator": "3906",
+    "denominator": "1"
+  },
+  "cuts": [
+    {
+      "numerator": "128",
+      "denominator": "1"
+    },
+    {
+      "numerator": "10600",
+      "denominator": "1"
+    },
+    {
+      "numerator": "15900",
+      "denominator": "1"
+    }
+  ],
+  "epsilon_upper": {
+    "numerator": "1",
+    "denominator": "1000000000000"
+  },
+  "scope": "Numerical endpoint comparisons; geometric reductions are proved in the accompanying article.",
+  "gates": [
+    {
+      "name": "fractional_moment_input",
+      "pass": true
+    },
+    {
+      "name": "signed_trace_input",
+      "pass": true
+    },
+    {
+      "name": "trace_strong",
+      "pass": true
+    },
+    {
+      "name": "trace_relaxed",
+      "pass": true
+    },
+    {
+      "name": "fractional_budget_embedding",
+      "pass": true
+    },
+    {
+      "name": "elimination_exponents",
+      "pass": true
+    },
+    {
+      "name": "budget_weights",
+      "pass": true
+    },
+    {
+      "name": "conservative_final_powers",
+      "pass": true
+    },
+    {
+      "name": "epsilon_uniform_bound",
+      "pass": true
+    },
+    {
+      "name": "delta_transport_exponent",
+      "pass": true
+    },
+    {
+      "name": "fixed_trace_transport",
+      "pass": true
+    },
+    {
+      "name": "ordinary_mass_capacity_cap",
+      "pass": true,
+      "left": {
+        "bits": 2527677,
+        "sha256_unsigned_big_endian": "11d12b5be79fd41136b94a4f08411ac2ee649d6fb3931f6e8db964875d46252f"
+      },
+      "right": {
+        "bits": 2527667,
+        "sha256_unsigned_big_endian": "86ace65a238ed392e42c80b1c953f6cd03a3b34750efa583ffec955f0211fd7b"
+      }
+    },
+    {
+      "name": "capacity_increasing",
+      "pass": true
+    },
+    {
+      "name": "ceil_root",
+      "pass": true,
+      "T": "144241725524106608"
+    },
+    {
+      "name": "safe8_at_P",
+      "pass": true,
+      "left": "89563940145640310382864984697862776695538216292491652722054134620444572832563927583116029358359111084546569359864745761419101817210591661555814400",
+      "right": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "name": "cage_at_P",
+      "pass": true,
+      "left": "4626579176258507708418325418699456741066086929628199303022282475990864737613347187941959464571136",
+      "right": "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "name": "uniform_safe_exponents",
+      "pass": true
+    },
+    {
+      "name": "upward_characteristic_R3",
+      "pass": true
+    },
+    {
+      "name": "fixed_breakpoint_order",
+      "pass": true
+    },
+    {
+      "name": "profile_log_convex",
+      "pass": true,
+      "D_lower": {
+        "numerator": "10502965909935774742397801621992761330815224474459980041021813527",
+        "denominator": "2881189696542486470600627345252318884990981149008991841419264000"
+      }
+    },
+    {
+      "name": "geometric:old_trivial:zero",
+      "pass": true
+    },
+    {
+      "name": "geometric:old_trivial:128",
+      "pass": true
+    },
+    {
+      "name": "profile_D:old_profile:128",
+      "pass": true
+    },
+    {
+      "name": "geometric:old_profile:128",
+      "pass": true
+    },
+    {
+      "name": "profile_D:old_profile:horizontal",
+      "pass": true
+    },
+    {
+      "name": "geometric:old_profile:horizontal",
+      "pass": true
+    },
+    {
+      "name": "profile_D:old_profile:low_cap",
+      "pass": true
+    },
+    {
+      "name": "geometric:old_profile:low_cap",
+      "pass": true
+    },
+    {
+      "name": "profile_D:old_profile:switch",
+      "pass": true
+    },
+    {
+      "name": "geometric:old_profile:switch",
+      "pass": true
+    },
+    {
+      "name": "profile_D:new_profile:switch",
+      "pass": true
+    },
+    {
+      "name": "geometric:new_profile:switch",
+      "pass": true
+    },
+    {
+      "name": "profile_D:new_profile:mid",
+      "pass": true
+    },
+    {
+      "name": "geometric:new_profile:mid",
+      "pass": true
+    },
+    {
+      "name": "geometric:new_relaxed:mid",
+      "pass": true
+    },
+    {
+      "name": "geometric:new_relaxed:high",
+      "pass": true
+    },
+    {
+      "name": "geometric:new_strong:high",
+      "pass": true
+    },
+    {
+      "name": "geometric:new_strong:right",
+      "pass": true
+    },
+    {
+      "name": "all12_endpoints",
+      "pass": true
+    },
+    {
+      "name": "final_exact_gate",
+      "pass": true,
+      "left": {
+        "bits": 9645807,
+        "sha256_unsigned_big_endian": "be44942b5f2741f8309877a80987ef3c71f69d4aa91e5f3d285fa35ce946ae22"
+      },
+      "right": {
+        "bits": 9645849,
+        "sha256_unsigned_big_endian": "48bacdfb43018c52c9cf6d8070c756eacdd1b7a65230c48433bdab41c51bca32"
+      }
+    },
+    {
+      "name": "uniform_final_derivative",
+      "pass": true
+    }
+  ],
+  "endpoints": [
+    {
+      "region": "old_trivial",
+      "cover": "old",
+      "name": "zero",
+      "x": {
+        "numerator": "0",
+        "denominator": "1"
+      },
+      "y": {
+        "numerator": "662",
+        "denominator": "1"
+      },
+      "low": {
+        "numerator": "135",
+        "denominator": "1"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "8928",
+        "denominator": "1"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "8928",
+        "denominator": "1"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "trace_upper": {
+        "numerator": "662",
+        "denominator": "1"
+      },
+      "left": {
+        "bits": 34149,
+        "sha256_unsigned_big_endian": "56f4f0c498caab52b8c00a5e06a4ccab4f268461dba8bebe550da6858d02061f"
+      },
+      "right": {
+        "bits": 34616,
+        "sha256_unsigned_big_endian": "f1d171c27616f56553f2de950718f10c13d79597c3f25ee1a936f3075dff1bd3"
+      },
+      "F_display_only": "21255.2656069323300966364665937",
+      "pass_exact": true
+    },
+    {
+      "region": "old_trivial",
+      "cover": "old",
+      "name": "128",
+      "x": {
+        "numerator": "128",
+        "denominator": "1"
+      },
+      "y": {
+        "numerator": "662",
+        "denominator": "1"
+      },
+      "low": {
+        "numerator": "135",
+        "denominator": "1"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "8928",
+        "denominator": "1"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "8928",
+        "denominator": "1"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "trace_upper": {
+        "numerator": "790",
+        "denominator": "1"
+      },
+      "left": {
+        "bits": 33628,
+        "sha256_unsigned_big_endian": "ac48ffb3f59ad18c1f0d5d78f9136a3d0c004af44e4172c4d7982517fca0be01"
+      },
+      "right": {
+        "bits": 34031,
+        "sha256_unsigned_big_endian": "f7429991e488981f40654d10be0e1dd4ca439591cde7d1614751409cbaa9711a"
+      },
+      "F_display_only": "21762.9963796144783181472050416",
+      "pass_exact": true
+    },
+    {
+      "region": "old_profile",
+      "cover": "old",
+      "name": "128",
+      "x": {
+        "numerator": "128",
+        "denominator": "1"
+      },
+      "y": {
+        "numerator": "662",
+        "denominator": "1"
+      },
+      "low": {
+        "numerator": "135",
+        "denominator": "1"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "8928",
+        "denominator": "1"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "8928",
+        "denominator": "1"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "D_lower": {
+        "numerator": "10502965909935774742397801621992761330815224474459980041021813527",
+        "denominator": "2881189696542486470600627345252318884990981149008991841419264000"
+      },
+      "gamma_upper": {
+        "numerator": "308695302619450648861355575950056309351",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "trace_upper": {
+        "numerator": "2068593169038679264585996123761232527975",
+        "denominator": "2658455991569831745807614120560689152"
+      },
+      "left": {
+        "bits": 58378,
+        "sha256_unsigned_big_endian": "f0e87c6c82eb22e0992f8b68884077bfc4833ebb0151880bd763465795ceac7e"
+      },
+      "right": {
+        "bits": 58787,
+        "sha256_unsigned_big_endian": "0ae590adb76dfda0e3badac03187e6b3c242dcbe993874505bd791afd2c8a7bf"
+      },
+      "F_display_only": "21718.9969320297226524164311466",
+      "pass_exact": true
+    },
+    {
+      "region": "old_profile",
+      "cover": "old",
+      "name": "horizontal",
+      "x": {
+        "numerator": "79921",
+        "denominator": "331"
+      },
+      "y": {
+        "numerator": "662",
+        "denominator": "1"
+      },
+      "low": {
+        "numerator": "135",
+        "denominator": "1"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "8928",
+        "denominator": "1"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "8928",
+        "denominator": "1"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "D_lower": {
+        "numerator": "12331499370243543349737475954012475392647184874925299688819551527",
+        "denominator": "2881189696542486470600627345252318884990981149008991841419264000"
+      },
+      "gamma_upper": {
+        "numerator": "142445279153686152964318427590017399547",
+        "denominator": "170141183460469231731687303715884105728"
+      },
+      "trace_upper": {
+        "numerator": "48666045557466690026572078416253737604526603",
+        "denominator": "56316731725415315703188497529957638995968"
+      },
+      "left": {
+        "bits": 63208,
+        "sha256_unsigned_big_endian": "b62e6026efebb1292c0b1660b43ac37d1776c8f86ce7064389f7f9b7f7f3580c"
+      },
+      "right": {
+        "bits": 63579,
+        "sha256_unsigned_big_endian": "c96484d942c9de4a30b40dd61442ccef229cbfc4aa0fe4cec4449bd6feb56e0b"
+      },
+      "F_display_only": "22025.2992943162459231289281235",
+      "pass_exact": true
+    },
+    {
+      "region": "old_profile",
+      "cover": "old",
+      "name": "low_cap",
+      "x": {
+        "numerator": "4155892",
+        "denominator": "3375"
+      },
+      "y": {
+        "numerator": "3375",
+        "denominator": "26"
+      },
+      "low": {
+        "numerator": "135",
+        "denominator": "1"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "8928",
+        "denominator": "1"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "8928",
+        "denominator": "1"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "D_lower": {
+        "numerator": "17025566730598308062597895435451146225519394452463476693838166527",
+        "denominator": "2881189696542486470600627345252318884990981149008991841419264000"
+      },
+      "gamma_upper": {
+        "numerator": "121228634843375092477528846854610378257",
+        "denominator": "170141183460469231731687303715884105728"
+      },
+      "trace_upper": {
+        "numerator": "626548140603479422424413786192023069950176931",
+        "denominator": "622078702027340628518981704211201261568000"
+      },
+      "left": {
+        "bits": 63338,
+        "sha256_unsigned_big_endian": "d7837fd9301eb98435d92fc1544407738175713c83a5b164ccf76a56091f77c8"
+      },
+      "right": {
+        "bits": 63653,
+        "sha256_unsigned_big_endian": "6a22e50c319e3ace56d421fba6096f8a9fcb94ab05524464e10c43bf22985857"
+      },
+      "F_display_only": "22480.4664936225727970704339829",
+      "pass_exact": true
+    },
+    {
+      "region": "old_profile",
+      "cover": "old",
+      "name": "switch",
+      "x": {
+        "numerator": "3906",
+        "denominator": "1"
+      },
+      "y": {
+        "numerator": "79921",
+        "denominator": "1953"
+      },
+      "low": {
+        "numerator": "2077946",
+        "denominator": "48825"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "431396171",
+        "denominator": "48825"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "431396171",
+        "denominator": "48825"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "D_lower": {
+        "numerator": "20351560457723039046395370658287934415830210710176960393013455527",
+        "denominator": "2881189696542486470600627345252318884990981149008991841419264000"
+      },
+      "gamma_upper": {
+        "numerator": "221762006099828510213862341789713750311",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "trace_upper": {
+        "numerator": "859444493047364963583533849815679467473856487",
+        "denominator": "332285731298296409571985304157121658486784"
+      },
+      "left": {
+        "bits": 100619,
+        "sha256_unsigned_big_endian": "5e131d91f843d3d2a6741e14a523999edfa93f2d61ec6972da597cfd6f908db8"
+      },
+      "right": {
+        "bits": 100619,
+        "sha256_unsigned_big_endian": "9dd99b0bf1671c7b4a3cd55df867a2f373fa6bad251667782bc49d84b376180a"
+      },
+      "F_display_only": "25233.9323042043388764632693736",
+      "pass_exact": true
+    },
+    {
+      "region": "new_profile",
+      "cover": "new",
+      "name": "switch",
+      "x": {
+        "numerator": "3906",
+        "denominator": "1"
+      },
+      "y": {
+        "numerator": "79921",
+        "denominator": "1953"
+      },
+      "low": {
+        "numerator": "2077946",
+        "denominator": "48825"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "18350171906157967585692525805762392400544958997",
+        "denominator": "2076785820614352559824908150982010365542400"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "18350171906157967585692525805762392400544958997",
+        "denominator": "2076785820614352559824908150982010365542400"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "D_lower": {
+        "numerator": "20351560457723039046395370658287934415830210710176960393013455527",
+        "denominator": "2881189696542486470600627345252318884990981149008991841419264000"
+      },
+      "gamma_upper": {
+        "numerator": "221762006099828510213862341789713750311",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "trace_upper": {
+        "numerator": "859444493047364963583533849815679467473856487",
+        "denominator": "332285731298296409571985304157121658486784"
+      },
+      "left": {
+        "bits": 333470,
+        "sha256_unsigned_big_endian": "de6e9aa8deb4856d800a4b3a0d99c2aef7fc6cb490076651bdb30c2d291f74fd"
+      },
+      "right": {
+        "bits": 333470,
+        "sha256_unsigned_big_endian": "9a45a5bfd10474d80441e6756c747c971023fbb07e6ece8f93220e73c978ab35"
+      },
+      "F_display_only": "25234.7686021718520427398390265",
+      "pass_exact": true
+    },
+    {
+      "region": "new_profile",
+      "cover": "new",
+      "name": "mid",
+      "x": {
+        "numerator": "10600",
+        "denominator": "1"
+      },
+      "y": {
+        "numerator": "79921",
+        "denominator": "5300"
+      },
+      "low": {
+        "numerator": "1038973",
+        "denominator": "66250"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "10867533713297416756002621828727517004546772793",
+        "denominator": "1408981675532010825278035483897165250560000"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "10867533713297416756002621828727517004546772793",
+        "denominator": "1408981675532010825278035483897165250560000"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "D_lower": {
+        "numerator": "23227967865320902105881091964236457812792299817375971773363219527",
+        "denominator": "2881189696542486470600627345252318884990981149008991841419264000"
+      },
+      "gamma_upper": {
+        "numerator": "207577554227220152564795002612469137765",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "trace_upper": {
+        "numerator": "365278209485372390438394987774033453339546093",
+        "denominator": "56359267021280433011121419355886610022400"
+      },
+      "left": {
+        "bits": 330563,
+        "sha256_unsigned_big_endian": "92792592aa77e6889d9fbfaadde6c638ee5487f1b696b947a2d51a15521599b3"
+      },
+      "right": {
+        "bits": 330599,
+        "sha256_unsigned_big_endian": "004363af15620aec67ef949608a6d5116081005cca2a0a071ce8f4a02596a936"
+      },
+      "F_display_only": "24903.1771390653071581732755059",
+      "pass_exact": true
+    },
+    {
+      "region": "new_relaxed",
+      "cover": "new",
+      "name": "mid",
+      "x": {
+        "numerator": "10600",
+        "denominator": "1"
+      },
+      "y": {
+        "numerator": "79921",
+        "denominator": "5300"
+      },
+      "low": {
+        "numerator": "1038973",
+        "denominator": "66250"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "10867533713297416756002621828727517004546772793",
+        "denominator": "1408981675532010825278035483897165250560000"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "10867533713297416756002621828727517004546772793",
+        "denominator": "1408981675532010825278035483897165250560000"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "gamma": {
+        "numerator": "7",
+        "denominator": "20"
+      },
+      "trace_upper": {
+        "numerator": "19742921",
+        "denominator": "5300"
+      },
+      "left": {
+        "bits": 299365,
+        "sha256_unsigned_big_endian": "f6426ef215d6a23a1546718e9aa2f7e212f954c6d21c98c91c2e89f9f8bfc0c1"
+      },
+      "right": {
+        "bits": 299603,
+        "sha256_unsigned_big_endian": "d49ba0a81ad2776e0b1f751cfcba50da1d0e2700f9bf3c8c2a727edb3c560a70"
+      },
+      "F_display_only": "23127.7856569760924649679833480",
+      "pass_exact": true
+    },
+    {
+      "region": "new_relaxed",
+      "cover": "new",
+      "name": "high",
+      "x": {
+        "numerator": "15900",
+        "denominator": "1"
+      },
+      "y": {
+        "numerator": "79921",
+        "denominator": "7950"
+      },
+      "low": {
+        "numerator": "1038973",
+        "denominator": "99375"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "30868227670963904223629444647907937315651657461",
+        "denominator": "4226945026596032475834106451691495751680000"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "30868227670963904223629444647907937315651657461",
+        "denominator": "4226945026596032475834106451691495751680000"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "gamma": {
+        "numerator": "7",
+        "denominator": "20"
+      },
+      "trace_upper": {
+        "numerator": "44321671",
+        "denominator": "7950"
+      },
+      "left": {
+        "bits": 302501,
+        "sha256_unsigned_big_endian": "4ec9cdc9eca848b9463c06ce10f4f407f9e169f054d877b1ed79bc70101cdbe5"
+      },
+      "right": {
+        "bits": 302741,
+        "sha256_unsigned_big_endian": "cbfecbffbf7936da0ac1da1a9d108f59af0a3ee8183180d9ae02f64576e9df46"
+      },
+      "F_display_only": "23108.8896534381352789603935215",
+      "pass_exact": true
+    },
+    {
+      "region": "new_strong",
+      "cover": "new",
+      "name": "high",
+      "x": {
+        "numerator": "15900",
+        "denominator": "1"
+      },
+      "y": {
+        "numerator": "79921",
+        "denominator": "7950"
+      },
+      "low": {
+        "numerator": "1038973",
+        "denominator": "99375"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "30868227670963904223629444647907937315651657461",
+        "denominator": "4226945026596032475834106451691495751680000"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "30868227670963904223629444647907937315651657461",
+        "denominator": "4226945026596032475834106451691495751680000"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "gamma": {
+        "numerator": "17",
+        "denominator": "50"
+      },
+      "trace_upper": {
+        "numerator": "43057621",
+        "denominator": "7950"
+      },
+      "left": {
+        "bits": 302491,
+        "sha256_unsigned_big_endian": "39fc0e0f126ffc0bad828927b3a03875778cb2e682987ecbfa37368371a97255"
+      },
+      "right": {
+        "bits": 302741,
+        "sha256_unsigned_big_endian": "cbfecbffbf7936da0ac1da1a9d108f59af0a3ee8183180d9ae02f64576e9df46"
+      },
+      "F_display_only": "23019.7676494898024346875613186",
+      "pass_exact": true
+    },
+    {
+      "region": "new_strong",
+      "cover": "new",
+      "name": "right",
+      "x": {
+        "numerator": "159842",
+        "denominator": "1"
+      },
+      "y": {
+        "numerator": "1",
+        "denominator": "1"
+      },
+      "low": {
+        "numerator": "26",
+        "denominator": "25"
+      },
+      "A_fractional_reference_first_copy": {
+        "numerator": "1425402235506303715321136558097322805615633",
+        "denominator": "265845599156983174580761412056068915200"
+      },
+      "A_fractional_reference_second_copy": {
+        "numerator": "1425402235506303715321136558097322805615633",
+        "denominator": "265845599156983174580761412056068915200"
+      },
+      "actual_standalone_mass_bound_claimed": false,
+      "gamma": {
+        "numerator": "17",
+        "denominator": "50"
+      },
+      "trace_upper": {
+        "numerator": "1358682",
+        "denominator": "25"
+      },
+      "left": {
+        "bits": 274975,
+        "sha256_unsigned_big_endian": "582966d24b861c598808e6a41d1b4505d61054fc8e5bc43b982f977f9d9437d6"
+      },
+      "right": {
+        "bits": 275228,
+        "sha256_unsigned_big_endian": "f737fb5f1f83b331e9a526dc84d9738edb1933ce14f695390622586eca0260ff"
+      },
+      "F_display_only": "22996.8710112896932524837131665",
+      "pass_exact": true
+    }
+  ],
+  "bindings": [
+    {
+      "path": "E:\\科研\\Bargar猜想\\上传Github\\最终上传_20261103\\02_论文计算补充\\certificates\\FRACTIONAL_MOMENT.json",
+      "sha256": "6e26c124785f9e3cb8b3986be306c9176e66d5e82f05beaee593f4cf9f209c3a"
+    },
+    {
+      "path": "E:\\科研\\Bargar猜想\\上传Github\\最终上传_20261103\\02_论文计算补充\\tools\\EDGEWORTH_TRACE_CERTIFICATE.json",
+      "sha256": "b9b4cee6da64e113e3ace511ea7e4bcbc80022c997becc93581d3caf6239a33a"
+    }
+  ],
+  "root_acceptance_claimed": false,
+  "script_sha256": "daec229841d2675178cf5116d7923f50664846498ecc9b890d52d73808cd1708",
+  "helper_sha256": "43400cd470b51929d9ec37797cdd1f148b66463c22d82259f6e4027958670039",
+  "seconds": 3.717891400003282,
+  "finished_utc": "2026-11-03T01:30:15.476236+00:00",
+  "log_witnesses": [
+    {
+      "input": {
+        "numerator": "5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "denominator": "1"
+      },
+      "power_of_two": 500,
+      "reduced": {
+        "numerator": "3503246160812042677309323958224790328200654854691289429392670709724477706714651503716595470905303955078125",
+        "denominator": "2293498615990071511610820895302086940796564989168281123737588839386922876088484808070018553110125686554624"
+      },
+      "terms": 48,
+      "rounding_bits": 192,
+      "lower": {
+        "numerator": "2178136737979401088772062233306611800256192666238451418894819",
+        "denominator": "6277101735386680763835789423207666416102355444464034512896"
+      },
+      "upper": {
+        "numerator": "2178136737979401088772062233306611800256192666242265397459175",
+        "denominator": "6277101735386680763835789423207666416102355444464034512896"
+      },
+      "tail_formula": "2*z^(2*N+1)/((2*N+1)*(1-z^2)), z=(r-1)/(r+1)"
+    },
+    {
+      "input": {
+        "numerator": "43540",
+        "denominator": "1"
+      },
+      "power_of_two": 15,
+      "reduced": {
+        "numerator": "10885",
+        "denominator": "8192"
+      },
+      "terms": 48,
+      "rounding_bits": 192,
+      "lower": {
+        "numerator": "67048456276421746028363539339719538159283830859368170405449",
+        "denominator": "6277101735386680763835789423207666416102355444464034512896"
+      },
+      "upper": {
+        "numerator": "16762114069105436507090884834929884539820957714870647440595",
+        "denominator": "1569275433846670190958947355801916604025588861116008628224"
+      },
+      "tail_formula": "2*z^(2*N+1)/((2*N+1)*(1-z^2)), z=(r-1)/(r+1)"
+    },
+    {
+      "input": {
+        "numerator": "128",
+        "denominator": "1"
+      },
+      "power_of_two": 7,
+      "reduced": {
+        "numerator": "1",
+        "denominator": "1"
+      },
+      "terms": 48,
+      "rounding_bits": 192,
+      "lower": {
+        "numerator": "30456687589798523581342941631573559157550414276679688690513",
+        "denominator": "6277101735386680763835789423207666416102355444464034512896"
+      },
+      "upper": {
+        "numerator": "30456687589798523581342941631573559157550414276733084390415",
+        "denominator": "6277101735386680763835789423207666416102355444464034512896"
+      },
+      "tail_formula": "2*z^(2*N+1)/((2*N+1)*(1-z^2)), z=(r-1)/(r+1)"
+    },
+    {
+      "input": {
+        "numerator": "79921",
+        "denominator": "331"
+      },
+      "power_of_two": 7,
+      "reduced": {
+        "numerator": "79921",
+        "denominator": "42368"
+      },
+      "terms": 48,
+      "rounding_bits": 192,
+      "lower": {
+        "numerator": "34440420618791483510187548019416073453480611227584524524495",
+        "denominator": "6277101735386680763835789423207666416102355444464034512896"
+      },
+      "upper": {
+        "numerator": "34440420618791483510187548019416073453480611227637922848531",
+        "denominator": "6277101735386680763835789423207666416102355444464034512896"
+      },
+      "tail_formula": "2*z^(2*N+1)/((2*N+1)*(1-z^2)), z=(r-1)/(r+1)"
+    },
+    {
+      "input": {
+        "numerator": "4155892",
+        "denominator": "3375"
+      },
+      "power_of_two": 10,
+      "reduced": {
+        "numerator": "1038973",
+        "denominator": "864000"
+      },
+      "terms": 48,
+      "rounding_bits": 192,
+      "lower": {
+        "numerator": "11166786723518548825727943367293381562102293099672915992245",
+        "denominator": "1569275433846670190958947355801916604025588861116008628224"
+      },
+      "upper": {
+        "numerator": "11166786723518548825727943367293381562102293099691985885067",
+        "denominator": "1569275433846670190958947355801916604025588861116008628224"
+      },
+      "tail_formula": "2*z^(2*N+1)/((2*N+1)*(1-z^2)), z=(r-1)/(r+1)"
+    },
+    {
+      "input": {
+        "numerator": "3906",
+        "denominator": "1"
+      },
+      "power_of_two": 11,
+      "reduced": {
+        "numerator": "1953",
+        "denominator": "1024"
+      },
+      "terms": 48,
+      "rounding_bits": 192,
+      "lower": {
+        "numerator": "51913320591513696356936773954656724920110297143165484664351",
+        "denominator": "6277101735386680763835789423207666416102355444464034512896"
+      },
+      "upper": {
+        "numerator": "25956660295756848178468386977328362460055148571624702354739",
+        "denominator": "3138550867693340381917894711603833208051177722232017256448"
+      },
+      "tail_formula": "2*z^(2*N+1)/((2*N+1)*(1-z^2)), z=(r-1)/(r+1)"
+    },
+    {
+      "input": {
+        "numerator": "10600",
+        "denominator": "1"
+      },
+      "power_of_two": 13,
+      "reduced": {
+        "numerator": "1325",
+        "denominator": "1024"
+      },
+      "terms": 48,
+      "rounding_bits": 192,
+      "lower": {
+        "numerator": "58180003396737798883049456538422571100855589315712350416747",
+        "denominator": "6277101735386680763835789423207666416102355444464034512896"
+      },
+      "upper": {
+        "numerator": "58180003396737798883049456538422571100855589315811513859421",
+        "denominator": "6277101735386680763835789423207666416102355444464034512896"
+      },
+      "tail_formula": "2*z^(2*N+1)/((2*N+1)*(1-z^2)), z=(r-1)/(r+1)"
+    }
+  ],
+  "root_witnesses": [
+    {
+      "input": {
+        "numerator": "8643569089627459411801882035756956654972943447026975524257792000",
+        "denominator": "10502965909935774742397801621992761330815224474459980041021813527"
+      },
+      "power_numerator": 1,
+      "power_denominator": 2,
+      "lower": {
+        "numerator": "154347651309725324430677787975028154675",
+        "denominator": "170141183460469231731687303715884105728"
+      },
+      "upper": {
+        "numerator": "308695302619450648861355575950056309351",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "bracket_checked_exactly": true
+    },
+    {
+      "input": {
+        "numerator": "8643569089627459411801882035756956654972943447026975524257792000",
+        "denominator": "12331499370243543349737475954012475392647184874925299688819551527"
+      },
+      "power_numerator": 1,
+      "power_denominator": 2,
+      "lower": {
+        "numerator": "284890558307372305928636855180034799093",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "upper": {
+        "numerator": "142445279153686152964318427590017399547",
+        "denominator": "170141183460469231731687303715884105728"
+      },
+      "bracket_checked_exactly": true
+    },
+    {
+      "input": {
+        "numerator": "8643569089627459411801882035756956654972943447026975524257792000",
+        "denominator": "17025566730598308062597895435451146225519394452463476693838166527"
+      },
+      "power_numerator": 1,
+      "power_denominator": 2,
+      "lower": {
+        "numerator": "242457269686750184955057693709220756513",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "upper": {
+        "numerator": "121228634843375092477528846854610378257",
+        "denominator": "170141183460469231731687303715884105728"
+      },
+      "bracket_checked_exactly": true
+    },
+    {
+      "input": {
+        "numerator": "8643569089627459411801882035756956654972943447026975524257792000",
+        "denominator": "20351560457723039046395370658287934415830210710176960393013455527"
+      },
+      "power_numerator": 1,
+      "power_denominator": 2,
+      "lower": {
+        "numerator": "110881003049914255106931170894856875155",
+        "denominator": "170141183460469231731687303715884105728"
+      },
+      "upper": {
+        "numerator": "221762006099828510213862341789713750311",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "bracket_checked_exactly": true
+    },
+    {
+      "input": {
+        "numerator": "3906",
+        "denominator": "1"
+      },
+      "power_numerator": -2,
+      "power_denominator": 15,
+      "lower": {
+        "numerator": "56482227725317942151408423006371848905",
+        "denominator": "170141183460469231731687303715884105728"
+      },
+      "upper": {
+        "numerator": "112964455450635884302816846012743697811",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "bracket_checked_exactly": true
+    },
+    {
+      "input": {
+        "numerator": "10600",
+        "denominator": "1"
+      },
+      "power_numerator": -2,
+      "power_denominator": 15,
+      "lower": {
+        "numerator": "49442679695797233890987165866104712581",
+        "denominator": "170141183460469231731687303715884105728"
+      },
+      "upper": {
+        "numerator": "98885359391594467781974331732209425163",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "bracket_checked_exactly": true
+    },
+    {
+      "input": {
+        "numerator": "8643569089627459411801882035756956654972943447026975524257792000",
+        "denominator": "23227967865320902105881091964236457812792299817375971773363219527"
+      },
+      "power_numerator": 1,
+      "power_denominator": 2,
+      "lower": {
+        "numerator": "51894388556805038141198750653117284441",
+        "denominator": "85070591730234615865843651857942052864"
+      },
+      "upper": {
+        "numerator": "207577554227220152564795002612469137765",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "bracket_checked_exactly": true
+    },
+    {
+      "input": {
+        "numerator": "15900",
+        "denominator": "1"
+      },
+      "power_numerator": -2,
+      "power_denominator": 15,
+      "lower": {
+        "numerator": "23420338644019105895427251687937130853",
+        "denominator": "85070591730234615865843651857942052864"
+      },
+      "upper": {
+        "numerator": "93681354576076423581709006751748523413",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "bracket_checked_exactly": true
+    },
+    {
+      "input": {
+        "numerator": "159842",
+        "denominator": "1"
+      },
+      "power_numerator": -2,
+      "power_denominator": 15,
+      "lower": {
+        "numerator": "68867448194898481561803567078406982491",
+        "denominator": "340282366920938463463374607431768211456"
+      },
+      "upper": {
+        "numerator": "17216862048724620390450891769601745623",
+        "denominator": "85070591730234615865843651857942052864"
+      },
+      "bracket_checked_exactly": true
+    }
+  ]
+}

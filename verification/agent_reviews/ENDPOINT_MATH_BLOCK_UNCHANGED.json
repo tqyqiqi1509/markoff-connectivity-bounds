@@ -1,6 +1,0 @@
-{
-  "status": "PASS",
-  "all_arithmetic_helper_functions_ast_identical": true,
-  "main_from_exact_budget_delta_through_all_endpoint_and_final_integer_checks_byte_identical": true,
-  "scope": "Portability edit affects only explicit archived identity metadata and output scope."
-}

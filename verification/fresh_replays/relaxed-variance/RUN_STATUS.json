@@ -1,8 +1,0 @@
-{
-  "status": "COMMAND_COMPLETED",
-  "stage": "relaxed-variance",
-  "result_copies": [
-    "RELAXED_BUDGET_VARIANCE_ROOT_REVIEW.json"
-  ],
-  "scope": "See README for exactly what this stage checks. Analytic stages and pointwise batches can write fixed result names in the restored writable work tree; immutable repository/release inputs are not modified."
-}

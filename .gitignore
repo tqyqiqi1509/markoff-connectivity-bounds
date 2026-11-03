@@ -1,6 +1,6 @@
-.cache/
-work/
-replay/
-__pycache__/
+.git/
+**/__pycache__/
 *.pyc
-*.part
+*.zip
+**/objects/
+*.partial

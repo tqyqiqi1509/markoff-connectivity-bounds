@@ -1,0 +1,84 @@
+{
+  "scope": "Original source bytes remain in the first-layer archives or selected input objects. Maintained tools remove unused historical admission/process prerequisites; arithmetic changes are exercised by the included fresh receipts.",
+  "files": [
+    {
+      "file": "tools/case101.py",
+      "sha256": "baf6505c20a3ac1a6b8602adcb0a1a00bb548348d891bbcf15d0ca53aad381fb"
+    },
+    {
+      "file": "tools/certify_local_fourth.py",
+      "sha256": "381ea8ae694e908dfd4f0d8b8807ad2f0aeef1d70b25ea886396becc1266d43a"
+    },
+    {
+      "file": "tools/check_finite.py",
+      "sha256": "1779c605658d192f6744c206042ff104f972b5049c576ba50ef5a3503a4e60ea"
+    },
+    {
+      "file": "tools/check_upload.py",
+      "sha256": "e3f20dba0b256ec97438a24a60d0b17f80cc6b66741d53971296531d1f22a3e5"
+    },
+    {
+      "file": "tools/endpoint.py",
+      "sha256": "daec229841d2675178cf5116d7923f50664846498ecc9b890d52d73808cd1708"
+    },
+    {
+      "file": "tools/euler_constants.py",
+      "sha256": "37822667ccca819993edd6348f5b3586880ad5009c00be9879da1b19bd17c339"
+    },
+    {
+      "file": "tools/exact_arithmetic.py",
+      "sha256": "43400cd470b51929d9ec37797cdd1f148b66463c22d82259f6e4027958670039"
+    },
+    {
+      "file": "tools/finite_latest.py",
+      "sha256": "417a4a9983eba5169905a142cad96fd6d9a02d50c4d7fbaabd3165df064d59ce"
+    },
+    {
+      "file": "tools/finite_review_portable.py",
+      "sha256": "ab45d4e93877be527d18a273f165b78438cb6c9887287b4ff3937b5a7ae0786b"
+    },
+    {
+      "file": "tools/fractional_moment.py",
+      "sha256": "a0505447ad44dc4536b262331d7b707832495ca2af75e7cf53c61d698da942ac"
+    },
+    {
+      "file": "tools/frequency_envelope.py",
+      "sha256": "9a2461964c54703a98156e51f1e123e66922737b40667ac3f544879b06d34095"
+    },
+    {
+      "file": "tools/kernel_cells.py",
+      "sha256": "91bb59ab704e8f7e91df6ef8d9391aa76cb4d8c63eb9aeca3d460ad7f10a77bb"
+    },
+    {
+      "file": "tools/materialize.py",
+      "sha256": "eb59babbdaf91c7a5f8032bdf1d92c09f56e077869b5aae5362bd2341de49c8b"
+    },
+    {
+      "file": "tools/prepare_data.py",
+      "sha256": "9636f03e0dedbc3be8279e46e3cde9a09e99c3180502dd4ffa0a71f1d0073712"
+    },
+    {
+      "file": "tools/q2_windows.py",
+      "sha256": "b12ffcd132f0720bec538d0528aa4b93cf3d27a6850487105df631ce25e3643e"
+    },
+    {
+      "file": "tools/resource/verify_resource_rational.py",
+      "sha256": "73fa82f5dc8ee1863659d66a95ba68243fb9d525a755d44d9709e42587bb0d3d"
+    },
+    {
+      "file": "tools/signed_trace.py",
+      "sha256": "647619e08480d5bcbecbb0aed2fda0cd1afb6b316ec1ef6d21fc2a9a74c6e48e"
+    },
+    {
+      "file": "tools/verify_selected_moment_independent.py",
+      "sha256": "ec21dce0d2d29a887eb7c6bfb9110e1358ace64d28e42e43452fe15f91df9ef5"
+    }
+  ],
+  "numerical_validation": {
+    "q2_q3": "all finite exponents and tails freshly recomputed",
+    "frequency": "all15104 cells freshly regenerated, exactly equal to prior rational enclosures",
+    "signed_trace": "all boxes and infinite tails pass",
+    "finite": "base and final CRT/composite/source/application/DAG checks freshly pass",
+    "case101": "two direct integer determinants freshly recomputed"
+  }
+}

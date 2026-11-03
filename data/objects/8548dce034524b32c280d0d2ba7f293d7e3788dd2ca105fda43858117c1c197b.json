@@ -1,8 +1,0 @@
-{
-  "d": 163,
-  "stage": "STOPPED_AFTER_PHASE",
-  "utc": "2026-11-01T13:38:50.480312+00:00",
-  "seconds": 5382.478471211998,
-  "source_bindings_sha256": "0deaab3f304e5b3ac6dee9efd819e122dce18ed8f9dfd48b536c77fc8ab37f4c",
-  "next_phase": "BOUNDED_MODULAR_REPLAY"
-}

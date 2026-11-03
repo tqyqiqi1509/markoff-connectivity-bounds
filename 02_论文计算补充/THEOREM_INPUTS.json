@@ -1,0 +1,91 @@
+{
+  "theorem": {
+    "surface": "x^2+y^2+z^2=xyz over F_p; remove only (0,0,0)",
+    "edges": "exactly the three Vieta involutions",
+    "finite_prime_interval": [
+      "5",
+      "10^84"
+    ],
+    "large_prime_interval": [
+      "10^151",
+      "infinity"
+    ]
+  },
+  "modules": {
+    "general_rank_57_plus_2": {
+      "index": "indices/general_rank_59.json",
+      "base_index": "indices/general_rank_inputs.json",
+      "count": 59
+    },
+    "mixed_ranks": {
+      "index": "indices/mixed_rules.json",
+      "count": 176,
+      "pool_triples": 165,
+      "extra_rules": 11
+    },
+    "base_interval": {
+      "classification": {
+        "path": "agents/finite_extension_round20/CRT57_1E66_INDEPENDENT_CLASSIFICATION.json",
+        "sha256": "240bd690f918eab6a7dcc50c23ae53df8c822e82ff0033905f23ee35f40386a9"
+      },
+      "batches": "indices/POINTWISE_BATCHES.json",
+      "candidates": 27985,
+      "composite_witnesses": 26210,
+      "conditional_minor_candidates": 1775,
+      "fresh": "certificates/FINITE_BASE_FRESH.json"
+    },
+    "finite_extensions": {
+      "index": "indices/finite_intervals.json",
+      "fresh_final_interval": "certificates/FINITE_LATEST_FRESH.json"
+    },
+    "small_primes": {
+      "tool": "tools/small_graphs.cpp",
+      "fresh": "certificates/SMALL_GRAPHS.csv",
+      "prime_count": 211
+    },
+    "ordinary_and_positive_spectral_tables": {
+      "selection_purposes": [
+        "ordinary-moment",
+        "positive-moment"
+      ],
+      "role": "complete spectral streams, enclosures, curvature/Lipschitz data and exact recurrence source; q>=5 count/mass tails enter the new q2 tool"
+    },
+    "large_endpoint": {
+      "tools": [
+        "euler_constants.py",
+        "q2_windows.py",
+        "fractional_moment.py",
+        "resource/verify_resource_rational.py",
+        "verify_selected_moment_independent.py",
+        "frequency_envelope.py",
+        "kernel_cells.py",
+        "certify_local_fourth.py",
+        "signed_trace.py",
+        "endpoint.py"
+      ],
+      "certificates": [
+        "certificates/EULER_CONSTANTS.json",
+        "certificates/Q2_WINDOWS.json",
+        "certificates/FRACTIONAL_MOMENT.json",
+        "certificates/SELECTED_MOMENT.json",
+        "certificates/FREQUENCY_ENVELOPE.json",
+        "tools/LOCAL_FOURTH_CERTIFICATE.json",
+        "tools/EDGEWORTH_TRACE_CERTIFICATE.json",
+        "certificates/ENDPOINT.json"
+      ],
+      "endpoints": 12,
+      "current_numerical_gates": 41
+    },
+    "case101_replacement": {
+      "tool": "tools/case101.py",
+      "certificate": "certificates/CASE101_RECONNECTION.json",
+      "dimensions": [
+        184,
+        184
+      ],
+      "minors": 2
+    }
+  },
+  "scope": "No root-model acceptance tag is used by the maintained endpoint or latest finite checker as a substitute for a mathematical rule. Historical provenance references are not computational premises. Full fresh regeneration of all historical large rank matrices is not claimed.",
+  "manuscript_pdf_sha256": "101b0d99a81618cd90d18b1fbca433359136ef6f4cef023c4e530fa33d5f355c"
+}

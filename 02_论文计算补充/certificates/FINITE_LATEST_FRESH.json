@@ -1,0 +1,231 @@
+{
+  "status": "PASS_LATEST_FINITE_NUMERICAL_CERTIFICATES",
+  "independent_full_CRT_reconstructed": true,
+  "candidate_count": 10369,
+  "composite_witnesses": 9843,
+  "mixed_applications": 520,
+  "direct_cases": 6,
+  "boolean": {
+    "assignments": 8192,
+    "satisfying_assignments": 345,
+    "minimal_hitting_sets": 45,
+    "nonzero_Mobius_terms": 86,
+    "truth_sha256": "aef142dd1a8e749d38e30fb6f4e12d0c626d6cf3ce5a022382b417d21e98abf8",
+    "coefficient_histogram": {
+      "-6": 4,
+      "-5": 3,
+      "-4": 2,
+      "-3": 2,
+      "-2": 4,
+      "-1": 19,
+      "0": 8106,
+      "1": 46,
+      "2": 2,
+      "4": 1,
+      "5": 2,
+      "17": 1
+    }
+  },
+  "arithmetic": {
+    "rows": [
+      {
+        "p": "207290562688056528734712618048949991254452352730583504904155851730257020499145168001",
+        "gates": {
+          "safe4_pass": true,
+          "trace_pass": true,
+          "capacity_pass": false,
+          "conditional_prime_connected": true
+        },
+        "m_upper": 131304428130,
+        "ordinary_m_upper": 144806561880,
+        "minus_partial": {
+          "R": "1",
+          "K": 0,
+          "known_factor_count": 35
+        },
+        "plus_partial": {
+          "R": "1097420006680966668165042026051366617253420666999213",
+          "K": 12,
+          "known_factor_count": 16
+        },
+        "primality_claimed": false
+      },
+      {
+        "p": "259995950364370304972769565141384509204012917696097576929746323042762584718254544001",
+        "gates": {
+          "safe4_pass": true,
+          "trace_pass": true,
+          "capacity_pass": false,
+          "conditional_prime_connected": true
+        },
+        "m_upper": 262751604495,
+        "ordinary_m_upper": 286188954096,
+        "minus_partial": {
+          "R": "14327629342261419135606041",
+          "K": 6,
+          "known_factor_count": 30
+        },
+        "plus_partial": {
+          "R": "235607830587851250016445253544643329595671",
+          "K": 10,
+          "known_factor_count": 20
+        },
+        "primality_claimed": false
+      },
+      {
+        "p": "534874020382289386396385977072747271742306175293400983491118306973441460659193520001",
+        "gates": {
+          "safe4_pass": true,
+          "trace_pass": true,
+          "capacity_pass": false,
+          "conditional_prime_connected": true
+        },
+        "m_upper": 319011437136,
+        "ordinary_m_upper": 352839909702,
+        "minus_partial": {
+          "R": "6185258929495756838246269",
+          "K": 6,
+          "known_factor_count": 30
+        },
+        "plus_partial": {
+          "R": "71814175708543138626563165178443044426673",
+          "K": 10,
+          "known_factor_count": 20
+        },
+        "primality_claimed": false
+      },
+      {
+        "p": "662986495680112098202886780675789532352922281458161865479499887196157593666306672001",
+        "gates": {
+          "safe4_pass": true,
+          "trace_pass": true,
+          "capacity_pass": true,
+          "conditional_prime_connected": true
+        },
+        "m_upper": 3608566646,
+        "ordinary_m_upper": 4449869640,
+        "minus_partial": {
+          "R": "1",
+          "K": 0,
+          "known_factor_count": 28
+        },
+        "plus_partial": {
+          "R": "3010150124484901756227814787804573083",
+          "K": 9,
+          "known_factor_count": 23
+        },
+        "primality_claimed": false
+      },
+      {
+        "p": "759241382644280844655527264175776775981643522782715778100014488923795351597592975999",
+        "gates": {
+          "safe4_pass": true,
+          "trace_pass": true,
+          "capacity_pass": true,
+          "conditional_prime_connected": true
+        },
+        "m_upper": 11401286025,
+        "ordinary_m_upper": 12887397630,
+        "minus_partial": {
+          "R": "67001272339988952635748437243032285049293",
+          "K": 10,
+          "known_factor_count": 21
+        },
+        "plus_partial": {
+          "R": "1",
+          "K": 0,
+          "known_factor_count": 31
+        },
+        "primality_claimed": false
+      },
+      {
+        "p": "861674644672796294052570539523244833829767014716372818591727332299673131204672544001",
+        "gates": {
+          "safe4_pass": true,
+          "trace_pass": true,
+          "capacity_pass": false,
+          "conditional_prime_connected": true
+        },
+        "m_upper": 72404618160,
+        "ordinary_m_upper": 78215313330,
+        "minus_partial": {
+          "R": "1",
+          "K": 0,
+          "known_factor_count": 34
+        },
+        "plus_partial": {
+          "R": "1416053517987773690725827450191413944841944005788087",
+          "K": 12,
+          "known_factor_count": 16
+        },
+        "primality_claimed": false
+      }
+    ],
+    "fully_checked_dag_nodes": 18104,
+    "dag_methods": {
+      "trial_division": 5553,
+      "pocklington_n_minus_1": 12551
+    }
+  },
+  "candidate_sha256": "ba3a5a73abff88fd4fd4b37c6bbed9dd1115e287e4563f0f61e3042f0b1c997f",
+  "survivor_sha256": "e3a86040f4623c3d60bcf3507836aa1f12b60a0008c6a8c80f400fa35099c731",
+  "input_sha256": {
+    "computations\\finite_extension_session\\stage3_pool10_v2\\PLAN.json": "407473af056d387cbb058988910e511a4ae9db38dbf6a87aad923b9bb24d4e21",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\CANDIDATES.txt": "ba3a5a73abff88fd4fd4b37c6bbed9dd1115e287e4563f0f61e3042f0b1c997f",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_000_CANDIDATES.txt": "2d67f526ba8b6b3ab629d91c2675da020f4838a3a4f356f81ee4096abee05ed3",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_001_CANDIDATES.txt": "b368e7c1f9313bfb5a9b7a636dbe52828aab107a8b6127d533a55d2ffcb2d8f1",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_002_CANDIDATES.txt": "2c126136223aee01cd592aeafe918aff258793c429cd4a2f4a378cb42b1493e8",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_003_CANDIDATES.txt": "533b8fd3c9d12752ff33a9a8a511a02c2b30dbb4259404a257f50bbb4b884df0",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_004_CANDIDATES.txt": "84c2ed6c6b7c3ac3c81d6ee3ad828c675129a102254e8b6f5a9b8faa18400854",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_005_CANDIDATES.txt": "d4b0b5c465c7df5bdd4ca7d46d144cbcf25bfabfe8ce339f4b44a757a250b651",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_006_CANDIDATES.txt": "382010753b945406eb3345f642f966511ec1eb00539d4c4e5aa080f02334b987",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_007_CANDIDATES.txt": "a63eb29db4d60744a032262fc7bccd786f3dca53a4861ac31d61f02705eead8a",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_008_CANDIDATES.txt": "40b4f73d16ecd6c2e38314f6596eab79c48058957e9e048e550e760372db5e09",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_009_CANDIDATES.txt": "643fb207f788928bbb956259015a7a89f052ca09bd13f6f64399f87c66e80662",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_010_CANDIDATES.txt": "ef77a2723b002387cbb9059d09f9499bab3b3fe7994aa1a21e2c8e88aef12884",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_011_CANDIDATES.txt": "b2eac7b0d850641b3bfe9148146ebddc46e8105ec7be8e608a3d0b122e3effa2",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_012_CANDIDATES.txt": "c550caa8388bd982478289097f8c58d396a89f04fbe6279beffca3919c349e42",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_013_CANDIDATES.txt": "9d259784e0bcf8bbd0723fd7ce976d8637bade8a59dd795f228b4903e9b272ee",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_014_CANDIDATES.txt": "9beb13813d443c26c85ed90067149b6398c40e3b9e3590306405bed7315e5447",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_015_CANDIDATES.txt": "564437b35e5a88c6ca871be015ec91622b6117967cdacf565232617ccb8f5236",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_016_CANDIDATES.txt": "b99ef8878c96df92017832333ca73cf66896bbd93a6170b6196b6c2655ea503b",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_017_CANDIDATES.txt": "ea396dee25605e7089a195be7f4652a513950fdae371427d7f504bf4125e8a3a",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_018_CANDIDATES.txt": "0e06f6d00d755752e82383cd2d5ad07c549bc6fe6a5c54405f6b6938d91f334a",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_019_CANDIDATES.txt": "9b970594a6b6f9689b652a5c89e423eaa211687e1395934f052d7c691359b640",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_020_CANDIDATES.txt": "9a70c53fbeee021b536f83266fdec6710bd1e8ad93131bf39244920cc1b53c10",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_021_CANDIDATES.txt": "286cda938300a6da94e61b51f3679902cc169d1755cb796fb2f2cb7dd321e74b",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_022_CANDIDATES.txt": "457ec5a0a653057dc2024ae2156e0dd3cbe9ad2a80e2a1bfdf4a1efad0cac706",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_023_CANDIDATES.txt": "08f9891f154f8263a9c9361109dad2f5e3e4ed4b820f1230939680b858dabacb",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_024_CANDIDATES.txt": "095c1316c69ff8d45ed447dc9c461c7ce2102f032787192ecd82e1ef538f5e74",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_025_CANDIDATES.txt": "1b2b4ab7ebccc38de152e74d0b588d44cddd523db88580f93849a8674a5ae750",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_026_CANDIDATES.txt": "00a4417cc6ebf994e9783c2be922ad502475c9e18ed1eb6ee14e3c72fffbaf42",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_027_CANDIDATES.txt": "36c27bfd479027b559ae65009456b76af39514450d9651e024d69176b8d5f123",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_028_CANDIDATES.txt": "cf6c03083db94ed33bee0909dab132afb12e88d0b3e93b47b2a650b925caef8a",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_029_CANDIDATES.txt": "ca6a5bc0e35b95bae0c13e090885909587425a3ec90fa2816209ed69a8cc86ed",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_030_CANDIDATES.txt": "aff58b702e9feba4ad7a45ebef5cd02c77d63fc35070c5eaeef2f2c8081e47ac",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_031_CANDIDATES.txt": "1ea75dd977a421cee03eed0b546762b3c88755cdd5bee9a500634e46601c1bbe",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_032_CANDIDATES.txt": "86331df62b3cc4b174be9a95ca7ecf1069fe86ab90da774817b9e3e6be5a6b07",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_033_CANDIDATES.txt": "a232620b65450c6e4098c7c9b4a0a729c706827d94b65f36da0a99d1b0e643d4",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_034_CANDIDATES.txt": "54d46662851f3a829a6f4ec990feee1f27e77d89523d57c446a4ee3b56da31e7",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_035_CANDIDATES.txt": "b1bec496e5af4063a944e6748e1655366c632c92ed1583c5826078ed2a9dc7be",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_036_CANDIDATES.txt": "caace2df2e428ea4f40816278a0cd34076e928369dfc10a9c69d8f2a7ddb4231",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_037_CANDIDATES.txt": "d2b8c7c9584f06c0965f5613d5f56240538473a0e59eab7c9b0ea0b1721c90f7",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_038_CANDIDATES.txt": "c1b0b564bf032a097dc84305f496c7c10a1498fa6213b23c6b922097de4b7d38",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_039_CANDIDATES.txt": "77217ba89c0e8b323ee63a78928c4c6f67854413350d78844eb18328fc31be62",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_040_CANDIDATES.txt": "2d3e01bd4fcfaa057abf16dc9e143103ad0e366fde79f321347ea0bfbd3fa902",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_041_CANDIDATES.txt": "066ab412ac2f9e55068c086e00d2a9bffff835030826a78203964087b1d1de58",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_042_CANDIDATES.txt": "4c747c66a90af403185fbf9933d60c5c5986730191bf2ef9009a2fc3d3a771f1",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_043_CANDIDATES.txt": "fe47d470233d7ff16e78a1db3cfe2485e584a20c2a65ef20e5c7622f6de74206",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MINIMAL_044_CANDIDATES.txt": "88e1f16610bab9ecbbba8621f83fd1cb48769314bddd8d65e527bde8f9c9abe9",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\CLASSIFICATION.jsonl": "13c84c8dc2eedb8298817cbd27fb6d4117f1f99b07be566ae9c5b8cffeaf291a",
+    "computations\\finite_extension_session\\stage3_pool10_v2\\MR_SURVIVORS.txt": "e3a86040f4623c3d60bcf3507836aa1f12b60a0008c6a8c80f400fa35099c731",
+    "computations\\finite_extension_session\\stage3_pool10_arithmetic\\PRIORITY_CANDIDATES.json": "ff94ca948cc2a6b66882398e721df79d5ee53b6759b9038966c8fdd2c4fad3fc",
+    "computations\\finite_extension_session\\stage3_pool10_arithmetic\\priority_scalar_certificates.json": "09f906fd0729bedc0c4d3b0d50c7568f2c29352e70b15ceb42bf2bbac44cc709",
+    "computations\\finite_extension_session\\stage3_pool10_arithmetic\\priority_window.json": "801d32ff5d157a10d37043dd86324902aff83884e4cbb362752ec85afbbc15a4",
+    "computations\\finite_extension_session\\stage3_pool10_arithmetic\\pocklington\\certificate_dag.json": "ce7c182db5933f4644805432df2e6b5ec05bbcc31a2bb2684491f6edfdf11da2",
+    "computations\\finite_extension_session\\stage3_pool10_arithmetic\\ACCEPTED_LARGE_PRIMES.json": "3e09c355bf4a21d61991a2b9244649c9efedda700c6d38777cd3ce98903b738b"
+  },
+  "source_sha256": "417a4a9983eba5169905a142cad96fd6d9a02d50c4d7fbaabd3165df064d59ce",
+  "scope": "Fresh integer, witness, rule-application and prime-DAG checks. Mixed and single-parameter rank determinants are separate exact certificate inputs.",
+  "seconds": 136.55287989999488
+}

@@ -1,0 +1,50 @@
+{
+  "layout": "Independent ZIP volumes; extract all into this directory, producing objects/.",
+  "volumes": [
+    {
+      "file": "data/paper-data-01.zip",
+      "bytes": 602036559,
+      "sha256": "ff7ea0060604331c2dab038952b7c6a64eae9e165b4b464ae3beec21aea2bcd6",
+      "objects": 748,
+      "CRC": "PASS"
+    },
+    {
+      "file": "data/paper-data-02.zip",
+      "bytes": 577646751,
+      "sha256": "ed5967b530317cb9b1bf2e2d93c33c9f98f25f32e03a803939c30c7ddd60d5fd",
+      "objects": 991,
+      "CRC": "PASS"
+    },
+    {
+      "file": "data/paper-data-03.zip",
+      "bytes": 577298802,
+      "sha256": "bfefa88e49474148cdc4753922d148bd7a6080fa45dc1d9ea44931b6c8ff5a72",
+      "objects": 912,
+      "CRC": "PASS"
+    },
+    {
+      "file": "data/paper-data-04.zip",
+      "bytes": 591290997,
+      "sha256": "084c2771ef8b404d2efa56d06c0c9eefb83b823691499eb8a9fde64f62eaa11a",
+      "objects": 685,
+      "CRC": "PASS"
+    },
+    {
+      "file": "data/paper-data-05.zip",
+      "bytes": 557909053,
+      "sha256": "e7aa1efd55ee7db55d718826ac77524289367b420ad4674f889ba680e822ba73",
+      "objects": 957,
+      "CRC": "PASS"
+    },
+    {
+      "file": "data/paper-data-06.zip",
+      "bytes": 556871841,
+      "sha256": "fe9d48f86b404d41adfae63f15ee55b3ae2c43a43a67ac51745ad59b9ea60165",
+      "objects": 651,
+      "CRC": "PASS"
+    }
+  ],
+  "unique_objects": 4944,
+  "uncompressed_bytes": 7323422560,
+  "all_input_SHA256_verified": true
+}

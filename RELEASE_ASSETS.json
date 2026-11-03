@@ -1,0 +1,194 @@
+{
+  "tag": "v3.0.0",
+  "assets": [
+    {
+      "path": "01_五轮总材料/第1轮__Baragar_素数连通性research_bundle.zip",
+      "bytes": 522986838,
+      "sha256": "3727a909217a6920d372a2ad1131a2ed0f02f9c98513e7212e51c8d19b15d0a6",
+      "asset_name": "L1-R01-Baragar__research_bundle.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R01-Baragar__research_bundle.zip"
+    },
+    {
+      "path": "01_五轮总材料/第2轮__Baragar_total_complete_20261101.zip",
+      "bytes": 949030195,
+      "sha256": "ce49d4e0b278e0005b9ef7e903df5cace0e0c4d9921831138542e005e9afee59",
+      "asset_name": "L1-R02-Baragar_total_complete_20261101.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R02-Baragar_total_complete_20261101.zip"
+    },
+    {
+      "path": "01_五轮总材料/第2轮__Baragar_total_recovery_index_20261101.zip",
+      "bytes": 161627,
+      "sha256": "8e1a2435629e9c0befda0aa9ad17edde93d7b58fb05bcca205c637b65fddf9a3",
+      "asset_name": "L1-R02-Baragar_total_recovery_index_20261101.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R02-Baragar_total_recovery_index_20261101.zip"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part02.zip",
+      "bytes": 371866907,
+      "sha256": "b85608a8b72bb004485248914d4d37d6759570a7262afd45e98378bbc20c1d87",
+      "asset_name": "L1-R03-Baragar_20261101_research.part02.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R03-Baragar_20261101_research.part02.zip"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part03.zip",
+      "bytes": 383171127,
+      "sha256": "bbc241170509fc30b223b32c6882108b405cc9c0f05adf2159cf3df027e6511e",
+      "asset_name": "L1-R03-Baragar_20261101_research.part03.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R03-Baragar_20261101_research.part03.zip"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part04.zip",
+      "bytes": 389464309,
+      "sha256": "c472259fbc086a6233a6efef5a253aa7ec6037c1a4b53ffffa2402f2a7381fe1",
+      "asset_name": "L1-R03-Baragar_20261101_research.part04.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R03-Baragar_20261101_research.part04.zip"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part05.zip",
+      "bytes": 344014812,
+      "sha256": "b72ecec56ad1f75b355806ffafe41a1453f65d466b8b54f13142bc57bbec2e47",
+      "asset_name": "L1-R03-Baragar_20261101_research.part05.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R03-Baragar_20261101_research.part05.zip"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part06.zip",
+      "bytes": 387812157,
+      "sha256": "9f07dee50648cb227b36683820288dbb6f76fb33138f4fce61e59d88e0c7c5d3",
+      "asset_name": "L1-R03-Baragar_20261101_research.part06.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R03-Baragar_20261101_research.part06.zip"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part07.zip",
+      "bytes": 351824403,
+      "sha256": "27f3132ddc73029d0c2643648e1bf372e9363f782f7764ff3d03916d6a0d57cd",
+      "asset_name": "L1-R03-Baragar_20261101_research.part07.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R03-Baragar_20261101_research.part07.zip"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part08.zip",
+      "bytes": 389358657,
+      "sha256": "31dae1e12504f686a96897008091c7a9e570b28f42cf962438c9a3a57f505920",
+      "asset_name": "L1-R03-Baragar_20261101_research.part08.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R03-Baragar_20261101_research.part08.zip"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part09.zip",
+      "bytes": 377865622,
+      "sha256": "6050737d0a698967c3075ded91254ec365c1efe0b7150d9991bf96cafc43a95b",
+      "asset_name": "L1-R03-Baragar_20261101_research.part09.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R03-Baragar_20261101_research.part09.zip"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part10.zip",
+      "bytes": 162230847,
+      "sha256": "1214e4e5f795ac8ad5a1f57e352f4c198d886646e4ee4dd44a4934f96b5c4a11",
+      "asset_name": "L1-R03-Baragar_20261101_research.part10.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R03-Baragar_20261101_research.part10.zip"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.zip",
+      "bytes": 321148934,
+      "sha256": "fc7a58bf1ccbe375b0189ce41a074215203878ce1a778b2039f3b434d1bbf636",
+      "asset_name": "L1-R03-Baragar_20261101_research.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R03-Baragar_20261101_research.zip"
+    },
+    {
+      "path": "01_五轮总材料/第4轮__Baragar_20261102_research.part02.zip",
+      "bytes": 305854340,
+      "sha256": "5472a2d9596a07a91e5d7f9e1200a756ece652da0a30eb63bffff61495217fe4",
+      "asset_name": "L1-R04-Baragar_20261102_research.part02.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R04-Baragar_20261102_research.part02.zip"
+    },
+    {
+      "path": "01_五轮总材料/第4轮__Baragar_20261102_research.zip",
+      "bytes": 305855415,
+      "sha256": "b7d788ec8ed12e3519e158ae1ddfbeef9868cf08100612d2fd3af3d7f5e7ed6b",
+      "asset_name": "L1-R04-Baragar_20261102_research.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R04-Baragar_20261102_research.zip"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part01.zip",
+      "bytes": 386815109,
+      "sha256": "f801abef1a3dbf07dd761941094db734b8097ba996fc04b13251bea11354c963",
+      "asset_name": "L1-R05-Baragar_20261102_3hour_total.part01.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R05-Baragar_20261102_3hour_total.part01.zip"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part02.zip",
+      "bytes": 386815074,
+      "sha256": "fa0f3e526dade0a2537f378eecbdf179790ad3b224482d78321924f9781f80c2",
+      "asset_name": "L1-R05-Baragar_20261102_3hour_total.part02.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R05-Baragar_20261102_3hour_total.part02.zip"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part03.zip",
+      "bytes": 386779507,
+      "sha256": "35cd5e0fe786f76badaa6b3434ca1e89d4de5267bb938d4c8e0ba06ba2a4c82b",
+      "asset_name": "L1-R05-Baragar_20261102_3hour_total.part03.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R05-Baragar_20261102_3hour_total.part03.zip"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part04.zip",
+      "bytes": 386773727,
+      "sha256": "8924f4758a398253ce1bdac7b0bbde1b5e33366b6e1c9f8ab59e2b4e816ad9a6",
+      "asset_name": "L1-R05-Baragar_20261102_3hour_total.part04.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R05-Baragar_20261102_3hour_total.part04.zip"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part05.zip",
+      "bytes": 385241541,
+      "sha256": "8a365a1011267d3c8dd163e42bb5d2cc8e585be947078e5467a8260af5c7bce5",
+      "asset_name": "L1-R05-Baragar_20261102_3hour_total.part05.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R05-Baragar_20261102_3hour_total.part05.zip"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part06.zip",
+      "bytes": 33188077,
+      "sha256": "32bdcc1d434a2c4c836189a734b3a5267afc64ebf86b26b076db2de7956253a4",
+      "asset_name": "L1-R05-Baragar_20261102_3hour_total.part06.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L1-R05-Baragar_20261102_3hour_total.part06.zip"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-01.zip",
+      "bytes": 602036559,
+      "sha256": "ff7ea0060604331c2dab038952b7c6a64eae9e165b4b464ae3beec21aea2bcd6",
+      "asset_name": "L2-paper-data-01.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L2-paper-data-01.zip"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-02.zip",
+      "bytes": 577646751,
+      "sha256": "ed5967b530317cb9b1bf2e2d93c33c9f98f25f32e03a803939c30c7ddd60d5fd",
+      "asset_name": "L2-paper-data-02.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L2-paper-data-02.zip"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-03.zip",
+      "bytes": 577298802,
+      "sha256": "bfefa88e49474148cdc4753922d148bd7a6080fa45dc1d9ea44931b6c8ff5a72",
+      "asset_name": "L2-paper-data-03.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L2-paper-data-03.zip"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-04.zip",
+      "bytes": 591290997,
+      "sha256": "084c2771ef8b404d2efa56d06c0c9eefb83b823691499eb8a9fde64f62eaa11a",
+      "asset_name": "L2-paper-data-04.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L2-paper-data-04.zip"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-05.zip",
+      "bytes": 557909053,
+      "sha256": "e7aa1efd55ee7db55d718826ac77524289367b420ad4674f889ba680e822ba73",
+      "asset_name": "L2-paper-data-05.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L2-paper-data-05.zip"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-06.zip",
+      "bytes": 556871841,
+      "sha256": "fe9d48f86b404d41adfae63f15ee55b3ae2c43a43a67ac51745ad59b9ea60165",
+      "asset_name": "L2-paper-data-06.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L2-paper-data-06.zip"
+    }
+  ]
+}

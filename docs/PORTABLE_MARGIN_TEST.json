@@ -1,9 +1,0 @@
-{
-  "status": "PASS",
-  "positive_run": "12 rational brackets and 3 exact integer gates passed",
-  "existing_directory_refused": true,
-  "python_optimization_refused": true,
-  "tool_sha256": "07350101d95bd7eae103685b4d23b296bb94caf4b02292895bb22d70641e77a7",
-  "source_sha256": "3e30b0c8311dcf048b90cd74efad7bea85a4b546442da8b911465c27564a3998",
-  "scope": "Cross-machine command-line adaptation; no manuscript edits"
-}

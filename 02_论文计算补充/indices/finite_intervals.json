@@ -1,0 +1,95 @@
+[
+  {
+    "interval": [
+      "10^66",
+      "10^78"
+    ],
+    "integers": 8757,
+    "partition_order": [
+      "composite",
+      "mixed",
+      "direct",
+      "window"
+    ],
+    "partition": [
+      8297,
+      16,
+      389,
+      55
+    ],
+    "classification": {
+      "path": "agents/shared_determinant_review/finite_1e78_final/COMPLETE_CLASSIFICATION.jsonl",
+      "sha256": "b228708de4db9d89c838946ec56bbefbcb8622a3bbf9a3dd5d08377fb99af3f9"
+    }
+  },
+  {
+    "interval": [
+      "10^78",
+      "10^80"
+    ],
+    "integers": 6316,
+    "partition_order": [
+      "composite",
+      "mixed",
+      "direct",
+      "window"
+    ],
+    "partition": [
+      5984,
+      328,
+      3,
+      1
+    ],
+    "classification": {
+      "path": "computations/finite_extension_session/assembled_1e80_accepted_edges/COMPLETE_CLASSIFICATION.jsonl",
+      "sha256": "0e68feb6c671b49e5fec58b9e1bb09d6e82cf00bf8cd03fd9748d586d9d9ca4c"
+    }
+  },
+  {
+    "interval": [
+      "10^80",
+      "10^82"
+    ],
+    "integers": 8462,
+    "partition_order": [
+      "composite",
+      "mixed",
+      "direct",
+      "window"
+    ],
+    "partition": [
+      8009,
+      447,
+      5,
+      1
+    ],
+    "classification": {
+      "path": "computations/finite_extension_session/stage2_assembled_1e82_accepted_edges/COMPLETE_CLASSIFICATION.jsonl",
+      "sha256": "187bd1fc2a426a0d424ba7aed88bb0fda83515410c639157fd6848aae80be127"
+    }
+  },
+  {
+    "interval": [
+      "10^82",
+      "10^84"
+    ],
+    "integers": 10369,
+    "partition_order": [
+      "composite",
+      "mixed",
+      "direct",
+      "window"
+    ],
+    "partition": [
+      9843,
+      520,
+      6,
+      0
+    ],
+    "classification": {
+      "path": "computations/finite_extension_session/stage3_pool10_v2/CLASSIFICATION.jsonl",
+      "sha256": "13c84c8dc2eedb8298817cbd27fb6d4117f1f99b07be566ae9c5b8cffeaf291a"
+    },
+    "final_rule_applications": "certificates/FINITE_LATEST_FRESH.json"
+  }
+]

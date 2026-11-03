@@ -1,0 +1,345 @@
+{
+  "status": "PASS_NEW_EXACT_SOURCE_MATRIX_TO_TWO_INTEGER_MINORS_CONNECTION",
+  "case": 101,
+  "N": 186,
+  "gate": 373,
+  "anchor": 62,
+  "required_legal_d": [
+    62,
+    179
+  ],
+  "source_rows": 194,
+  "columns": 184,
+  "source_bindings": [
+    {
+      "path": "computations/mixed_sources/d62_t62.jsonl",
+      "sha256": "553ca2a09bf265ae404c11b3a97744ef869f029aba28309c6ea55bc88107645b",
+      "rows": 15
+    },
+    {
+      "path": "computations/mixed_sources/d62_t124.jsonl",
+      "sha256": "98a7055bd29fdd522f43ec78c87b5ecad4d228eb472c4279c0504b8bee5e1f9f",
+      "rows": 45
+    },
+    {
+      "path": "computations/mixed_sources/d179_t179.jsonl",
+      "sha256": "1175b63b1ba870eef68ae67e5a0a3c99e13047a872db43d8a190f1235d62b445",
+      "rows": 89
+    },
+    {
+      "path": "computations/mixed_sources/d62_t186.jsonl",
+      "sha256": "dfd7b1f266376644eb53f6767f51de4979419bd7e99f571ac1676dfdf01ef08e",
+      "rows": 45
+    }
+  ],
+  "minors": [
+    {
+      "minor": 0,
+      "dimension": 184,
+      "determinant_sha256": "fe65a2e9c6223cfdfcd53f2153b9ce5b98613739ab2b23b377f13d9bcab61cf1",
+      "determinant_bits": 56488,
+      "seconds": 4.531134641998506,
+      "direct_integer_determinant_matches": true
+    },
+    {
+      "minor": 1,
+      "dimension": 184,
+      "determinant_sha256": "7a2aed560c88fabff946d912391d72cfad0c4d3eb3a5977d10dc5c3f0d5195f4",
+      "determinant_bits": 58959,
+      "seconds": 4.53768970800229,
+      "direct_integer_determinant_matches": true
+    }
+  ],
+  "gcd_support": [
+    [
+      2,
+      5492
+    ],
+    [
+      3,
+      160
+    ],
+    [
+      5,
+      89
+    ],
+    [
+      7,
+      92
+    ],
+    [
+      11,
+      50
+    ],
+    [
+      13,
+      58
+    ],
+    [
+      17,
+      36
+    ],
+    [
+      19,
+      34
+    ],
+    [
+      23,
+      35
+    ],
+    [
+      29,
+      32
+    ],
+    [
+      31,
+      27
+    ],
+    [
+      37,
+      30
+    ],
+    [
+      41,
+      23
+    ],
+    [
+      43,
+      35
+    ],
+    [
+      47,
+      30
+    ],
+    [
+      53,
+      45
+    ],
+    [
+      59,
+      28
+    ],
+    [
+      61,
+      35
+    ],
+    [
+      67,
+      39
+    ],
+    [
+      71,
+      30
+    ],
+    [
+      73,
+      40
+    ],
+    [
+      79,
+      39
+    ],
+    [
+      83,
+      21
+    ],
+    [
+      89,
+      13
+    ],
+    [
+      97,
+      31
+    ],
+    [
+      101,
+      43
+    ],
+    [
+      103,
+      43
+    ],
+    [
+      107,
+      41
+    ],
+    [
+      109,
+      35
+    ],
+    [
+      113,
+      23
+    ],
+    [
+      127,
+      4
+    ],
+    [
+      131,
+      10
+    ],
+    [
+      137,
+      19
+    ],
+    [
+      139,
+      22
+    ],
+    [
+      149,
+      37
+    ],
+    [
+      151,
+      40
+    ],
+    [
+      157,
+      33
+    ],
+    [
+      163,
+      24
+    ],
+    [
+      167,
+      18
+    ],
+    [
+      173,
+      9
+    ],
+    [
+      179,
+      4
+    ],
+    [
+      181,
+      3
+    ],
+    [
+      191,
+      6
+    ],
+    [
+      193,
+      7
+    ],
+    [
+      197,
+      9
+    ],
+    [
+      199,
+      10
+    ],
+    [
+      211,
+      16
+    ],
+    [
+      223,
+      12
+    ],
+    [
+      227,
+      10
+    ],
+    [
+      229,
+      9
+    ],
+    [
+      233,
+      7
+    ],
+    [
+      239,
+      4
+    ],
+    [
+      241,
+      3
+    ],
+    [
+      251,
+      1
+    ],
+    [
+      257,
+      4
+    ],
+    [
+      263,
+      7
+    ],
+    [
+      269,
+      10
+    ],
+    [
+      271,
+      11
+    ],
+    [
+      277,
+      14
+    ],
+    [
+      281,
+      16
+    ],
+    [
+      283,
+      17
+    ],
+    [
+      293,
+      22
+    ],
+    [
+      307,
+      25
+    ],
+    [
+      311,
+      23
+    ],
+    [
+      313,
+      22
+    ],
+    [
+      317,
+      20
+    ],
+    [
+      331,
+      13
+    ],
+    [
+      337,
+      10
+    ],
+    [
+      347,
+      5
+    ],
+    [
+      349,
+      4
+    ],
+    [
+      353,
+      2
+    ],
+    [
+      367,
+      2
+    ]
+  ],
+  "rough_gcd_above_gate": 1,
+  "scope": "Fresh complete row-to-matrix connection and direct fmpz determinants. Legal raw-source construction follows the supplied source recurrence/authentication; those raw source coefficients were not regenerated here. This new certificate replaces a missing historical connection note, whose expected bytes remain unrecovered."
+}

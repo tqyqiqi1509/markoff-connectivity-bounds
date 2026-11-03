@@ -1,0 +1,437 @@
+{
+  "status": "GITHUB_V3_PUBLICATION_TREE",
+  "layers": [
+    "01_五轮总材料",
+    "02_论文计算补充"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 9,
+      "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 62,
+      "sha256": "a0a7c91b51a952e93905d64214e0012a37fd1cf33f26d6d648b4ffa4b1841590"
+    },
+    {
+      "path": "01_五轮总材料/ARCHIVES.json",
+      "bytes": 11527,
+      "sha256": "45718ec04a131dd5e3486f1cac1e868132e24926a6daccbcc35a7f82ac64de31"
+    },
+    {
+      "path": "01_五轮总材料/README.md",
+      "bytes": 483,
+      "sha256": "e9a83cadf1711ab8d4ac56540f07b49b7d61eb9755ffc3ecfcbd1fc5523cbcf0"
+    },
+    {
+      "path": "01_五轮总材料/第1轮__Baragar_素数连通性research_bundle.zip",
+      "bytes": 522986838,
+      "sha256": "3727a909217a6920d372a2ad1131a2ed0f02f9c98513e7212e51c8d19b15d0a6"
+    },
+    {
+      "path": "01_五轮总材料/第2轮__Baragar_total_complete_20261101.zip",
+      "bytes": 949030195,
+      "sha256": "ce49d4e0b278e0005b9ef7e903df5cace0e0c4d9921831138542e005e9afee59"
+    },
+    {
+      "path": "01_五轮总材料/第2轮__Baragar_total_recovery_index_20261101.zip",
+      "bytes": 161627,
+      "sha256": "8e1a2435629e9c0befda0aa9ad17edde93d7b58fb05bcca205c637b65fddf9a3"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part02.zip",
+      "bytes": 371866907,
+      "sha256": "b85608a8b72bb004485248914d4d37d6759570a7262afd45e98378bbc20c1d87"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part03.zip",
+      "bytes": 383171127,
+      "sha256": "bbc241170509fc30b223b32c6882108b405cc9c0f05adf2159cf3df027e6511e"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part04.zip",
+      "bytes": 389464309,
+      "sha256": "c472259fbc086a6233a6efef5a253aa7ec6037c1a4b53ffffa2402f2a7381fe1"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part05.zip",
+      "bytes": 344014812,
+      "sha256": "b72ecec56ad1f75b355806ffafe41a1453f65d466b8b54f13142bc57bbec2e47"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part06.zip",
+      "bytes": 387812157,
+      "sha256": "9f07dee50648cb227b36683820288dbb6f76fb33138f4fce61e59d88e0c7c5d3"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part07.zip",
+      "bytes": 351824403,
+      "sha256": "27f3132ddc73029d0c2643648e1bf372e9363f782f7764ff3d03916d6a0d57cd"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part08.zip",
+      "bytes": 389358657,
+      "sha256": "31dae1e12504f686a96897008091c7a9e570b28f42cf962438c9a3a57f505920"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part09.zip",
+      "bytes": 377865622,
+      "sha256": "6050737d0a698967c3075ded91254ec365c1efe0b7150d9991bf96cafc43a95b"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.part10.zip",
+      "bytes": 162230847,
+      "sha256": "1214e4e5f795ac8ad5a1f57e352f4c198d886646e4ee4dd44a4934f96b5c4a11"
+    },
+    {
+      "path": "01_五轮总材料/第3轮__Baragar_20261101_research.zip",
+      "bytes": 321148934,
+      "sha256": "fc7a58bf1ccbe375b0189ce41a074215203878ce1a778b2039f3b434d1bbf636"
+    },
+    {
+      "path": "01_五轮总材料/第4轮__Baragar_20261102_research.part02.zip",
+      "bytes": 305854340,
+      "sha256": "5472a2d9596a07a91e5d7f9e1200a756ece652da0a30eb63bffff61495217fe4"
+    },
+    {
+      "path": "01_五轮总材料/第4轮__Baragar_20261102_research.zip",
+      "bytes": 305855415,
+      "sha256": "b7d788ec8ed12e3519e158ae1ddfbeef9868cf08100612d2fd3af3d7f5e7ed6b"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part01.zip",
+      "bytes": 386815109,
+      "sha256": "f801abef1a3dbf07dd761941094db734b8097ba996fc04b13251bea11354c963"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part02.zip",
+      "bytes": 386815074,
+      "sha256": "fa0f3e526dade0a2537f378eecbdf179790ad3b224482d78321924f9781f80c2"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part03.zip",
+      "bytes": 386779507,
+      "sha256": "35cd5e0fe786f76badaa6b3434ca1e89d4de5267bb938d4c8e0ba06ba2a4c82b"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part04.zip",
+      "bytes": 386773727,
+      "sha256": "8924f4758a398253ce1bdac7b0bbde1b5e33366b6e1c9f8ab59e2b4e816ad9a6"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part05.zip",
+      "bytes": 385241541,
+      "sha256": "8a365a1011267d3c8dd163e42bb5d2cc8e585be947078e5467a8260af5c7bce5"
+    },
+    {
+      "path": "01_五轮总材料/第5轮__Baragar_20261102_3hour_total.part06.zip",
+      "bytes": 33188077,
+      "sha256": "32bdcc1d434a2c4c836189a734b3a5267afc64ebf86b26b076db2de7956253a4"
+    },
+    {
+      "path": "02_论文计算补充/certificates/CASE101_RECONNECTION.json",
+      "bytes": 4215,
+      "sha256": "9a13f031040cd94f78663557ea844008718ca2b987758073a9d1d6c243768424"
+    },
+    {
+      "path": "02_论文计算补充/certificates/ENDPOINT.json",
+      "bytes": 34869,
+      "sha256": "a866b3abb891fc40bc8a48aba017d248c3df177814c891fb479c023ace844076"
+    },
+    {
+      "path": "02_论文计算补充/certificates/EULER_CONSTANTS.json",
+      "bytes": 64575,
+      "sha256": "3075ba4ba4fbfbf68d4f6368d11618518fc61b5f98a5d492ac2c81f4a79e36a9"
+    },
+    {
+      "path": "02_论文计算补充/certificates/FINITE_BASE_FRESH.json",
+      "bytes": 55991,
+      "sha256": "fa89191640eda005cddbf7da548fa5a2cc0a2417b65760eb628b02589ba6fe27"
+    },
+    {
+      "path": "02_论文计算补充/certificates/FINITE_LATEST_FRESH.json",
+      "bytes": 14209,
+      "sha256": "097f1980c75cefdf708f87838c4435adbdd49afb2efa1cf794baec9b07dbb46b"
+    },
+    {
+      "path": "02_论文计算补充/certificates/FRACTIONAL_MOMENT.json",
+      "bytes": 23568,
+      "sha256": "6e26c124785f9e3cb8b3986be306c9176e66d5e82f05beaee593f4cf9f209c3a"
+    },
+    {
+      "path": "02_论文计算补充/certificates/FREQUENCY_ENVELOPE.json",
+      "bytes": 1917471,
+      "sha256": "5d7f8bb3798df276e276478731fbf8ae16f0a4b69c7d9b11ca9b1195e5cfb928"
+    },
+    {
+      "path": "02_论文计算补充/certificates/Q2_WINDOWS.json",
+      "bytes": 39520,
+      "sha256": "16dd19e68d8a8022a11885aa1e79234c917584773c293ccf82687115fbcf2718"
+    },
+    {
+      "path": "02_论文计算补充/certificates/SELECTED_MOMENT.json",
+      "bytes": 322,
+      "sha256": "c04d85180a4720e273e451cffb5134c77cb092a3a4ca32b861429ea9dfa3a08a"
+    },
+    {
+      "path": "02_论文计算补充/certificates/SMALL_GRAPHS.csv",
+      "bytes": 3849,
+      "sha256": "474da57b908c044a18bb8da0ec03b8422b4de33bf4c17c26b5167344c34439d9"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-01.zip",
+      "bytes": 602036559,
+      "sha256": "ff7ea0060604331c2dab038952b7c6a64eae9e165b4b464ae3beec21aea2bcd6"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-02.zip",
+      "bytes": 577646751,
+      "sha256": "ed5967b530317cb9b1bf2e2d93c33c9f98f25f32e03a803939c30c7ddd60d5fd"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-03.zip",
+      "bytes": 577298802,
+      "sha256": "bfefa88e49474148cdc4753922d148bd7a6080fa45dc1d9ea44931b6c8ff5a72"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-04.zip",
+      "bytes": 591290997,
+      "sha256": "084c2771ef8b404d2efa56d06c0c9eefb83b823691499eb8a9fde64f62eaa11a"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-05.zip",
+      "bytes": 557909053,
+      "sha256": "e7aa1efd55ee7db55d718826ac77524289367b420ad4674f889ba680e822ba73"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-06.zip",
+      "bytes": 556871841,
+      "sha256": "fe9d48f86b404d41adfae63f15ee55b3ae2c43a43a67ac51745ad59b9ea60165"
+    },
+    {
+      "path": "02_论文计算补充/DATA_VOLUMES.json",
+      "bytes": 1492,
+      "sha256": "4e809deaa7146a5851bc07a42a351b1b51db107a260f5e858d3908b7aa0ffe1c"
+    },
+    {
+      "path": "02_论文计算补充/indices/finite_intervals.json",
+      "bytes": 2043,
+      "sha256": "d4cb9884448232bea541c297b3f51dccf469b9647f8642753caf1aff4f522859"
+    },
+    {
+      "path": "02_论文计算补充/indices/general_rank_59.json",
+      "bytes": 16288,
+      "sha256": "87226292ee686a5141a117e1d7ee8d7fc59fff3d59cffdbe06b6257568bae75d"
+    },
+    {
+      "path": "02_论文计算补充/indices/general_rank_inputs.json",
+      "bytes": 15788,
+      "sha256": "0bbd588de09b834b5c01c7f82560daf27c4dbd0d66b230e90582764c9e488b4e"
+    },
+    {
+      "path": "02_论文计算补充/indices/mixed_rules.json",
+      "bytes": 53516,
+      "sha256": "bf8d028dd7bb6ea3f9ba88465c4bfb4d91ccb666b68e9f713b50ed9dc7fcf3ad"
+    },
+    {
+      "path": "02_论文计算补充/indices/POINTWISE_BATCHES.json",
+      "bytes": 18724,
+      "sha256": "b7e12a792bf0efeb27f58ccdf2238dd87491c179e13d8209a33fb00f5e4b4f3f"
+    },
+    {
+      "path": "02_论文计算补充/indices/small_graphs.csv",
+      "bytes": 4061,
+      "sha256": "5d83c07b28234eb734160610c23572fefa6840d170517ab7826512c4a59553b6"
+    },
+    {
+      "path": "02_论文计算补充/INPUTS.json",
+      "bytes": 1589980,
+      "sha256": "e3c4b14988d017ea22686f3073b73083a6c11180203d198b3dec07a58ef0202f"
+    },
+    {
+      "path": "02_论文计算补充/OBJECTS.json",
+      "bytes": 940294,
+      "sha256": "4f965a3dbcfcc32c655db804160900bcd34e2f1b645565f88b1f798d29da859f"
+    },
+    {
+      "path": "02_论文计算补充/README.md",
+      "bytes": 2144,
+      "sha256": "cc7df4241006277945fb4492d488da32a1787f95e80e4a477a79b961e1de0ef2"
+    },
+    {
+      "path": "02_论文计算补充/REPRODUCE.md",
+      "bytes": 3409,
+      "sha256": "c91576c35a9fff21994328dc54d8565b9d8c0618d9b6d62f7eb46271fb9a7a8e"
+    },
+    {
+      "path": "02_论文计算补充/requirements.txt",
+      "bytes": 21,
+      "sha256": "57c5a4c9c353d7eda5c017f72cefc0aaa4f410fc9198ae4d6115f3a6b376fc83"
+    },
+    {
+      "path": "02_论文计算补充/THEOREM_INPUTS.json",
+      "bytes": 3154,
+      "sha256": "90f167f02ce01bd66a30d519e5df76b2d019849c83af3671424c1dedc3a0a637"
+    },
+    {
+      "path": "02_论文计算补充/TOOL_PROVENANCE.json",
+      "bytes": 3250,
+      "sha256": "e37b1f9a565ef8af2535323bca734d76279871713738154b7677aa98c7f8eda5"
+    },
+    {
+      "path": "02_论文计算补充/tools/bandlimited_kernel_cells.json",
+      "bytes": 3537416,
+      "sha256": "7ae1db46dd0e2c910a80cf2eaab20d5c670b3da22ff1df40128f9ed0d1d50985"
+    },
+    {
+      "path": "02_论文计算补充/tools/BANDWIDTH_KERNEL_INPUTS.json",
+      "bytes": 182,
+      "sha256": "b104bf283939f0bb6ff8627371a2278acf5b0cd446c9c61f421df8901584d026"
+    },
+    {
+      "path": "02_论文计算补充/tools/case101.py",
+      "bytes": 2855,
+      "sha256": "baf6505c20a3ac1a6b8602adcb0a1a00bb548348d891bbcf15d0ca53aad381fb"
+    },
+    {
+      "path": "02_论文计算补充/tools/certify_local_fourth.py",
+      "bytes": 3939,
+      "sha256": "381ea8ae694e908dfd4f0d8b8807ad2f0aeef1d70b25ea886396becc1266d43a"
+    },
+    {
+      "path": "02_论文计算补充/tools/check_finite.py",
+      "bytes": 3884,
+      "sha256": "1779c605658d192f6744c206042ff104f972b5049c576ba50ef5a3503a4e60ea"
+    },
+    {
+      "path": "02_论文计算补充/tools/check_upload.py",
+      "bytes": 3217,
+      "sha256": "e3f20dba0b256ec97438a24a60d0b17f80cc6b66741d53971296531d1f22a3e5"
+    },
+    {
+      "path": "02_论文计算补充/tools/EDGEWORTH_TRACE_CERTIFICATE.json",
+      "bytes": 14129697,
+      "sha256": "b9b4cee6da64e113e3ace511ea7e4bcbc80022c997becc93581d3caf6239a33a"
+    },
+    {
+      "path": "02_论文计算补充/tools/endpoint.py",
+      "bytes": 8518,
+      "sha256": "daec229841d2675178cf5116d7923f50664846498ecc9b890d52d73808cd1708"
+    },
+    {
+      "path": "02_论文计算补充/tools/euler_constants.py",
+      "bytes": 2328,
+      "sha256": "37822667ccca819993edd6348f5b3586880ad5009c00be9879da1b19bd17c339"
+    },
+    {
+      "path": "02_论文计算补充/tools/exact_arithmetic.py",
+      "bytes": 4528,
+      "sha256": "43400cd470b51929d9ec37797cdd1f148b66463c22d82259f6e4027958670039"
+    },
+    {
+      "path": "02_论文计算补充/tools/finite_latest.py",
+      "bytes": 14501,
+      "sha256": "417a4a9983eba5169905a142cad96fd6d9a02d50c4d7fbaabd3165df064d59ce"
+    },
+    {
+      "path": "02_论文计算补充/tools/finite_review_portable.py",
+      "bytes": 20639,
+      "sha256": "ab45d4e93877be527d18a273f165b78438cb6c9887287b4ff3937b5a7ae0786b"
+    },
+    {
+      "path": "02_论文计算补充/tools/fractional_moment.py",
+      "bytes": 4365,
+      "sha256": "a0505447ad44dc4536b262331d7b707832495ca2af75e7cf53c61d698da942ac"
+    },
+    {
+      "path": "02_论文计算补充/tools/frequency_envelope.py",
+      "bytes": 4303,
+      "sha256": "9a2461964c54703a98156e51f1e123e66922737b40667ac3f544879b06d34095"
+    },
+    {
+      "path": "02_论文计算补充/tools/kernel_cells.py",
+      "bytes": 2041,
+      "sha256": "91bb59ab704e8f7e91df6ef8d9391aa76cb4d8c63eb9aeca3d460ad7f10a77bb"
+    },
+    {
+      "path": "02_论文计算补充/tools/LOCAL_FOURTH_CERTIFICATE.json",
+      "bytes": 3141837,
+      "sha256": "2924fc62a524a939806339ac23df553afac0e76d2b435306f4dc8ab321e4ff16"
+    },
+    {
+      "path": "02_论文计算补充/tools/materialize.py",
+      "bytes": 1026,
+      "sha256": "eb59babbdaf91c7a5f8032bdf1d92c09f56e077869b5aae5362bd2341de49c8b"
+    },
+    {
+      "path": "02_论文计算补充/tools/prepare_data.py",
+      "bytes": 1124,
+      "sha256": "9636f03e0dedbc3be8279e46e3cde9a09e99c3180502dd4ffa0a71f1d0073712"
+    },
+    {
+      "path": "02_论文计算补充/tools/q2_windows.py",
+      "bytes": 5655,
+      "sha256": "b12ffcd132f0720bec538d0528aa4b93cf3d27a6850487105df631ce25e3643e"
+    },
+    {
+      "path": "02_论文计算补充/tools/resource/RATIONAL_RESOURCE_REVIEW.json",
+      "bytes": 186816,
+      "sha256": "409d5c999c3eef1d024f2442073292f4465111f7b943b3d5bef735ebb3fdc2a8"
+    },
+    {
+      "path": "02_论文计算补充/tools/resource/RESOURCE_CERTIFICATE.json",
+      "bytes": 335615,
+      "sha256": "87bf088cf363836d3bffcbcd96a522b373577aae3fd50ebe7ca3517b530d8878"
+    },
+    {
+      "path": "02_论文计算补充/tools/resource/verify_resource_rational.py",
+      "bytes": 4991,
+      "sha256": "73fa82f5dc8ee1863659d66a95ba68243fb9d525a755d44d9709e42587bb0d3d"
+    },
+    {
+      "path": "02_论文计算补充/tools/signed_trace.py",
+      "bytes": 6520,
+      "sha256": "647619e08480d5bcbecbb0aed2fda0cd1afb6b316ec1ef6d21fc2a9a74c6e48e"
+    },
+    {
+      "path": "02_论文计算补充/tools/small_graphs.cpp",
+      "bytes": 1832,
+      "sha256": "3a25c16dde0adf2f09a4c9fd58c0ae578bc573d5d392dfd74d850f5f8a15f2bd"
+    },
+    {
+      "path": "02_论文计算补充/tools/verify_selected_moment_independent.py",
+      "bytes": 3684,
+      "sha256": "ec21dce0d2d29a887eb7c6bfb9110e1358ace64d28e42e43452fe15f91df9ef5"
+    },
+    {
+      "path": "download_assets.py",
+      "bytes": 2422,
+      "sha256": "6d6fa972122343d54c0d394c715baf7cb3f2b84cf74df09b5f209efd4367629a"
+    },
+    {
+      "path": "PUBLICATION.json",
+      "bytes": 588,
+      "sha256": "f9e70a8a8502bc5eb00cc47574f41d23a921ce063decb4876d3c7628c2384f52"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2375,
+      "sha256": "c3bda4d40240878e27b6c9548a801c771afdf0082e393792ddbaf47325b81278"
+    },
+    {
+      "path": "RELEASE_ASSETS.json",
+      "bytes": 11051,
+      "sha256": "ee52253fd66e2c6001ff33ff3a7ee9b2218b5ae3b84fb8abf2d1f28212749a68"
+    }
+  ],
+  "manuscript_pdf_sha256": "101b0d99a81618cd90d18b1fbca433359136ef6f4cef023c4e530fa33d5f355c",
+  "data_objects": 4944,
+  "data_volumes": 6,
+  "historical_archives": 21,
+  "total_upload_bytes": 11017586011,
+  "manifest_itself_is_included_without_recursive_self_hash": true,
+  "total_upload_file_count": 85,
+  "source_packet_upload_manifest_sha256": "2796ea0fb1999aab61afc2caaab68818d260357e19d56df10f4b0d558417ab15"
+}

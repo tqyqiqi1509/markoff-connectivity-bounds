@@ -1,6 +1,0 @@
-{
-  "status": "PASS",
-  "corrupt_restored_release_object_without_asset_dir": "rejected",
-  "correct_restored_object_without_asset_dir": "accepted",
-  "scope": "Synthetic work-only artifact-verifier regression test, not a mathematical certificate."
-}

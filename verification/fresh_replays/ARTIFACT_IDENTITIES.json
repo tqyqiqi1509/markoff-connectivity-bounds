@@ -1,9 +1,0 @@
-{
-  "status": "PASS_ARTIFACT_IDENTITIES",
-  "logical_paths": 1625,
-  "checked_storage_objects": 1512,
-  "all_release_assets_checked": true,
-  "all_restored_input_paths_checked": true,
-  "all_57_general_certificate_paths_resolved": true,
-  "scope": "Identity, syntax and declared coverage only; no fresh large determinant computations."
-}

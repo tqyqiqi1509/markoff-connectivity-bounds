@@ -1,7 +1,0 @@
-{
-  "status": "PASS",
-  "missing_supported_binary_with_bound_source": "explicitly recorded, not hashed",
-  "modified_cpp_source": "rejected",
-  "unrecognized_missing_executable": "rejected",
-  "scope": "Portability exception fail-closed behavior only"
-}

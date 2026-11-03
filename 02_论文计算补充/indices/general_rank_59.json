@@ -1,0 +1,415 @@
+[
+  {
+    "d": 4,
+    "N": 24,
+    "strict_p_gate": 48,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/initial_d4_certificate.json",
+    "sha256": "678d5b5b970125fb0b15c9681ddb013b4a6b63c4d32962507b4e20b358d22467"
+  },
+  {
+    "d": 5,
+    "N": 20,
+    "strict_p_gate": 40,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d5_certificate.json",
+    "sha256": "ca704bdc5f4c5a3d6f49b74228958e5ece857b3a9f01545ee4a8882fc776da39"
+  },
+  {
+    "d": 7,
+    "N": 28,
+    "strict_p_gate": 56,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/initial_d7_certificate.json",
+    "sha256": "751664324a39ca536c4bfd99fb99fc91fe5dcd654a2f1b989a7f512d62be3ec9"
+  },
+  {
+    "d": 8,
+    "N": 48,
+    "strict_p_gate": 96,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/phase2_d8_certificate.json",
+    "sha256": "618042b83bf7fcf0dc32c17ac1d0a6fe8c9e5e09d733a408f39d7964a30c9d49"
+  },
+  {
+    "d": 9,
+    "N": 45,
+    "strict_p_gate": 90,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/phase2_d9_certificate.json",
+    "sha256": "3b467c4c56ff8a4883b5fe2ae514deefd5e9ed204399dc97afb24ef5bd130e57"
+  },
+  {
+    "d": 11,
+    "N": 44,
+    "strict_p_gate": 88,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/phase2_d11_certificate.json",
+    "sha256": "5b51d5fea795df3e6982a1676d9d8a565a991c767bf6ddac177874149885fd53"
+  },
+  {
+    "d": 13,
+    "N": 52,
+    "strict_p_gate": 104,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/phase2_d13_certificate.json",
+    "sha256": "594e0dde83d4373bc95cd500a019a6d7c576075bd43a48a9a8dc9828f6518d9e"
+  },
+  {
+    "d": 15,
+    "N": 90,
+    "strict_p_gate": 180,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/composite_d15_certificate.json",
+    "sha256": "b53361f8befec976b8edbdf60bfe400e481fd49a87029b80db855743f1e44991"
+  },
+  {
+    "d": 16,
+    "N": 96,
+    "strict_p_gate": 192,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/phase2_d16_certificate.json",
+    "sha256": "249e70b23fd4b4d5b0bf8981f208dc5721b7a31f7e46e10b95602bf271e6113b"
+  },
+  {
+    "d": 17,
+    "N": 68,
+    "strict_p_gate": 136,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/phase2_d17_certificate.json",
+    "sha256": "871c7a5de880176decbfa6d60480e35a875c59e2465d46e471dea850e7620b17"
+  },
+  {
+    "d": 19,
+    "N": 76,
+    "strict_p_gate": 152,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d19_certificate.json",
+    "sha256": "3566ae4f7ea99bcfb13694209fb43bf0cfbd2417947d2ac67fe8207539c5db84"
+  },
+  {
+    "d": 22,
+    "N": 132,
+    "strict_p_gate": 264,
+    "certificate_path": "prior_restored/baragar_run/computations/modular_rank_campaign/even_composite_coupling/composite_d22_certificate.json",
+    "sha256": "3a118ed3a8a4f8f921b0f1be9315b46fe2a2e7ff1e51123b19f9a1b33ae9bacc"
+  },
+  {
+    "d": 23,
+    "N": 92,
+    "strict_p_gate": 184,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/phase3_incremental_d23_certificate.json",
+    "sha256": "b6fe455d13bf251396f21166bc1a054b1fbfb1dc5057db8d59ccde082bf00c6f"
+  },
+  {
+    "d": 25,
+    "N": 100,
+    "strict_p_gate": 200,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/phase3_incremental_d25_certificate.json",
+    "sha256": "c3aa36dda50fafdbcdd3e32dd821ed383f4ff64dc04790c6a150b96e57bdf8d7"
+  },
+  {
+    "d": 27,
+    "N": 135,
+    "strict_p_gate": 270,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d27_certificate.json",
+    "sha256": "4ab89e1c8ebb1e990ef1d23879dc976f807231db0ba318c2c8a58fd57de65630"
+  },
+  {
+    "d": 29,
+    "N": 116,
+    "strict_p_gate": 232,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/phase3_incremental_d29_certificate.json",
+    "sha256": "14c2682a14c2c26996acbe0edaf6353e54a14215038563399247f0fdca938f10"
+  },
+  {
+    "d": 31,
+    "N": 124,
+    "strict_p_gate": 248,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d31_certificate.json",
+    "sha256": "e9c9cfd4d82188546069bec8969006a2b42813cbfaf8d53bedeb1174a56b5128"
+  },
+  {
+    "d": 32,
+    "N": 192,
+    "strict_p_gate": 384,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d32_certificate.json",
+    "sha256": "0b643fc426001393ac68fef976b9899b0d7adf17a1d7308b6853123adc60b908"
+  },
+  {
+    "d": 33,
+    "N": 198,
+    "strict_p_gate": 396,
+    "certificate_path": "prior_restored/baragar_run/computations/modular_rank_campaign/composite_coupling/composite_d33_certificate.json",
+    "sha256": "bec8a999d32a3575a1e1a13d745fce093b68adc202454242e93e39a3b574f848"
+  },
+  {
+    "d": 34,
+    "N": 204,
+    "strict_p_gate": 408,
+    "certificate_path": "prior_restored/baragar_run/computations/modular_rank_campaign/even_composite_coupling/composite_d34_certificate.json",
+    "sha256": "765e80d6a8053eac5b5af886a454e4deab6e72ffa00130badd6ac48b2d6a80a1"
+  },
+  {
+    "d": 35,
+    "N": 175,
+    "strict_p_gate": 350,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/composite_d35_certificate.json",
+    "sha256": "541d6070a007226aedd74428eae8147647b564b02bb34d52ff6d084ded1e2fe4"
+  },
+  {
+    "d": 37,
+    "N": 148,
+    "strict_p_gate": 296,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d37_certificate.json",
+    "sha256": "22ac8dbb9d0ba9a04fe9c5d626160322200e5382ea5f29e8a703a21d85f13459"
+  },
+  {
+    "d": 38,
+    "N": 228,
+    "strict_p_gate": 456,
+    "certificate_path": "prior_restored/baragar_run/computations/modular_rank_campaign/even_composite_coupling/composite_d38_certificate.json",
+    "sha256": "6ed2ed7e371f0aed8c8a5dc69f78ed1ee351c50653a620ae8b33045fefeffdf0"
+  },
+  {
+    "d": 39,
+    "N": 234,
+    "strict_p_gate": 468,
+    "certificate_path": "prior_restored/baragar_run/computations/modular_rank_campaign/composite_coupling/composite_d39_certificate.json",
+    "sha256": "365ccee2e9797faf50dd0e440da1ab84a39fd6fc5f5f1b52beacba6b928dd400"
+  },
+  {
+    "d": 41,
+    "N": 164,
+    "strict_p_gate": 328,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d41_certificate.json",
+    "sha256": "8ee3685808edf23bb10d95ac75fe2672f544ef0bfbf6c3bc92cd3b36400553cf"
+  },
+  {
+    "d": 43,
+    "N": 172,
+    "strict_p_gate": 344,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d43_certificate.json",
+    "sha256": "99315e6c0393844caf104fac8dbdd42ee5bdefa27789f4038cfd3a94f2404584"
+  },
+  {
+    "d": 46,
+    "N": 276,
+    "strict_p_gate": 552,
+    "certificate_path": "prior_restored/latest/finite46_recomputed/composite_d46_certificate.json",
+    "sha256": "15855d0fc34217f5197b10be23676f39401cd84a208e22ae25fc0aebb59b8c21"
+  },
+  {
+    "d": 47,
+    "N": 188,
+    "strict_p_gate": 376,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d47_certificate.json",
+    "sha256": "eee79cf413472a953f7ec211c42b95da45d282089516e20fa30d0504c014b2e6"
+  },
+  {
+    "d": 49,
+    "N": 196,
+    "strict_p_gate": 392,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d49_certificate.json",
+    "sha256": "3a2ba10b81ccd5fa5924df03e698ef7d76e907d57b7e5ad16a6b673313c6b8a7"
+  },
+  {
+    "d": 53,
+    "N": 212,
+    "strict_p_gate": 424,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d53_certificate.json",
+    "sha256": "a028d2b056414e9bb55e1ef7758006d5ceff3d1376c7ec8038f5797ded63b3a6"
+  },
+  {
+    "d": 58,
+    "N": 348,
+    "strict_p_gate": 696,
+    "certificate_path": "agents/attachment_audit/d58/composite_d58_certificate.json",
+    "sha256": "19901fbbc9b15fc1a88a8a308f649e5a3c571432c727fd62588db82f1e5d58e4"
+  },
+  {
+    "d": 59,
+    "N": 236,
+    "strict_p_gate": 472,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d59_certificate.json",
+    "sha256": "f9f550860355fd812c68869d5626ce4679a92a9cd5d1c2f1da9546011df986e0"
+  },
+  {
+    "d": 61,
+    "N": 244,
+    "strict_p_gate": 488,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d61_certificate.json",
+    "sha256": "dab7645921ffed8044d46b44262028efefb3c066c81cd1b2bf7c7e0a446909e2"
+  },
+  {
+    "d": 64,
+    "N": 384,
+    "strict_p_gate": 768,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d64_certificate.json",
+    "sha256": "d37db8c89d6ef031577d7726167f8e3ca02287c0ec0b6a63e823a51a2257ecdf"
+  },
+  {
+    "d": 67,
+    "N": 268,
+    "strict_p_gate": 536,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d67_certificate.json",
+    "sha256": "292666efa010b7d0d86644a00c8d45512dc09f1f6f5cd8ea90488ba2caca5863"
+  },
+  {
+    "d": 71,
+    "N": 284,
+    "strict_p_gate": 568,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d71_certificate.json",
+    "sha256": "cf12266256229f829c6e6768d531133f88f0eb88629ed8788f0e2b58dd3991de"
+  },
+  {
+    "d": 73,
+    "N": 292,
+    "strict_p_gate": 584,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d73_certificate.json",
+    "sha256": "e2070f4816e2042d723fc17b1df4161fc00bdcc0d5cf5e5f34ebc9bca0c21979"
+  },
+  {
+    "d": 79,
+    "N": 316,
+    "strict_p_gate": 632,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d79_certificate.json",
+    "sha256": "32f52f9fe33513e137089e7de7c2b89623228fee12cbde47e0e6ba41d0c77e12"
+  },
+  {
+    "d": 81,
+    "N": 405,
+    "strict_p_gate": 810,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d81_certificate.json",
+    "sha256": "71d454ed96fd705026f374921f0e4393a4f100ee5315bbe5c7e696e9b40feba5"
+  },
+  {
+    "d": 83,
+    "N": 332,
+    "strict_p_gate": 664,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d83_certificate.json",
+    "sha256": "1ee5816b21f3ade5b2620b156a06a01a46e67ed4e806a454e4aec51a0331099a"
+  },
+  {
+    "d": 89,
+    "N": 356,
+    "strict_p_gate": 712,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d89_certificate.json",
+    "sha256": "2d794990434ddd98ecb5fd1275485f9bd8a37ee04bf0e9c0c8db1c7a23d7e4cd"
+  },
+  {
+    "d": 97,
+    "N": 388,
+    "strict_p_gate": 776,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d97_certificate.json",
+    "sha256": "a2b8181c23564682e0aff1164b4da7e4a41612d4483411a8577b51d0c9a69dab"
+  },
+  {
+    "d": 101,
+    "N": 404,
+    "strict_p_gate": 808,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d101_certificate.json",
+    "sha256": "528c4f3155e7df35a18bb58d68db0815e6efb046a9759f930096a5cebdc3b80d"
+  },
+  {
+    "d": 103,
+    "N": 412,
+    "strict_p_gate": 824,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d103_certificate.json",
+    "sha256": "ff339674be9159920ea419432c7f3b1f838e24ab74db5693ab5cfe5afcd3d11c"
+  },
+  {
+    "d": 107,
+    "N": 428,
+    "strict_p_gate": 856,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d107_certificate.json",
+    "sha256": "fc174aeb9236cd34c513da785a6bc1ec3b03898f76890a2f8ef5ada8a2593778"
+  },
+  {
+    "d": 109,
+    "N": 436,
+    "strict_p_gate": 872,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d109_certificate.json",
+    "sha256": "6097fc0dc4696e4237772f085b22621370110088db4102599537ba459d9e8279"
+  },
+  {
+    "d": 113,
+    "N": 452,
+    "strict_p_gate": 904,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d113_certificate.json",
+    "sha256": "1bd70d0b7d56857429fe3ea05c83f457c635dccf8c2897d31ed88f40eb6a100e"
+  },
+  {
+    "d": 121,
+    "N": 484,
+    "strict_p_gate": 968,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d121_certificate.json",
+    "sha256": "c9568fd45ab187e92d6731a5d91b5ec444be84a28ad74efdd9d8d598d7be1af3"
+  },
+  {
+    "d": 125,
+    "N": 500,
+    "strict_p_gate": 1000,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d125_certificate.json",
+    "sha256": "c9e334046efb2b4d512462fe9a9978bb098f7dd1b7591567f568b3e8dfe35e20"
+  },
+  {
+    "d": 127,
+    "N": 508,
+    "strict_p_gate": 1016,
+    "certificate_path": "prior_restored/original_v14/markoff_project/agents/computational_mechanisms/stream_d127_certificate.json",
+    "sha256": "42dbe4ddd7ee846288c42179f07d00be25a442614e0f3482ec425db885711634"
+  },
+  {
+    "d": 131,
+    "N": 524,
+    "strict_p_gate": 1048,
+    "certificate_path": "prior_restored/baragar_run/computations/modular_rank_campaign/d131_universal_certificate.json",
+    "sha256": "55ddec748aa262dfd7ae7b5252952621a4cd43eb49e093f3ab799a41c734e17c"
+  },
+  {
+    "d": 137,
+    "N": 548,
+    "strict_p_gate": 1096,
+    "certificate_path": "prior_restored/baragar_run/computations/modular_rank_campaign/d137_universal_certificate.json",
+    "sha256": "ad9d43fd602dee24cfbce08d6b279122f7d1ae2cddac264850f62a2e5e3b6331"
+  },
+  {
+    "d": 139,
+    "N": 556,
+    "strict_p_gate": 1112,
+    "certificate_path": "agents/attachment_audit/uniform139/d139_universal_certificate.json",
+    "sha256": "988933fc505328cea156b6ff5c7892db2cfeacc5e289acf01fc92c6f317104b7"
+  },
+  {
+    "d": 149,
+    "N": 596,
+    "strict_p_gate": 1192,
+    "certificate_path": "agents/attachment_audit/uniform149/d149_universal_certificate.json",
+    "sha256": "b288e3b5c275d700172b3e0e444131fd46724e796e3c6bb8e0c96037a7f6edee"
+  },
+  {
+    "d": 151,
+    "N": 604,
+    "strict_p_gate": 1208,
+    "certificate_path": "new_uniform/d151/d151_universal_certificate.json",
+    "sha256": "4f9ebc22ed98dab2348b213f6d7faac0b4cb803e7f62fc6a8aa7f5587bc5f22c"
+  },
+  {
+    "d": 157,
+    "N": 628,
+    "strict_p_gate": 1256,
+    "certificate_path": "new_uniform/d157/d157_universal_certificate.json",
+    "sha256": "2bcfc3a19109b0d229aa2bb53cf1119975dad333de9436e248daa57933d7a813"
+  },
+  {
+    "d": 163,
+    "N": 652,
+    "strict_p_gate": 1304,
+    "certificate_path": "new_uniform/d163/d163_universal_certificate.json",
+    "sha256": "c3cae34ced2723a3c71ade1d73943e96da95b0d8fda8768ef45b2553d4a732cc"
+  },
+  {
+    "d": 167,
+    "N": 668,
+    "strict_p_gate": 1336,
+    "certificate_path": "agents/shared_determinant_review/d167_general/GENERAL_D167_REVIEW.json",
+    "sha256": "02646a50104d9c8e8f07fbe8153d5bd7008313a3e9cc0980d64b7082448fb4bb"
+  },
+  {
+    "d": 173,
+    "N": 692,
+    "strict_p_gate": 1384,
+    "certificate_path": "agents/shared_determinant_review/d173_general/GENERAL_D173_REVIEW.json",
+    "sha256": "dd306e4395ac238b35abee511c784f6315666377106316e95ab9568ed645e4d6"
+  }
+]

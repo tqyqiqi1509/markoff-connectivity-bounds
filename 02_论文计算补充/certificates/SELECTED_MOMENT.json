@@ -1,0 +1,8 @@
+{
+  "status": "PASS_SELECTED_MOMENT_EULER_BUDGET_ONLY",
+  "finite_primes": 564,
+  "finite_nonzero_exponents": 1355,
+  "constant": 43540,
+  "input_certificate_sha256": "ca42290f5f622d7e71ab7f68041d2467350e45a0a91a519c8f08144daf8f9992",
+  "script_sha256": "ec21dce0d2d29a887eb7c6bfb9110e1358ace64d28e42e43452fe15f91df9ef5"
+}

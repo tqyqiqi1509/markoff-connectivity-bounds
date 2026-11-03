@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds",
+  "release_tag": "v3.0.0",
+  "source_packet": "最终上传_20261103_v3",
+  "source_upload_manifest_sha256": "2796ea0fb1999aab61afc2caaab68818d260357e19d56df10f4b0d558417ab15",
+  "publication_adaptations": [
+    "Public README replaces the local packing notice",
+    "Release attachment URLs and a checksum-validating downloader are added",
+    "Upload checker excludes Git metadata; mathematical code and data unchanged"
+  ],
+  "layers": 2,
+  "zip_attachments": 27,
+  "zip_bytes": 10991313228
+}
