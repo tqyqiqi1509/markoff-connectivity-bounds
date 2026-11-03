@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "independent_small_source_rows": 20,
+  "independent_small_source_coefficients": 320,
+  "small_source_scope": "d=5, all 20 matrix rows; two original Phi monomial rules and quadratic f_t power sum recurrence, no source-generator import",
+  "negative_cases": [
+    "nonintegral low coefficient",
+    "invalid multiplier",
+    "content containing prime43 above gate40",
+    "classification candidate mutation"
+  ],
+  "candidate_list_records_and_rebuilt_values": 27985,
+  "parameters_bound": 57,
+  "candidate_sequence_sha256": "5399b99b3aace9bf17fcf322d40dc8eaf3e2b8a2cb2cd7c9eb5a3c5afa4c9809"
+}

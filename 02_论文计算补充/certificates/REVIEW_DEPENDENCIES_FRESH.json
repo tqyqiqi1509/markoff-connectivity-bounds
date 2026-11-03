@@ -1,0 +1,23 @@
+{
+  "status": "PASS_R1_R2_TARGETED_RECOVERY_AND_REPLAY",
+  "added_logical_paths": 47,
+  "new_raw_object_bytes": 377147073,
+  "middle_direct": 397,
+  "middle_window": 57,
+  "parameter_source_bindings": 7,
+  "generated_matrix_sha256": {
+    "d131": "af24f195e743f74d2d591650ecaf4b78ba85b4c5bc94886a101deddc42bec3bf",
+    "d137": "70ada4b192fa0bd9f6c2dfb0a5d1719eda592bc57e33e8db109d2dd44fa1c24e"
+  },
+  "case9002_receipt": "input_tree/review_outputs/fresh_case9002/COMPRESSED_MIXED_REVIEW.json",
+  "case9002_status": "PASS_LOCALIZED_COMPRESSION_AND_INTEGER_MINORS_PENDING_SOURCE_CONNECTION_AND_ROOT_ADOPTION",
+  "runtime_case9002": {
+    "python": "3.14.4",
+    "python_flint": "0.9.0",
+    "environment": "isolated /tmp/bargar_review_261100017_venv"
+  },
+  "limits": "Targeted dependency recovery and arithmetic replay, not full independent regeneration of 59/176 rank proofs. Source Phi authentication remains a separate mathematical check. Exact original historical bytes are retained.",
+  "recovered_or_realiased_unique_objects": 45,
+  "new_store_objects": 36,
+  "case9002_scope": "Exact localized compression, integer minors and gcd support; source recurrence connection is a separate check."
+}

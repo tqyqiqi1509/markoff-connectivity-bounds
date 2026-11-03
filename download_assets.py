@@ -19,6 +19,7 @@ def main():
   if p.exists():
    if p.stat().st_size!=a['bytes'] or digest(p)!=a['sha256']:raise RuntimeError('Existing file differs: '+rel)
    print('VERIFIED',rel,flush=True);continue
+  if not a.get('url'):raise RuntimeError('Local review asset is not published yet; obtain it from the correction package: '+rel)
   p.parent.mkdir(parents=True,exist_ok=True);partial=p.with_suffix(p.suffix+'.partial')
   for attempt in range(5):
    try:

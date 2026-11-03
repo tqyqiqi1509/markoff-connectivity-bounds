@@ -87,5 +87,17 @@
     }
   },
   "scope": "No root-model acceptance tag is used by the maintained endpoint or latest finite checker as a substitute for a mathematical rule. Historical provenance references are not computational premises. Full fresh regeneration of all historical large rank matrices is not claimed.",
-  "manuscript_pdf_sha256": "101b0d99a81618cd90d18b1fbca433359136ef6f4cef023c4e530fa33d5f355c"
+  "manuscript_pdf_sha256": "f3d660f43318b2288cea38bfa20a18cddae7abebf1f63a13a90527c8709e1a28",
+  "review_corrections": {
+    "base_commit": "1f9a6da729d4d93163ba270667378173120d860c",
+    "dependencies": "indices/REVIEW_DEPENDENCIES.json",
+    "recovery_provenance": "indices/REVIEW_RECOVERY_PROVENANCE.json",
+    "replay_tool": "tools/replay_review_fixes.py",
+    "raw_row_recovery_index": "indices/RECOVERED_RANK_ROWS.json",
+    "raw_row_recovery_tool": "tools/recover_rank_rows.py",
+    "added_logical_paths": 47,
+    "new_store_objects": 36,
+    "data_volume": "data/paper-data-07-review-fixes.zip",
+    "notes": "R1-R3 restore/reconstruct mathematical inputs; R4 extends coefficient notation to the even part. Prime ranges and numerical constants are unchanged."
+  }
 }

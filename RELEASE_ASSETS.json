@@ -1,5 +1,5 @@
 {
-  "tag": "v3.0.0",
+  "tag": "v3.1.0",
   "assets": [
     {
       "path": "01_五轮总材料/第1轮__Baragar_素数连通性research_bundle.zip",
@@ -189,6 +189,15 @@
       "sha256": "fe9d48f86b404d41adfae63f15ee55b3ae2c43a43a67ac51745ad59b9ea60165",
       "asset_name": "L2-paper-data-06.zip",
       "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.0.0/L2-paper-data-06.zip"
+    },
+    {
+      "path": "02_论文计算补充/data/paper-data-07-review-fixes.zip",
+      "bytes": 176949351,
+      "sha256": "c4179a40f33a7475e48e1eb42cd9704ec5f3131ff23899346aaa41e6fcf086e5",
+      "asset_name": "L2-paper-data-07-review-fixes.zip",
+      "url": "https://github.com/tqyqiqi1509/markoff-connectivity-bounds/releases/download/v3.1.0/L2-paper-data-07-review-fixes.zip",
+      "publication_status": "release_asset"
     }
-  ]
+  ],
+  "base_tag": "v3.0.0"
 }

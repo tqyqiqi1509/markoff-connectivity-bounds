@@ -1,5 +1,5 @@
 {
-  "status": "GITHUB_V3_PUBLICATION_TREE",
+  "status": "GITHUB_V3_1_REVIEW_CORRECTION_PUBLICATION",
   "layers": [
     "01_五轮总材料",
     "02_论文计算补充"
@@ -151,6 +151,11 @@
       "sha256": "fa89191640eda005cddbf7da548fa5a2cc0a2417b65760eb628b02589ba6fe27"
     },
     {
+      "path": "02_论文计算补充/certificates/FINITE_BASE_JOIN_FRESH.json",
+      "bytes": 55991,
+      "sha256": "2021cfa62003c3713b45e542e984a91f1a30431b2880d535a60da443f20e753c"
+    },
+    {
       "path": "02_论文计算补充/certificates/FINITE_LATEST_FRESH.json",
       "bytes": 14209,
       "sha256": "097f1980c75cefdf708f87838c4435adbdd49afb2efa1cf794baec9b07dbb46b"
@@ -169,6 +174,21 @@
       "path": "02_论文计算补充/certificates/Q2_WINDOWS.json",
       "bytes": 39520,
       "sha256": "16dd19e68d8a8022a11885aa1e79234c917584773c293ccf82687115fbcf2718"
+    },
+    {
+      "path": "02_论文计算补充/certificates/RANK_ROW_RECOVERY_FRESH.json",
+      "bytes": 18003,
+      "sha256": "41d1c3a7b0e74ce9bdf1d18259fae9c3af5801dddd074ec30005320274ef5a01"
+    },
+    {
+      "path": "02_论文计算补充/certificates/REVIEW_DEPENDENCIES_FRESH.json",
+      "bytes": 1221,
+      "sha256": "52801b5ca35391e0f1827d5eee4bd37e419f8c4cf135b74947fc9709b2f62499"
+    },
+    {
+      "path": "02_论文计算补充/certificates/ROW_RECOVERY_SMALL_AND_JOIN.json",
+      "bytes": 630,
+      "sha256": "b55e220b3d719792e12e4742ca5d5dd8fbaa2c5b1ce518163dea8f57575e7ce4"
     },
     {
       "path": "02_论文计算补充/certificates/SELECTED_MOMENT.json",
@@ -211,9 +231,19 @@
       "sha256": "fe9d48f86b404d41adfae63f15ee55b3ae2c43a43a67ac51745ad59b9ea60165"
     },
     {
+      "path": "02_论文计算补充/data/paper-data-07-review-fixes.zip",
+      "bytes": 176949351,
+      "sha256": "c4179a40f33a7475e48e1eb42cd9704ec5f3131ff23899346aaa41e6fcf086e5"
+    },
+    {
       "path": "02_论文计算补充/DATA_VOLUMES.json",
-      "bytes": 1492,
-      "sha256": "4e809deaa7146a5851bc07a42a351b1b51db107a260f5e858d3908b7aa0ffe1c"
+      "bytes": 1718,
+      "sha256": "53877e7dc9595eddd725988e7eb5b5261ffda33655bcc4b9d8e0692f323e3bb2"
+    },
+    {
+      "path": "02_论文计算补充/DEPENDENCY_RECOVERY.md",
+      "bytes": 2195,
+      "sha256": "92df30bdd0a2a3993f4b1ecc7434ad4bc377612cab56e40cf002e63d698a5851"
     },
     {
       "path": "02_论文计算补充/indices/finite_intervals.json",
@@ -241,29 +271,49 @@
       "sha256": "b7e12a792bf0efeb27f58ccdf2238dd87491c179e13d8209a33fb00f5e4b4f3f"
     },
     {
+      "path": "02_论文计算补充/indices/RECOVERED_RANK_ROWS.json",
+      "bytes": 26502,
+      "sha256": "47bbb90cddc72387936fd027cc2330fc13d8d5daf08d16dfeecdb8287a0f3db2"
+    },
+    {
+      "path": "02_论文计算补充/indices/REVIEW_DEPENDENCIES.json",
+      "bytes": 33616,
+      "sha256": "6547ee7e1524156d848cdcf6745d07fd46fb34c0ee4010624c14380e2c4312e0"
+    },
+    {
+      "path": "02_论文计算补充/indices/REVIEW_RECOVERY_PROVENANCE.json",
+      "bytes": 19099,
+      "sha256": "8f8ee5e515b969a5605a08f075267f64f0480385e15a060f30e9d523c7fc2606"
+    },
+    {
       "path": "02_论文计算补充/indices/small_graphs.csv",
       "bytes": 4061,
       "sha256": "5d83c07b28234eb734160610c23572fefa6840d170517ab7826512c4a59553b6"
     },
     {
       "path": "02_论文计算补充/INPUTS.json",
-      "bytes": 1589980,
-      "sha256": "e3c4b14988d017ea22686f3073b73083a6c11180203d198b3dec07a58ef0202f"
+      "bytes": 1604295,
+      "sha256": "10bc9c09dbbda4ea13a64d7c5bb45eaae7677afe6b1bb4e55794cbf8c5ef4c15"
     },
     {
       "path": "02_论文计算补充/OBJECTS.json",
-      "bytes": 940294,
-      "sha256": "4f965a3dbcfcc32c655db804160900bcd34e2f1b645565f88b1f798d29da859f"
+      "bytes": 947164,
+      "sha256": "740a1aad9e24b3fac53a2b0eec9f1183f1bbd36bf48a7d141da6a8a25a01db15"
+    },
+    {
+      "path": "02_论文计算补充/RANK_ROW_RECOVERY.md",
+      "bytes": 4240,
+      "sha256": "880f6518775e35716b14bdbd0d302c22e515a901d54d433425cdec7cf88b3984"
     },
     {
       "path": "02_论文计算补充/README.md",
-      "bytes": 2144,
-      "sha256": "cc7df4241006277945fb4492d488da32a1787f95e80e4a477a79b961e1de0ef2"
+      "bytes": 2560,
+      "sha256": "332108374e56987d247f8c9cbe9f8d822a21ff5e6640d6ee586db2e982a23063"
     },
     {
       "path": "02_论文计算补充/REPRODUCE.md",
-      "bytes": 3409,
-      "sha256": "c91576c35a9fff21994328dc54d8565b9d8c0618d9b6d62f7eb46271fb9a7a8e"
+      "bytes": 4410,
+      "sha256": "c6ccef87992ebda2cf7cd5b3e37e3787b355635bba74e51234fea9211bb1dffd"
     },
     {
       "path": "02_论文计算补充/requirements.txt",
@@ -271,14 +321,19 @@
       "sha256": "57c5a4c9c353d7eda5c017f72cefc0aaa4f410fc9198ae4d6115f3a6b376fc83"
     },
     {
+      "path": "02_论文计算补充/REVIEW_FIXES.md",
+      "bytes": 3967,
+      "sha256": "18759e532e53a38a42e36e9b879f86e0d17356bd19c70fde31729edfec90af11"
+    },
+    {
       "path": "02_论文计算补充/THEOREM_INPUTS.json",
-      "bytes": 3154,
-      "sha256": "90f167f02ce01bd66a30d519e5df76b2d019849c83af3671424c1dedc3a0a637"
+      "bytes": 3846,
+      "sha256": "7a83944cc04584199a8a506ce1bc554c19cbd7be17390666d3ce8ac4d7228d0c"
     },
     {
       "path": "02_论文计算补充/TOOL_PROVENANCE.json",
-      "bytes": 3250,
-      "sha256": "e37b1f9a565ef8af2535323bca734d76279871713738154b7677aa98c7f8eda5"
+      "bytes": 3907,
+      "sha256": "83cb53c6d2610388b83959f02f6854fc768d5833808523e3841f2a178bb152ba"
     },
     {
       "path": "02_论文计算补充/tools/bandlimited_kernel_cells.json",
@@ -302,8 +357,8 @@
     },
     {
       "path": "02_论文计算补充/tools/check_finite.py",
-      "bytes": 3884,
-      "sha256": "1779c605658d192f6744c206042ff104f972b5049c576ba50ef5a3503a4e60ea"
+      "bytes": 4131,
+      "sha256": "f4c6b927c0648ca9be075841a6ad36e4ac8591d25d76aa5ef605e8d14bd14315"
     },
     {
       "path": "02_论文计算补充/tools/check_upload.py",
@@ -352,8 +407,8 @@
     },
     {
       "path": "02_论文计算补充/tools/kernel_cells.py",
-      "bytes": 2041,
-      "sha256": "91bb59ab704e8f7e91df6ef8d9391aa76cb4d8c63eb9aeca3d460ad7f10a77bb"
+      "bytes": 2040,
+      "sha256": "3ce46cb40a348dbac754a4a8e88d0062a15eacbabc1a011d5886de81fa5f7123"
     },
     {
       "path": "02_论文计算补充/tools/LOCAL_FOURTH_CERTIFICATE.json",
@@ -374,6 +429,16 @@
       "path": "02_论文计算补充/tools/q2_windows.py",
       "bytes": 5655,
       "sha256": "b12ffcd132f0720bec538d0528aa4b93cf3d27a6850487105df631ce25e3643e"
+    },
+    {
+      "path": "02_论文计算补充/tools/recover_rank_rows.py",
+      "bytes": 9721,
+      "sha256": "0df78ebc2cc5386ec834f2932343acc6ec74b148fc9814d52affa94aec712ee5"
+    },
+    {
+      "path": "02_论文计算补充/tools/replay_review_fixes.py",
+      "bytes": 4718,
+      "sha256": "7b50165c552d4a9ea345a0fdb83de3f9221ac36181b38ea9f4edd2e901325c1d"
     },
     {
       "path": "02_论文计算补充/tools/resource/RATIONAL_RESOURCE_REVIEW.json",
@@ -407,31 +472,31 @@
     },
     {
       "path": "download_assets.py",
-      "bytes": 2422,
-      "sha256": "6d6fa972122343d54c0d394c715baf7cb3f2b84cf74df09b5f209efd4367629a"
+      "bytes": 2551,
+      "sha256": "bdbe6b32ffd4d4735518e1524fa70ad1fb3417f3fb1eb71738fbeb4dc33b924d"
     },
     {
       "path": "PUBLICATION.json",
-      "bytes": 588,
-      "sha256": "f9e70a8a8502bc5eb00cc47574f41d23a921ce063decb4876d3c7628c2384f52"
+      "bytes": 986,
+      "sha256": "2c01c3aba5fd8df7affd4ee3fa4d4845cbdd83e491a7ccd37b098b0f22f13b3f"
     },
     {
       "path": "README.md",
-      "bytes": 2375,
-      "sha256": "c3bda4d40240878e27b6c9548a801c771afdf0082e393792ddbaf47325b81278"
+      "bytes": 2761,
+      "sha256": "9d099c607f9ef065d6cf42b70f51641e5be77bf9e53b9a47c062b4d031e1d753"
     },
     {
       "path": "RELEASE_ASSETS.json",
-      "bytes": 11051,
-      "sha256": "ee52253fd66e2c6001ff33ff3a7ee9b2218b5ae3b84fb8abf2d1f28212749a68"
+      "bytes": 11519,
+      "sha256": "68eed5769acb46fc191c211fa26d0c62c0cbac8d95d58359136a049758cc1188"
     }
   ],
-  "manuscript_pdf_sha256": "101b0d99a81618cd90d18b1fbca433359136ef6f4cef023c4e530fa33d5f355c",
-  "data_objects": 4944,
-  "data_volumes": 6,
+  "manuscript_pdf_sha256": "f3d660f43318b2288cea38bfa20a18cddae7abebf1f63a13a90527c8709e1a28",
+  "data_objects": 4980,
+  "data_volumes": 7,
   "historical_archives": 21,
-  "total_upload_bytes": 11017586011,
+  "total_upload_bytes": 11194741069,
   "manifest_itself_is_included_without_recursive_self_hash": true,
-  "total_upload_file_count": 85,
+  "total_upload_file_count": 98,
   "source_packet_upload_manifest_sha256": "2796ea0fb1999aab61afc2caaab68818d260357e19d56df10f4b0d558417ab15"
 }

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Rigorous CL majorant transport, fixed bandwidth Omega=32.
 
-Uses the previously certified 76544-cell full-distribution Fourier table.
+Uses the certified 15104-cell full-distribution Fourier table on [0,32].
 This script does not regenerate that table or claim a new Markoff endpoint.
 All new arithmetic uses Arb interval bounds; grid cells cover the continuum.
 """

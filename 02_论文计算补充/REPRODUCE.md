@@ -36,4 +36,11 @@ g++ -O2 -std=c++17 tools/small_graphs.cpp -o /path/to/work/small_graphs
 ```
 The first command reconstructs 27985 integers and 26210 composite witnesses, parses full source rows, and checks the 90 saved unit-minor batches for 1775 candidates. It does not recompute their large determinants. The second reconstructs all 45 CRT branches through 10^84, checks 9843 composite witnesses, 520 mixed-rule applications and the six direct arithmetic cases with 18104 prime-DAG nodes. Case101 freshly reconstructs its full source matrix and computes two 184-by-184 integer determinants. The small graph program checks all 211 primes from 5 through 1304.
 
+4. Review-correction replay (after obtaining all seven data volumes and restoring a fresh input tree):
+```
+python tools/replay_review_fixes.py --project-root /path/to/work/input_tree --output /path/to/work/REVIEW_FIXES --build-131-137
+python tools/recover_rank_rows.py --input-tree /path/to/work/input_tree --output /path/to/work/RECOVERED_ROWS
+```
+The first command verifies the indexed dependencies, all seven parameter/source bindings, the 397 direct and 57 window branches for the three middle intervals, and the two generated d131/d137 matrices. The second recovers all 32 coefficient families, with filter, parameter, content and divisibility checks. To check these recovered coefficients against the original Phi recurrence, add `--jobs` and follow `RANK_ROW_RECOVERY.md`. These commands do not assert that every general or mixed rank determinant has been regenerated. Optional `--case9002` needs Linux/python-flint and an output directory inside the restored tree; it replays one mixed case.
+
 For the preceding finite-extension intervals and the full general/mixed determinant replays, consult THEOREM_INPUTS.json and the exact original source/checker paths restored from INPUTS.json. Their integer sources, row normalization, selected minors, prime moduli, reconstruction bounds and journals are provided. Legacy command-line paths may need rebasing; retain the original bytes and record a path-only adapter. The sources are supplied to permit the mathematical checks, not to recreate discarded process-management state.

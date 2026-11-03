@@ -11,7 +11,7 @@
     },
     {
       "file": "tools/check_finite.py",
-      "sha256": "1779c605658d192f6744c206042ff104f972b5049c576ba50ef5a3503a4e60ea"
+      "sha256": "f4c6b927c0648ca9be075841a6ad36e4ac8591d25d76aa5ef605e8d14bd14315"
     },
     {
       "file": "tools/check_upload.py",
@@ -47,7 +47,7 @@
     },
     {
       "file": "tools/kernel_cells.py",
-      "sha256": "91bb59ab704e8f7e91df6ef8d9391aa76cb4d8c63eb9aeca3d460ad7f10a77bb"
+      "sha256": "3ce46cb40a348dbac754a4a8e88d0062a15eacbabc1a011d5886de81fa5f7123"
     },
     {
       "file": "tools/materialize.py",
@@ -72,6 +72,14 @@
     {
       "file": "tools/verify_selected_moment_independent.py",
       "sha256": "ec21dce0d2d29a887eb7c6bfb9110e1358ace64d28e42e43452fe15f91df9ef5"
+    },
+    {
+      "file": "tools/recover_rank_rows.py",
+      "sha256": "0df78ebc2cc5386ec834f2932343acc6ec74b148fc9814d52affa94aec712ee5"
+    },
+    {
+      "file": "tools/replay_review_fixes.py",
+      "sha256": "7b50165c552d4a9ea345a0fdb83de3f9221ac36181b38ea9f4edd2e901325c1d"
     }
   ],
   "numerical_validation": {
@@ -80,5 +88,12 @@
     "signed_trace": "all boxes and infinite tails pass",
     "finite": "base and final CRT/composite/source/application/DAG checks freshly pass",
     "case101": "two direct integer determinants freshly recomputed"
+  },
+  "review_correction": {
+    "scope": "R1-R3 dependency and coefficient recovery; E1 changes only a docstring; two exact candidate/parameter assertions are added to check_finite.py. Original analytic certificates retain their execution source hashes.",
+    "new_sources": [
+      "tools/recover_rank_rows.py",
+      "tools/replay_review_fixes.py"
+    ]
   }
 }

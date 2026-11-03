@@ -42,9 +42,16 @@
       "sha256": "fe9d48f86b404d41adfae63f15ee55b3ae2c43a43a67ac51745ad59b9ea60165",
       "objects": 651,
       "CRC": "PASS"
+    },
+    {
+      "file": "data/paper-data-07-review-fixes.zip",
+      "bytes": 176949351,
+      "sha256": "c4179a40f33a7475e48e1eb42cd9704ec5f3131ff23899346aaa41e6fcf086e5",
+      "objects": 36,
+      "CRC": "PASS"
     }
   ],
-  "unique_objects": 4944,
-  "uncompressed_bytes": 7323422560,
+  "unique_objects": 4980,
+  "uncompressed_bytes": 7700569633,
   "all_input_SHA256_verified": true
 }

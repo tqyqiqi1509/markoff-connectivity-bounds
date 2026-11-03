@@ -1,0 +1,797 @@
+{
+  "status": "PASS",
+  "lower_exclusive": 1304,
+  "upper_inclusive": "1000000000000000000000000000000000000000000000000000000000000000000",
+  "crt": {
+    "modulus": 19180528744528005598576202949542117157359093389512019006369227289584000,
+    "components": [
+      [
+        2,
+        3,
+        5,
+        7,
+        11,
+        13,
+        17,
+        19,
+        23,
+        29
+      ],
+      [
+        31
+      ],
+      [
+        37
+      ],
+      [
+        41
+      ],
+      [
+        43
+      ],
+      [
+        47
+      ],
+      [
+        53
+      ],
+      [
+        59
+      ],
+      [
+        61
+      ],
+      [
+        67
+      ],
+      [
+        71
+      ],
+      [
+        73
+      ],
+      [
+        79
+      ],
+      [
+        83
+      ],
+      [
+        89
+      ],
+      [
+        97
+      ],
+      [
+        101
+      ],
+      [
+        103
+      ],
+      [
+        107
+      ],
+      [
+        109
+      ],
+      [
+        113
+      ],
+      [
+        127
+      ],
+      [
+        131
+      ],
+      [
+        137
+      ],
+      [
+        139
+      ],
+      [
+        149
+      ],
+      [
+        151
+      ],
+      [
+        157
+      ],
+      [
+        163
+      ]
+    ],
+    "block_moduli": [
+      21520787560272000,
+      31,
+      37,
+      41,
+      43,
+      47,
+      53,
+      59,
+      61,
+      67,
+      71,
+      73,
+      79,
+      83,
+      89,
+      97,
+      101,
+      103,
+      107,
+      109,
+      113,
+      127,
+      131,
+      137,
+      139,
+      149,
+      151,
+      157,
+      163
+    ],
+    "class_count": 536870912,
+    "half_counts": [
+      16384,
+      32768
+    ],
+    "next": 1000053157533147834381422552495507637069584257350249288950097023999
+  },
+  "candidates": 27985,
+  "composite_witnesses_recomputed": 26210,
+  "pointwise_source_bound_receipts": 1775,
+  "excluded_historical_executable_identities": [
+    {
+      "path": "new_pointwise/d167/phi_stream_partitioned",
+      "historical_binary_sha256": "fed1b16b7daee959d6e4299232f0ad5025cb4bba9f179cf4cb3e0bc7eff28cc0",
+      "bound_source": "new_pointwise/d167/phi_stream_partitioned.cpp",
+      "bound_source_sha256": "011f27ee78cc2a8ba105429c5b48ab18e58da6a1e538c1e04ff2df87f2e4d851",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "new_pointwise/d173/phi_stream_partitioned",
+      "historical_binary_sha256": "fed1b16b7daee959d6e4299232f0ad5025cb4bba9f179cf4cb3e0bc7eff28cc0",
+      "bound_source": "new_pointwise/d173/phi_stream_partitioned.cpp",
+      "bound_source_sha256": "011f27ee78cc2a8ba105429c5b48ab18e58da6a1e538c1e04ff2df87f2e4d851",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round15/batch_000_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round15/batch_000_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round15/batch_001_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round15/batch_001_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round15/batch_002_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round15/batch_002_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round15/batch_003_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round15/batch_003_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round15/batch_004_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round15/batch_004_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round15/batch_005_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round15/batch_005_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round15/batch_006_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round15/batch_006_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round15/batch_007_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round15/batch_007_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round15/batch_008_d173/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round15/batch_008_d173/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_000_d173/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_000_d173/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_001_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_001_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_002_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_002_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_003_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_003_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_004_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_004_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_005_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_005_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_006_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_006_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_007_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_007_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_008_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_008_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_009_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_009_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_010_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_010_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_011_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_011_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_012_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_012_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_013_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_013_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_014_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_014_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_015_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_015_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_016_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_016_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_017_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_017_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_018_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_018_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_019_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_019_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_020_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_020_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_021_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_021_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_022_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_022_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_023_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_023_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_024_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_024_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_025_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_025_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_026_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_026_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_027_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_027_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_028_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_028_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_029_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_029_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_030_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_030_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_031_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_031_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_032_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_032_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_033_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_033_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_034_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_034_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_035_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_035_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_036_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_036_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_037_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_037_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_038_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_038_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_039_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_039_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_040_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_040_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_041_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_041_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_042_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_042_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_043_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_043_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_044_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_044_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_045_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_045_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_046_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_046_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_047_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_047_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_048_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_048_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_049_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_049_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_050_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_050_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_051_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_051_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_052_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_052_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_053_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_053_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_054_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_054_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_055_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_055_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_056_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_056_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_057_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_057_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_058_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_058_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_059_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_059_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_060_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_060_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_061_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_061_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_062_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_062_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_063_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_063_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_064_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_064_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_065_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_065_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_066_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_066_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_067_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_067_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_068_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_068_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_069_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_069_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_070_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_070_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_071_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_071_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_072_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_072_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_073_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_073_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_074_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_074_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_075_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_075_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_076_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_076_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_077_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_077_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_078_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_078_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_079_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_079_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    },
+    {
+      "path": "agents/finite_extension_round20/batch_080_d167/independent_modular_det",
+      "historical_binary_sha256": "46fb73c73880e3fd5c31c2d18f354a7bfa39e58720d63ba5ab6e8c2839d5f5c9",
+      "bound_source": "agents/finite_extension_round20/batch_080_d167/independent_modular_det.cpp",
+      "bound_source_sha256": "5d6ea13aaeaf059fd38f7e953e95a105907a733ecbb9e0414199928c8e0e7d31",
+      "scope": "Historical executable byte identity omitted; its original C++ source is verified. No executable rebuild or determinant recomputation is claimed by this check."
+    }
+  ],
+  "batches": 90,
+  "candidate_sequence_sha256": "5399b99b3aace9bf17fcf322d40dc8eaf3e2b8a2cb2cd7c9eb5a3c5afa4c9809",
+  "reviewer_sha256": "ab45d4e93877be527d18a273f165b78438cb6c9887287b4ff3937b5a7ae0786b",
+  "scope": "Fresh exhaustive CRT and modular compositeness checks, full source row parsing and saved unit determinant receipt checks; no fresh determinant reconstruction or general-parameter certification.",
+  "seconds": 29.588346700009424
+}

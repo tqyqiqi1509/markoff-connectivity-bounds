@@ -11,3 +11,7 @@ The current input map additionally recovers the large base-range data that were 
 File identity, certificate evaluation, source generation and a mathematical proof are distinct checks. The current fresh receipts state their actual scope. Large historical rank matrices are supplied with exact sources/certificates; all such matrices were not regenerated in this revision. The article supplies the theoretical reductions.
 
 See REPRODUCE.md for commands. The original metadata may refer to historical review notes and process receipts omitted from this layer; those records are not additional mathematical premises. Original documents and failed routes belong to layer 1.
+
+## Review correction inputs
+
+The additional data volume closes the listed cross-layer dependencies. See `REVIEW_FIXES.md` for the supported replay commands and `RANK_ROW_RECOVERY.md` for reconstruction of the 32 historical raw coefficient families. Historical certificates retain their original bytes and hashes; the replacement interface reconstructs mathematical coefficients, not historical JSONL serialization.

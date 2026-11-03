@@ -25,9 +25,12 @@ def main():
     data = ns['load'](new / 'CRT57_1E66_INDEPENDENT_CLASSIFICATION.json')
     ds = data['selected_d']
     assert len(ds) == len(set(ds)) == 57
+    parameter_index = json.loads((reviewer.parent.parent / 'indices/general_rank_inputs.json').read_text(encoding='utf8'))
+    assert ds == [entry['d'] for entry in parameter_index]
     rebuilt = ns['rebuild'](ds, 1304, 10**66)
     vals = rebuilt.pop('values')
     assert list(map(str, vals)) == data['candidate_list'] and len(vals) == 27985
+    assert [int(row['n']) for row in data['records']] == vals
     assert all(n > 10**56 for n in vals)
     sequence_sha = hashlib.sha256(('\n'.join(map(str, vals))+'\n').encode()).hexdigest()
     assert sequence_sha == '5399b99b3aace9bf17fcf322d40dc8eaf3e2b8a2cb2cd7c9eb5a3c5afa4c9809'
